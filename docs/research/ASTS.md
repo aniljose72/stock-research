@@ -1,7 +1,8 @@
 ---
 title: "ASTS (AST SpaceMobile) & ASTX (2x Leveraged ETF) Analysis"
 last_updated: 2026-10-22T02:52:37-04:00
-filename: ASTS
+permalink: /research/ASTS/
+layout: research
 current_price: "~$20-25 range (ASTS)"
 source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
 ---

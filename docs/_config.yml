@@ -3,6 +3,7 @@ description: "Public stock analysis for RKLB, ASTS, SPCX"
 theme: minima
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
@@ -11,18 +12,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-collections:
-  research:
-    output: true
-    permalink: /:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: "research"
-    values:
-      layout: "research"
 
 exclude:
   - README.md

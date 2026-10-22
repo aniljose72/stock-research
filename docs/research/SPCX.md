@@ -1,7 +1,8 @@
 ---
 title: "SPCX (SpaceX) Analysis"
 last_updated: 2026-10-22T02:52:37-04:00
-filename: SPCX
+permalink: /research/SPCX/
+layout: research
 current_price: "~$147-159"
 ipo_price: "$135 (June 2026)"
 source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"

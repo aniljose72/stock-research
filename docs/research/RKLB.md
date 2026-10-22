@@ -1,7 +1,8 @@
 ---
 title: "RKLB (Rocket Lab) Analysis"
 last_updated: 2026-10-22T02:52:37-04:00
-filename: RKLB
+permalink: /research/RKLB/
+layout: research
 current_price: "~$52-53"
 source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
 ---
