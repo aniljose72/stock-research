@@ -8,6 +8,8 @@ relative_links:
   enabled: true
   collections: true
 
+permalink: pretty
+
 markdown: kramdown
 kramdown:
   input: GFM
