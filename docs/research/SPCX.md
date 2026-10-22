@@ -39,11 +39,11 @@ tags: [SPCX, Finance, Analysis]
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Sector Update: Tech Stocks Fall Late Afternoon | Neutral | 2026-10-22 14:51 |
-| SpaceX Says It’s on Pace to Bring 200,000 Nvidia Chips Online a Month. Here’s Why Jensen Huang Calls | Neutral | 2026-10-22 14:48 |
-| Elon Musk Reportedly Backs Skydance With $1B, While Malone Eyes $8–10B SpaceX Entry | Neutral | 2026-10-22 13:25 |
-| Early SpaceX investor Diamandis: Elon’s empire could hit $1 trillion revenue by 2028-29 | Neutral | 2026-10-22 13:20 |
-| Tesla, SpaceX, Meta, Lockheed Martin, Lam Research, Spotify, and More Stocks That Explain Today’s Ma | Neutral | 2026-10-22 12:59 |
+| Stock Market Today, Oct. 22: SpaceX Earnings Beat Sparks Profit-Taking | Neutral | 2026-10-22 16:25 |
+| Musk wants to merge SpaceX and Tesla: Here's what to know | Neutral | 2026-10-22 16:10 |
+| SpaceX’s Booming Data Center Business Is Fueled by Illegal Turbines, Lawsuit Alleges | Neutral | 2026-10-22 16:07 |
+| Musk Says AI Is Short on Power. Here’s Why Constellation Energy Still Has a Rules Problem | Neutral | 2026-10-22 15:29 |
+| A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal? | Neutral | 2026-10-22 15:16 |
 
 ## Recent SEC Filings
 
