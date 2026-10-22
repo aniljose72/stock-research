@@ -1,11 +1,7 @@
 ---
 title: "ASTS (AST SpaceMobile) & ASTX Analysis"
-date: 2026-10-22
-categories: [Research]
-tags: [ASTS, ASTX, ASTSpaceMobile, Satellite, Telecom]
-pin: false
-math: false
-mermaid: false
+nav_order: 2
+parent: "Research"
 ---
 
 ## Critical Note

@@ -1,11 +1,7 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-date: 2026-10-22
-categories: [Research]
-tags: [SPCX, SpaceX, Starlink, Starship, TSMC]
-pin: false
-math: false
-mermaid: false
+nav_order: 3
+parent: "Research"
 ---
 
 ## X/Twitter Sentiment & Key Discussions

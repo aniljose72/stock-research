@@ -1,84 +1,46 @@
 title: "Stock Research"
 description: "Public stock analysis for RKLB, ASTS, SPCX"
-remote_theme: "cotes2020/jekyll-theme-chirpy"
+remote_theme: "just-the-docs/just-the-docs"
 plugins:
   - jekyll-remote-theme
-  - jekyll-relative-links
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-feed
 
 url: "https://aniljose72.github.io"
 baseurl: "/stock-research"
 
-# Theme preferences
-theme_mode: "dark"  # dark, light, or auto
-img_cdn: ""
-avatar: "/assets/img/favicon.png"
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+
+# UI
+color_scheme: "dark"
+heading_anchors: true
+permalink: pretty
 
 # Navigation
-header_pages:
-  - index.md
-  - research/RKLB.md
-  - research/ASTS.md
-  - research/SPCX.md
-
-# Sidebar
-sidebar:
-  show_sidebar: true
-  show_toc: true
-
-# Search
-search:
-  provider: "algolia"
-  algolia:
-    app_id: ""
-    index_name: ""
-    api_key: ""
-
-# Comments (optional - disable for now)
-comments:
-  provider: ""
-  disqus:
-    shortname: ""
-
-# Analytics
-google_analytics:
-  id: ""
-
-# Social
-social:
-  name: "Stock Research"
-  links:
-    - "https://github.com/aniljose72/stock-research"
+nav_external_links:
+  - title: "GitHub Repository"
+    url: "https://github.com/aniljose72/stock-research"
+    hide_icon: false
 
 # Footer
-footer:
-  since: 2026
-  links:
-    - "https://github.com/aniljose72/stock-research"
+footer_content: "Copyright &copy; 2026 Stock Research. <a href=\"https://github.com/aniljose72/stock-research\">Source on GitHub</a>. Not financial advice."
 
-# Build settings
+# Aux links
+aux_links:
+  "GitHub Repository": "https://github.com/aniljose72/stock-research"
+
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
-collections:
-  research:
-    output: true
-    permalink: /research/:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: "research"
-    values:
-      layout: "post"
-      category: "Research"
 
 exclude:
   - README.md

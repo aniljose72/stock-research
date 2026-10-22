@@ -1,11 +1,7 @@
 ---
 title: "RKLB (Rocket Lab) Analysis"
-date: 2026-10-22
-categories: [Research]
-tags: [RKLB, RocketLab, Space, Neutron]
-pin: false
-math: false
-mermaid: false
+nav_order: 1
+parent: "Research"
 ---
 
 ## X/Twitter Sentiment & Key Discussions
