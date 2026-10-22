@@ -24,20 +24,31 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Sync research to docs/_research
+      - name: Sync research to docs/research
         run: |
-          # Create docs/_research if it doesn't exist
-          mkdir -p docs/_research
+          # Create docs/research if it doesn't exist
+          mkdir -p docs/research
 
-          # Copy research files
-          cp research/*.md docs/_research/
+          # Copy research files and update front matter for GitHub Pages
+          for file in research/*.md; do
+            filename=$(basename "$file" .md)
+            # Read the file, update front matter if needed
+            if ! grep -q "permalink:" "$file"; then
+              # Add permalink and layout to front matter
+              sed -i "/^---$/,/^---$/ {
+                /^filename:/d
+                /^title:/a permalink: /research/$filename/\nlayout: research
+              }" "$file"
+            fi
+            cp "$file" "docs/research/"
+          done
 
           # Check if there are changes
-          if git diff --quiet docs/_research/; then
+          if git diff --quiet docs/research/; then
             echo "No changes to research files"
           else
             echo "Changes detected, committing..."
-            git add docs/_research/
-            git commit -m "chore: sync research files to docs/_research [skip ci]"
+            git add docs/research/
+            git commit -m "chore: sync research files to docs/research [skip ci]"
             git push
           fi
