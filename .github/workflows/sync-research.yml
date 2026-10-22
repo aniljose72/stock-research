@@ -29,7 +29,7 @@ jobs:
           # Create docs/research if it doesn't exist
           mkdir -p docs/research
 
-          # Copy research files as-is (front matter already configured for GitHub Pages)
+          # Copy research files as-is
           cp research/*.md docs/research/
 
           # Check if there are changes
