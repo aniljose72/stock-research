@@ -1,15 +1,13 @@
----
-title: "SPCX (SpaceX) Analysis"
-last_updated: 2026-10-22T02:52:37-04:00
-permalink: /research/SPCX/
-layout: research
-current_price: "~$147-159"
-ipo_price: "$135 (June 2026)"
-slug: SPCX
-source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
+# SPCX (SpaceX) Analysis
+
+**Last Updated:** 2026-10-22T02:52:37-04:00 (EDT)  
+**Current Price:** ~$147-159 (Post-IPO June 2026)  
+**IPO Price:** $135 (June 2026)  
+**Source:** X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit
+
 ---
 
-## X/Twitter Sentiment & Key Discussions
+## **X/Twitter Sentiment & Key Discussions**
 - **IPO price**: $135 (June 2026); currently ~$147-159 (+9-18% from IPO)
 - **Major catalyst**: TSMC partnership talks for "Terafab" Texas chip venture (AI chips for Optimus, Cybercab, Starlink)
 - **Morgan Stanley**: Overweight, $300 PT (2x current)
@@ -19,7 +17,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Key Catalysts
+## **Key Catalysts**
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
@@ -31,7 +29,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Buy/Sell Recommendation
+## **Buy/Sell Recommendation**
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
@@ -44,7 +42,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Portfolio Allocation
+## **Portfolio Allocation**
 
 | Horizon | Conviction | Max Position | Key Risk |
 |---------|------------|--------------|----------|
@@ -52,13 +50,13 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Immediate Action Items
+## **Immediate Action Items**
 
 1. Any pullback to $140-145 is a gift for long-term holders. TSMC news flow is the watch-item.
 
 ---
 
-## Key X/Twitter Accounts to Follow
+## **Key X/Twitter Accounts to Follow**
 
 | Account | Focus |
 |---------|-------|

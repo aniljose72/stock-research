@@ -1,14 +1,12 @@
----
-title: "RKLB (Rocket Lab) Analysis"
-last_updated: 2026-10-22T02:52:37-04:00
-permalink: /research/RKLB/
-layout: research
-current_price: "~$52-53"
-slug: RKLB
-source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
+# RKLB (Rocket Lab) Analysis
+
+**Last Updated:** 2026-10-22T02:52:37-04:00 (EDT)  
+**Current Price:** ~$52-53  
+**Source:** X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit
+
 ---
 
-## X/Twitter Sentiment & Key Discussions
+## **X/Twitter Sentiment & Key Discussions**
 - **Massive mention spike**: 1,942 mentions/day on X (up 245% vs average) — signals breaking news
 - **Dominant narrative**: Neutron rocket delay to 2027 (from Q4 2026) — second major delay
 - **Bull case on X**: "Insane discount," "overreaction," Cathie Wood's ARK buying the dip (~$55 avg)
@@ -16,7 +14,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Key Catalysts
+## **Key Catalysts**
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
@@ -27,7 +25,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Buy/Sell Recommendation
+## **Buy/Sell Recommendation**
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
@@ -40,7 +38,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Portfolio Allocation
+## **Portfolio Allocation**
 
 | Horizon | Conviction | Max Position | Key Risk |
 |---------|------------|--------------|----------|
@@ -48,13 +46,13 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Immediate Action Items
+## **Immediate Action Items**
 
 1. Watch $50 support — if holds with volume, add. Cathie Wood buying is strong signal.
 
 ---
 
-## Key X/Twitter Accounts to Follow
+## **Key X/Twitter Accounts to Follow**
 
 | Account | Focus |
 |---------|-------|
@@ -66,3 +64,5 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 ---
 
 **Disclaimer**: This is research based on public X/Twitter sentiment and financial data — **not financial advice**. Always do your own due diligence and consider position sizing/risk tolerance.
+
+
