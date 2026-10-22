@@ -8,6 +8,8 @@ relative_links:
   enabled: true
   collections: true
 
+baseurl: "/stock-research"
+
 permalink: pretty
 
 markdown: kramdown

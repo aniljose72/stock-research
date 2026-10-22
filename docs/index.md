@@ -11,9 +11,9 @@ Public research for **RKLB**, **ASTS/ASTX**, **SPCX** based on X (Twitter) senti
 
 ## Research Posts
 
-- [RKLB (Rocket Lab) Analysis](/research/RKLB/) — Last Updated: October 22, 2026 | Current Price: ~$52-53
-- [ASTS (AST SpaceMobile) & ASTX (2x Leveraged ETF) Analysis](/research/ASTS/) — Last Updated: October 22, 2026 | Current Price: ~$20-25 range
-- [SPCX (SpaceX) Analysis](/research/SPCX/) — Last Updated: October 22, 2026 | Current Price: ~$147-159
+- [RKLB (Rocket Lab) Analysis]({{ site.baseurl }}/research/RKLB/) — Last Updated: October 22, 2026 | Current Price: ~$52-53
+- [ASTS (AST SpaceMobile) & ASTX (2x Leveraged ETF) Analysis]({{ site.baseurl }}/research/ASTS/) — Last Updated: October 22, 2026 | Current Price: ~$20-25 range
+- [SPCX (SpaceX) Analysis]({{ site.baseurl }}/research/SPCX/) — Last Updated: October 22, 2026 | Current Price: ~$147-159
 
 ---
 
