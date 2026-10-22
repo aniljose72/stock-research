@@ -1,18 +1,18 @@
----
-title: "ASTS (AST SpaceMobile) & ASTX (2x Leveraged ETF) Analysis"
-last_updated: 2026-10-22T02:52:37-04:00
-permalink: /research/ASTS/
-layout: research
-current_price: "~$20-25 range (ASTS)"
-source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
+# ASTS (AST SpaceMobile) & ASTX (2x Leveraged ETF) Analysis
+
+**Last Updated:** 2026-10-22T02:52:37-04:00 (EDT)  
+**ASTS Current Price:** ~$20-25 range  
+**ASTX:** Tradr 2X Long ASTS Daily ETF  
+**Source:** X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit
+
 ---
 
-## Critical Note
+## **Critical Note**
 **ASTX is a 2x leveraged daily ETF on ASTS — not for long-term holding due to volatility decay. Analyze ASTS fundamentals for investment decisions.**
 
 ---
 
-## X/Twitter Sentiment & Key Discussions (ASTS)
+## **X/Twitter Sentiment & Key Discussions (ASTS)**
 - **Major catalyst**: AT&T definitive commercial agreement (through 2030), 2.7% equity stake (6.2M shares)
 - **Verizon also partnered** — dual-carrier validation
 - **Sentiment shift**: Stocktwits sentiment slipped to "neutral" from "bullish" with 31% volume decline
@@ -21,7 +21,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Key Catalysts
+## **Key Catalysts**
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
@@ -32,7 +32,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Buy/Sell Recommendation
+## **Buy/Sell Recommendation**
 
 | Instrument | Action | Price/Level | Rationale |
 |------------|--------|-------------|-----------|
@@ -45,7 +45,7 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Portfolio Allocation
+## **Portfolio Allocation**
 
 | Instrument | Horizon | Conviction | Max Position | Key Risk |
 |------------|---------|------------|--------------|----------|
@@ -54,13 +54,13 @@ source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Red
 
 ---
 
-## Immediate Action Items
+## **Immediate Action Items**
 
 1. Monitor Block 2 satellite launch updates (next catalyst). Avoid ASTX for anything >1 day.
 
 ---
 
-## Key X/Twitter Accounts to Follow
+## **Key X/Twitter Accounts to Follow**
 
 | Account | Focus |
 |---------|-------|
