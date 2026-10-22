@@ -1,54 +1,29 @@
 title: "Stock Research"
 description: "Public stock analysis for RKLB, ASTS, SPCX"
-remote_theme: "just-the-docs/just-the-docs"
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-feed
 
 baseurl: "/stock-research"
 url: "https://aniljose72.github.io"
 
-# Search
-search_enabled: true
-search:
-  heading_level: 2
-  previews: 3
-  preview_words_before: 5
-  preview_words_after: 10
-  tokenizer_separator: /[\s/]+/
-  rel_url: true
+# Minima theme customization
+minima:
+  skin: dark
+  social_links:
+    github: aniljose72/stock-research
 
-# Navigation
-heading_anchors: true
-permalink: pretty
+# Navigation (uses page order)
+header_pages:
+  - index.md
+  - research/RKLB.md
+  - research/ASTS.md
+  - research/SPCX.md
 
-# UI
-color_scheme: "dark"
-callouts_level: "quiet"
-callouts:
-  highlight:
-    color: "#1b3a2f"
-    title_color: "#2e7d4a"
-  important:
-    color: "#3a1b1b"
-    title_color: "#c0392b"
-  note:
-    color: "#3a351b"
-    title_color: "#d4a017"
-
-# Footer
-footer_content: "Copyright &copy; 2026 Stock Research. <a href=\"https://github.com/aniljose72/stock-research\">Source on GitHub</a>. Not financial advice."
-
-# Aux links
-aux_links:
-  "GitHub Repository": "https://github.com/aniljose72/stock-research"
-
-# Social
-gh_edit_repository: "https://github.com/aniljose72/stock-research"
-gh_edit_branch: "main"
-gh_edit_source: "docs"
-gh_edit_view_mode: "tree"
+# Search (minima doesn't have built-in search, but we can add)
+# For now use Google search or Algolia
 
 markdown: kramdown
 kramdown:
@@ -62,3 +37,4 @@ exclude:
   - .gitignore
   - .git/
   - assets/
+  - .github/
