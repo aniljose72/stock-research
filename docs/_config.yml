@@ -1,34 +1,84 @@
 title: "Stock Research"
 description: "Public stock analysis for RKLB, ASTS, SPCX"
-theme: minima
+remote_theme: "cotes2020/jekyll-theme-chirpy"
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-feed
 
-baseurl: "/stock-research"
 url: "https://aniljose72.github.io"
+baseurl: "/stock-research"
 
-# Minima theme customization
-minima:
-  skin: dark
-  social_links:
-    github: aniljose72/stock-research
+# Theme preferences
+theme_mode: "dark"  # dark, light, or auto
+img_cdn: ""
+avatar: "/assets/img/favicon.png"
 
-# Navigation (uses page order)
+# Navigation
 header_pages:
   - index.md
   - research/RKLB.md
   - research/ASTS.md
   - research/SPCX.md
 
-# Search (minima doesn't have built-in search, but we can add)
-# For now use Google search or Algolia
+# Sidebar
+sidebar:
+  show_sidebar: true
+  show_toc: true
 
+# Search
+search:
+  provider: "algolia"
+  algolia:
+    app_id: ""
+    index_name: ""
+    api_key: ""
+
+# Comments (optional - disable for now)
+comments:
+  provider: ""
+  disqus:
+    shortname: ""
+
+# Analytics
+google_analytics:
+  id: ""
+
+# Social
+social:
+  name: "Stock Research"
+  links:
+    - "https://github.com/aniljose72/stock-research"
+
+# Footer
+footer:
+  since: 2026
+  links:
+    - "https://github.com/aniljose72/stock-research"
+
+# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+collections:
+  research:
+    output: true
+    permalink: /research/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "post"
+      category: "Research"
 
 exclude:
   - README.md
@@ -36,5 +86,8 @@ exclude:
   - stock_research/
   - .gitignore
   - .git/
-  - assets/
   - .github/
+  - assets/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock

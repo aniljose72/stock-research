@@ -1,8 +1,11 @@
 ---
 title: "ASTS (AST SpaceMobile) & ASTX Analysis"
-description: "AT&T commercial agreement, Block 2 launches critical, ASTX 2x leveraged ETF"
-nav_order: 2
-parent: "Research"
+date: 2026-10-22
+categories: [Research]
+tags: [ASTS, ASTX, ASTSpaceMobile, Satellite, Telecom]
+pin: false
+math: false
+mermaid: false
 ---
 
 ## Critical Note

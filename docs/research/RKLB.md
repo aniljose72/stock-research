@@ -1,8 +1,11 @@
 ---
 title: "RKLB (Rocket Lab) Analysis"
-description: "Neutron rocket delay to 2027, backlog >$3B, Cathie Wood buying the dip"
-nav_order: 1
-parent: "Research"
+date: 2026-10-22
+categories: [Research]
+tags: [RKLB, RocketLab, Space, Neutron]
+pin: false
+math: false
+mermaid: false
 ---
 
 ## X/Twitter Sentiment & Key Discussions

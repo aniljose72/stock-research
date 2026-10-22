@@ -1,8 +1,11 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-description: "TSMC Terafab talks, Starlink D2C rollout, Morgan Stanley $300 PT"
-nav_order: 3
-parent: "Research"
+date: 2026-10-22
+categories: [Research]
+tags: [SPCX, SpaceX, Starlink, Starship, TSMC]
+pin: false
+math: false
+mermaid: false
 ---
 
 ## X/Twitter Sentiment & Key Discussions

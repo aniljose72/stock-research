@@ -1,6 +1,7 @@
 ---
-title: Stock Research
+title: "Stock Research"
 description: "Public stock analysis for RKLB, ASTS, SPCX"
+layout: home
 ---
 
 # Stock Research Analysis
