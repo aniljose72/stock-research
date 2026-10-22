@@ -29,19 +29,8 @@ jobs:
           # Create docs/research if it doesn't exist
           mkdir -p docs/research
 
-          # Copy research files and update front matter for GitHub Pages
-          for file in research/*.md; do
-            filename=$(basename "$file" .md)
-            # Read the file, update front matter if needed
-            if ! grep -q "permalink:" "$file"; then
-              # Add permalink and layout to front matter
-              sed -i "/^---$/,/^---$/ {
-                /^filename:/d
-                /^title:/a permalink: /research/$filename/\nlayout: research
-              }" "$file"
-            fi
-            cp "$file" "docs/research/"
-          done
+          # Copy research files as-is (front matter already configured for GitHub Pages)
+          cp research/*.md docs/research/
 
           # Check if there are changes
           if git diff --quiet docs/research/; then
