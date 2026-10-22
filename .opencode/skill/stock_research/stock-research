@@ -1,0 +1,20 @@
+#!/bin/bash
+# Stock Research CLI Wrapper
+# Usage: stock-research --ticker RKLB [--send-alert --provider signal --to +12144783359]
+
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/../../.." && pwd)"
+
+# Default configuration
+export GITHUB_REPO="${GITHUB_REPO:-https://github.com/aniljose72/stock-research}"
+export PUBLIC_DOCS="${PUBLIC_DOCS:-https://aniljose72.github.io/stock-research}"
+export SIGNAL_NUMBER="${SIGNAL_NUMBER:+12144783359}"
+export OUTPUT_DIR="${OUTPUT_DIR:-research}"
+
+# Change to project root
+cd "$PROJECT_ROOT"
+
+# Run the Python module
+python3 -m stock_research "$@"

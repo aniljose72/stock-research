@@ -1,0 +1,37 @@
+---
+name: "Stock Research Analysis"
+description: "Research stock sentiment from X/Twitter, financial news, and generate analysis markdown files with public GitHub Pages deployment"
+version: "1.0.0"
+author: "aniljose"
+tags: ["finance", "research", "stocks", "sentiment", "github-pages"]
+---
+
+# Stock Research Analysis Skill
+
+This skill automates the process of researching stocks by:
+1. Searching X/Twitter sentiment and financial news
+2. Analyzing key catalysts, buy/sell recommendations
+3. Generating markdown analysis files
+4. Deploying to GitHub Pages (Just the Docs theme)
+5. Sending alerts via Email, SMS, Signal, or WhatsApp
+
+## Usage
+
+```bash
+# Research a single ticker
+opencode skill stock_research --ticker RKLB
+
+# Research multiple tickers
+opencode skill stock_research --tickers "RKLB,ASTS,SPCX"
+
+# With custom output directory
+opencode skill stock_research --ticker AAPL --output ./research
+```
+
+## Configuration
+
+Set these environment variables or create `.env`:
+- `GITHUB_REPO` - Your GitHub repo URL (default: https://github.com/aniljose72/stock-research)
+- `PUBLIC_DOCS` - GitHub Pages URL (default: https://aniljose72.github.io/stock-research)
+- `SIGNAL_NUMBER` - Your Signal number for alerts
+- `EMAIL_FROM` / `EMAIL_TO` / `EMAIL_APP_PASSWORD` - For email alerts

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Stock Research CLI - Global wrapper
+# Install: ln -s /Users/aniljose/workspace/stock-research/stock-research /usr/local/bin/stock-research
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$SCRIPT_DIR"
+SKILL_DIR="$PROJECT_ROOT/.opencode/skill/stock_research"
+
+# Run from project root
+cd "$PROJECT_ROOT"
+python3 "$SKILL_DIR/research.py" "$@"
