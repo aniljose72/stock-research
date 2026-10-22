@@ -1,6 +1,6 @@
 title: "Stock Research"
 description: "Public stock analysis for RKLB, ASTS, SPCX"
-theme: minima
+# theme: minima  # Disabled - using custom layouts only
 plugins:
   - jekyll-relative-links
 
