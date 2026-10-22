@@ -1,0 +1,43 @@
+name: Sync Research to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'research/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-research:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync research to docs/_research
+        run: |
+          # Create docs/_research if it doesn't exist
+          mkdir -p docs/_research
+
+          # Copy research files
+          cp research/*.md docs/_research/
+
+          # Check if there are changes
+          if git diff --quiet docs/_research/; then
+            echo "No changes to research files"
+          else
+            echo "Changes detected, committing..."
+            git add docs/_research/
+            git commit -m "chore: sync research files to docs/_research [skip ci]"
+            git push
+          fi
