@@ -1,41 +1,65 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-nav_order: 3
-parent: "Research"
+date: 2026-10-22
+categories: [Research]
+tags: [SPCX, Finance, Analysis]
 ---
+
+## Current Price & Key Metrics
+- **Current Price**: $144.75 (2026-10-22)
+- **Market Cap**: $1908.1B
+- **P/E Ratio**: N/A
+- **52-Week Range**: $104.83 - $225.64
+- **RSI**: 40.2
+- **SMA20/SMA50**: $155.08 / $149.12
+- **Bollinger Bands**: $137.52 - $172.64 (Width: 22.6%, %B: 0.206)
 
 ## X/Twitter Sentiment & Key Discussions
-- **IPO price**: $135 (June 2026); currently ~$147-159 (+9-18% from IPO)
-- **Major catalyst**: TSMC partnership talks for "Terafab" Texas chip venture (AI chips for Optimus, Cybercab, Starlink)
-- **Morgan Stanley**: Overweight, $300 PT (2x current)
-- **Market cap**: ~$2.5T (breached post-earnings)
-- **Bear case on X (Gary Black)**: "Megacap ($1.8-2.5T), upside limited"
-- **Earnings**: 161% revenue growth, $4.4B net income, strong AI sales
+- **Estimated 24h Mentions**: 0
+- **Bull Case**: Monitor news flow
+- **Bear Case**: Monitor risk factors
+- **Consensus**: Mean PT: $256.24; Analysts leaning bullish
 
 ---
+
+## Analyst Targets
+- **Mean Target**: $256.24 (N/A)
+- **High/Low**: $800.00 / $70.00
+- **Ratings**: Strong Buy: 34, Buy: 0, Hold: 0, Sell: 0, Strong Sell: 0
+
+---
+
+## Technical Notes
+- RSI 40 - Neutral
+- BB: $137.52 - $172.64 (Width: 22.6%)
+- %B: 0.21 - Middle range
+- SMA20 > SMA50 (Bullish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| TSMC/Terafab chip partnership | Major positive (AI vertical integration) | Early talks |
-| Starlink Direct-to-Cell rollout | Revenue acceleration | 2025-2027 |
-| Starship orbital refueling demo | NASA Artemis critical path | 2025-2026 |
-| Index inclusion (S&P 500, Nasdaq-100) | Forced buying | Likely 2025-2026 |
-| Elon Musk distraction risk (X, Tesla, xAI) | Negative sentiment | Ongoing |
+| Sector Update: Tech Stocks Fall Late Afternoon | Neutral | 2026-10-22 14:51 |
+| SpaceX Says It’s on Pace to Bring 200,000 Nvidia Chips Online a Month. Here’s Why Jensen Huang Calls | Neutral | 2026-10-22 14:48 |
+| Elon Musk Reportedly Backs Skydance With $1B, While Malone Eyes $8–10B SpaceX Entry | Neutral | 2026-10-22 13:25 |
+| Early SpaceX investor Diamandis: Elon’s empire could hit $1 trillion revenue by 2028-29 | Neutral | 2026-10-22 13:20 |
+| Tesla, SpaceX, Meta, Lockheed Martin, Lam Research, Spotify, and More Stocks That Explain Today’s Ma | Neutral | 2026-10-22 12:59 |
 
----
+## Recent SEC Filings
 
-## Buy/Sell Recommendation
+| Form | Date | Link |
+|------|------|------|
+| 4 | 2026-09-29 | [Link](https://www.sec.gov/Archives/edgar/data/1836170/000123191926001406/xslF345X06/form4-09302026_010959.xml) |
+| 3 | 2026-09-24 | [Link](https://www.sec.gov/Archives/edgar/data/1836170/000123191926001226/xslF345X06/form3-09242026_100906.xml) |
+| SC 13G | 2024-02-13 | [Link](https://www.sec.gov/Archives/edgar/data/1836170/000121390024013438/ea193269-13glav6_arrivent.htm) |
+
+## Buy/Sell Recommendations
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| **Core Position Buy** | $135-145 (IPO vicinity) | Long-term AI/space compounder; TSMC deal = moat widening |
-| **Add on Dips** | $125-135 | Below IPO = forced selling / tax-loss harvesting window |
-| **Trim** | $200-220 | ~1.5x IPO; valuation rich but not bubble |
-| **Stop-loss (traders)** | Below $120 | Breaks IPO support; momentum unwind |
+| Strong Buy | $144.75 | 77% upside to mean PT $256.24 |
 
-> **Consensus**: X sentiment **strongly bullish** on TSMC/AI narrative; viewed as **"Magnificent 8" candidate**. Gary Black's "limited upside" is minority view.
+> **Consensus**: Mean PT: $256.24; Analysts leaning bullish
 
 ---
 
@@ -43,24 +67,25 @@ parent: "Research"
 
 | Horizon | Conviction | Max Position | Key Risk |
 |---------|------------|--------------|----------|
-| 5+ years | Very High | 5-10% | Valuation; Musk key-man risk |
+| 3-12 months | Medium | 2-5% | Monitor news flow and technical levels |
 
 ---
 
 ## Immediate Action Items
 
-1. Any pullback to $140-145 is a gift for long-term holders. TSMC news flow is the watch-item.
+1. Monitor $SPCX at key levels
+2. Review earnings calendar
+3. Watch for catalyst news
 
----
-
-## Key X/Twitter Accounts to Follow
+## Key Resources
 
 | Account | Focus |
 |---------|-------|
-| @amitisinvesting | SPCX/TSMC coverage |
-| @GaryBlack00 | SPCX valuation skeptic |
-| @Stocktwits | Sentiment tracking |
+| $SPCX on X | Real-time sentiment |
+| Finnhub | Analyst targets & news |
+| SEC EDGAR | Official filings |
+
 
 ---
 
-**Disclaimer**: This is research based on public X/Twitter sentiment and financial data — **not financial advice**. Always do your own due diligence and consider position sizing/risk tolerance.
+**Disclaimer**: This is research based on public sentiment and financial data — **not financial advice**. Always do your own due diligence and consider position sizing/risk tolerance.

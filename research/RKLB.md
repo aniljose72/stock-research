@@ -1,68 +1,91 @@
-# RKLB (Rocket Lab) Analysis
+---
+title: "RKLB (Rocket Lab) Analysis"
+date: 2026-10-22
+categories: [Research]
+tags: [RKLB, Finance, Analysis]
+---
 
-**Last Updated:** 2026-10-22T02:52:37-04:00 (EDT)  
-**Current Price:** ~$52-53  
-**Source:** X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit
+## Current Price & Key Metrics
+- **Current Price**: $51.22 (2026-10-22)
+- **Market Cap**: $32.8B
+- **P/E Ratio**: N/A
+- **52-Week Range**: $37.57 - $151.00
+- **RSI**: 16.0
+- **SMA20/SMA50**: $64.44 / $66.89
+- **Bollinger Bands**: $46.39 - $82.50 (Width: 56.0%, %B: 0.134)
+
+## X/Twitter Sentiment & Key Discussions
+- **Estimated 24h Mentions**: 0
+- **Bull Case**: Monitor news flow
+- **Bear Case**: Monitor risk factors
+- **Consensus**: Mean PT: $102.15; Analysts leaning bullish
 
 ---
 
-## **X/Twitter Sentiment & Key Discussions**
-- **Massive mention spike**: 1,942 mentions/day on X (up 245% vs average) — signals breaking news
-- **Dominant narrative**: Neutron rocket delay to 2027 (from Q4 2026) — second major delay
-- **Bull case on X**: "Insane discount," "overreaction," Cathie Wood's ARK buying the dip (~$55 avg)
-- **Bear case**: 65% below 52-week high ($151), cash burn concerns, repeated delays hurt credibility
+## Analyst Targets
+- **Mean Target**: $102.15 (N/A)
+- **High/Low**: $150.00 / $64.00
+- **Ratings**: Strong Buy: 20, Buy: 0, Hold: 0, Sell: 0, Strong Sell: 0
 
 ---
 
-## **Key Catalysts**
+## Technical Notes
+- RSI 16 - Oversold
+- BB: $46.39 - $82.50 (Width: 56.0%)
+- %B: 0.13 - Near lower band
+- SMA20 < SMA50 (Bearish)
+
+## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Neutron delay to 2027 | Negative (sold off 25% in a week) | Announced Oct 14 |
-| Backlog >$3B (up 29% QoQ, 178% YoY) | Positive | Ongoing |
-| Electron launch cadence steady | Positive | Ongoing |
-| Analyst PT cuts: GS $67, Citizens $90, KeyBanc $100, Stifel $132 | Mixed | Last week |
+| Stock Market Today, Oct. 22: SpaceX Earnings Beat Sparks Profit-Taking | Neutral | 2026-10-22 16:25 |
+| If I Could Only Buy 1 Space Stock After the Rocket Lab Crash, It Would Be This One | Neutral | 2026-10-22 12:50 |
+| SpaceX and AST SpaceMobile Sink 6%, Rocket Lab Falls 5% as Tech Selloff Hits High-Flying Space Stock | Neutral | 2026-10-22 10:56 |
+| Brown Advisory Sees Long-Term Potential in Rocket Lab Corporation (RKLB) | Neutral | 2026-10-22 08:43 |
+| SpaceX Rallied, but These 6 Space Stocks Are Still Waiting for Liftoff | Neutral | 2026-10-22 08:20 |
 
----
+## Recent SEC Filings
 
-## **Buy/Sell Recommendation**
+| Form | Date | Link |
+|------|------|------|
+| 40-APP/A | 2019-09-10 | [Link](https://www.sec.gov/Archives/edgar/data/1748719/000119312519242134/d801907d40appa.htm) |
+| 40-APP/A | 2019-06-03 | [Link](https://www.sec.gov/Archives/edgar/data/1748719/000119312519164217/d696891d40appa.htm) |
+| 40-APP | 2018-10-24 | [Link](https://www.sec.gov/Archives/edgar/data/1748719/000119312518306008/d636850d40app.htm) |
+
+## Buy/Sell Recommendations
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| **Accumulate (Long-term)** | $48-55 | Backlog growth + Electron cash flow + ARK buying; Neutron delay priced in |
-| **Add on weakness** | $42-48 | If breaks below $50 support (2026 lows) — margin of safety improves |
-| **Trim/Reduce** | $70-80 | Resistance zone; pre-Neutron launch hype may return |
-| **Stop-loss (traders)** | Below $40 | Would signal fundamental thesis broken |
+| Strong Buy | $51.22 | 99% upside to mean PT $102.15 |
 
-> **Consensus**: X sentiment is **"buy the dip"** for long-term holders; traders waiting for $50 break confirmation.
+> **Consensus**: Mean PT: $102.15; Analysts leaning bullish
 
 ---
 
-## **Portfolio Allocation**
+## Portfolio Allocation
 
 | Horizon | Conviction | Max Position | Key Risk |
 |---------|------------|--------------|----------|
-| 3-5 years | High | 3-5% | Neutron execution; cash burn |
+| 3-12 months | Medium | 2-5% | Monitor news flow and technical levels |
 
 ---
 
-## **Immediate Action Items**
+## Immediate Action Items
 
-1. Watch $50 support — if holds with volume, add. Cathie Wood buying is strong signal.
+1. Monitor $RKLB at key levels
+2. Review earnings calendar
+3. Watch for catalyst news
 
----
-
-## **Key X/Twitter Accounts to Follow**
+## Key Resources
 
 | Account | Focus |
 |---------|-------|
-| @RKLBMan | Rocket Lab bull, backlog updates |
-| @SeekingAlpha | RKLB analysis |
-| @Stocktwits | Sentiment tracking |
-| @AltIndex | X mention volume alerts |
+| $RKLB on X | Real-time sentiment |
+| Finnhub | Analyst targets & news |
+| SEC EDGAR | Official filings |
+
 
 ---
 
-**Disclaimer**: This is research based on public X/Twitter sentiment and financial data — **not financial advice**. Always do your own due diligence and consider position sizing/risk tolerance.
-
-
+**Disclaimer**: This is research based on public sentiment and financial data — **not financial advice**. Always do your own due diligence and consider position sizing/risk tolerance.

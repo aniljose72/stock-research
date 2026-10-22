@@ -1,73 +1,89 @@
-# ASTS (AST SpaceMobile) & ASTX (2x Leveraged ETF) Analysis
+---
+title: "ASTS (AST SpaceMobile) Analysis"
+date: 2026-10-22
+categories: [Research]
+tags: [ASTS, Finance, Analysis]
+---
 
-**Last Updated:** 2026-10-22T02:52:37-04:00 (EDT)  
-**ASTS Current Price:** ~$20-25 range  
-**ASTX:** Tradr 2X Long ASTS Daily ETF  
-**Source:** X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit
+## Current Price & Key Metrics
+- **Current Price**: $38.77 (2026-10-22)
+- **Market Cap**: $15.1B
+- **P/E Ratio**: N/A
+- **52-Week Range**: $37.80 - $133.86
+- **RSI**: 23.5
+- **SMA20/SMA50**: $51.76 / $58.31
+- **Bollinger Bands**: $34.37 - $69.15 (Width: 67.2%, %B: 0.127)
+
+## X/Twitter Sentiment & Key Discussions
+- **Estimated 24h Mentions**: 0
+- **Bull Case**: Monitor news flow
+- **Bear Case**: Monitor risk factors
+- **Consensus**: Mean PT: $74.28; Analysts leaning bullish
 
 ---
 
-## **Critical Note**
-**ASTX is a 2x leveraged daily ETF on ASTS — not for long-term holding due to volatility decay. Analyze ASTS fundamentals for investment decisions.**
+## Analyst Targets
+- **Mean Target**: $74.28 (N/A)
+- **High/Low**: $108.00 / $42.50
+- **Ratings**: Strong Buy: 12, Buy: 0, Hold: 0, Sell: 0, Strong Sell: 0
 
 ---
 
-## **X/Twitter Sentiment & Key Discussions (ASTS)**
-- **Major catalyst**: AT&T definitive commercial agreement (through 2030), 2.7% equity stake (6.2M shares)
-- **Verizon also partnered** — dual-carrier validation
-- **Sentiment shift**: Stocktwits sentiment slipped to "neutral" from "bullish" with 31% volume decline
-- **Bear case on X**: Starlink Direct-to-Cell competition eroding first-mover advantage (Seeking Alpha)
-- **No revenue yet**; projections: $600M by 2027, $1.7B by 2028
+## Technical Notes
+- RSI 24 - Oversold
+- BB: $34.37 - $69.15 (Width: 67.2%)
+- %B: 0.13 - Near lower band
+- SMA20 < SMA50 (Bearish)
 
----
-
-## **Key Catalysts**
+## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| AT&T commercial agreement | Major positive | Announced |
-| Block 2 BlueBird satellite launches | Critical for revenue | 2025-2026 |
-| Starlink D2C competition | Negative | Ongoing |
-| Regulatory/licensing progress | Positive | Ongoing |
+| RKLB Is Among Nasdaq’s Top 5 Losers So Far This Month, Yet Analysts See 90% Upside — Can Neutron Jus | Neutral | 2026-10-22 02:01 |
+| Forget the Anthropic IPO. Here Are 6 Stocks Worth Watching. | Neutral | 2026-10-21 21:41 |
+| Should You Sell Your AST SpaceMobile Stock Now? | Neutral | 2026-10-21 16:55 |
+| Stock Market Today, Oct. 21: Space Exploration Technologies Surges on Q3 Earnings Beat | Neutral | 2026-10-21 16:40 |
+| AST SpaceMobile Hit a 52-Week Low Days After SpaceX Spent $8 Billion on Spectrum. That's Not a Coinc | Neutral | 2026-10-21 14:25 |
+
+## Recent SEC Filings
+
+| Form | Date | Link |
+|------|------|------|
+| D | 2017-11-27 | [Link](https://www.sec.gov/Archives/edgar/data/1723130/000172313017000001/xslFormDX01/primary_doc.xml) |
+
+## Buy/Sell Recommendations
+
+| Action | Price Range | Rationale |
+|--------|-------------|-----------|
+| Strong Buy | $38.77 | 92% upside to mean PT $74.28 |
+
+> **Consensus**: Mean PT: $74.28; Analysts leaning bullish
 
 ---
 
-## **Buy/Sell Recommendation**
+## Portfolio Allocation
 
-| Instrument | Action | Price/Level | Rationale |
-|------------|--------|-------------|-----------|
-| **ASTS (stock)** | **Speculative Buy** | $18-22 | AT&T deal de-risks; binary outcome on Block 2 launches |
-| **ASTS (stock)** | **Take Profits** | $30-35 | Pre-launch hype; competition risk |
-| **ASTX (2x ETF)** | **Day-trade only** | Intraday | **Never hold overnight** — decay + 2x leverage = wealth destruction in chop |
-| **ASTX (2x ETF)** | **Short-term hedge** | If ASTS >$28 | Short ASTX vs long ASTS for gamma scalp (advanced only) |
-
-> **Consensus**: X sentiment **cautiously optimistic** on AT&T deal; **ASTX is a trading tool, not investment**.
+| Horizon | Conviction | Max Position | Key Risk |
+|---------|------------|--------------|----------|
+| 3-12 months | Medium | 2-5% | Monitor news flow and technical levels |
 
 ---
 
-## **Portfolio Allocation**
+## Immediate Action Items
 
-| Instrument | Horizon | Conviction | Max Position | Key Risk |
-|------------|---------|------------|--------------|----------|
-| **ASTS** | 2-3 years | Speculative | 1-2% (stock only) | Binary: Block 2 success/fail; Starlink competition |
-| **ASTX** | Intraday | N/A | 0% (not for investing) | Volatility decay; 2x leverage trap |
+1. Monitor $ASTS at key levels
+2. Review earnings calendar
+3. Watch for catalyst news
 
----
-
-## **Immediate Action Items**
-
-1. Monitor Block 2 satellite launch updates (next catalyst). Avoid ASTX for anything >1 day.
-
----
-
-## **Key X/Twitter Accounts to Follow**
+## Key Resources
 
 | Account | Focus |
 |---------|-------|
-| @AST_SpaceMobile | Official ASTS updates |
-| @ATTNEWS | AT&T partnership announcements |
-| @Stocktwits | Sentiment tracking |
+| $ASTS on X | Real-time sentiment |
+| Finnhub | Analyst targets & news |
+| SEC EDGAR | Official filings |
+
 
 ---
 
-**Disclaimer**: This is research based on public X/Twitter sentiment and financial data — **not financial advice**. Leveraged ETFs (ASTX) are unsuitable for most investors. Always do your own due diligence and consider position sizing/risk tolerance.
+**Disclaimer**: This is research based on public sentiment and financial data — **not financial advice**. Always do your own due diligence and consider position sizing/risk tolerance.
