@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stock-research"
+version = "0.1.0"
+description = "Stock research analysis with email notifications"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "markdown>=3.5",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black>=23.0",
+    "ruff>=0.1.0",
+]
+
+[project.scripts]
+send-email = "stock_research.send_email:main"
+md-to-html = "stock_research.md_to_html:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["stock_research*"]
+
+[tool.black]
+line-length = 100
+target-version = ['py38']
+
+[tool.ruff]
+line-length = 100
+target-version = "py38"
