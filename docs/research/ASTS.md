@@ -1,15 +1,12 @@
 ---
-title: "ASTS (AST SpaceMobile) & ASTX (2x Leveraged ETF) Analysis"
-last_updated: 2026-10-22T02:52:37-04:00
-permalink: /research/ASTS/
-layout: research
-current_price: "~$20-25 range (ASTS)"
-slug: ASTS
-source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
+title: "ASTS (AST SpaceMobile) & ASTX Analysis"
+description: "AT&T commercial agreement, Block 2 launches critical, ASTX 2x leveraged ETF"
+nav_order: 2
+parent: "Research"
 ---
 
 ## Critical Note
-**ASTX is a 2x leveraged daily ETF on ASTS — not for long-term holding due to volatility decay. Analyze ASTS fundamentals for investment decisions.**
+> **ASTX is a 2x leveraged daily ETF on ASTS — not for long-term holding due to volatility decay. Analyze ASTS fundamentals for investment decisions.**
 
 ---
 

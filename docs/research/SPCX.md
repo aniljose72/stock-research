@@ -1,12 +1,8 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-last_updated: 2026-10-22T02:52:37-04:00
-permalink: /research/SPCX/
-layout: research
-current_price: "~$147-159"
-ipo_price: "$135 (June 2026)"
-slug: SPCX
-source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
+description: "TSMC Terafab talks, Starlink D2C rollout, Morgan Stanley $300 PT"
+nav_order: 3
+parent: "Research"
 ---
 
 ## X/Twitter Sentiment & Key Discussions

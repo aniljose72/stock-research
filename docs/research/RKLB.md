@@ -1,11 +1,8 @@
 ---
 title: "RKLB (Rocket Lab) Analysis"
-last_updated: 2026-10-22T02:52:37-04:00
-permalink: /research/RKLB/
-layout: research
-current_price: "~$52-53"
-slug: RKLB
-source: "X (Twitter) sentiment, financial news, analyst reports, Stocktwits, Reddit"
+description: "Neutron rocket delay to 2027, backlog >$3B, Cathie Wood buying the dip"
+nav_order: 1
+parent: "Research"
 ---
 
 ## X/Twitter Sentiment & Key Discussions
