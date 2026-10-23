@@ -1,12 +1,12 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-date: 2026-10-22 23:33:46 UTC
+date: 2026-10-22 23:36:46 UTC
 categories: [Research]
 tags: [SPCX, Finance, Analysis]
 ---
 
 ## Current Price & Key Metrics
-- **Current Price**: $144.75 (2026-10-22 23:33:46 UTC)
+- **Current Price**: $144.75 (2026-10-22 23:36:46 UTC)
 - **Market Cap**: $1908.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $104.83 - $225.64
@@ -23,7 +23,7 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Analyst Targets
-- **Mean Target**: $256.24 (2026-10-22 23:33:46 UTC)
+- **Mean Target**: $256.24 (2026-10-22 23:36:46 UTC)
 - **High/Low**: $800.00 / $70.00
 - **Ratings**: Strong Buy: 8, Buy: 22, Hold: 5, Sell: 3, Strong Sell: 0
 
