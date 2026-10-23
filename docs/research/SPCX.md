@@ -1,18 +1,20 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-date: 2026-10-23 01:12:33 UTC
+date: 2026-10-22 20:15:55 UTC-05:00
 categories: [Research]
 tags: [SPCX, Finance, Analysis]
 ---
 
+> **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
+
 ## Current Price & Key Metrics
-- **Current Price**: $144.75 (2026-10-23 01:12:33 UTC)
+- **Current Price**: $144.75 (2026-10-22 20:15:55 UTC-05:00)
 - **Market Cap**: $1908.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 50.3
-- **SMA20/SMA50**: $nan / $nan
-- **Bollinger Bands**: $nan - $nan (Width: nan%, %B: nan)
+- **RSI**: 40.2
+- **SMA20/SMA50**: $155.08 / $149.12
+- **Bollinger Bands**: $137.52 - $172.64 (Width: 22.6%, %B: 0.206)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -23,17 +25,17 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Analyst Targets
-- **Mean Target**: $256.24 (2026-10-23 01:12:33 UTC)
+- **Mean Target**: $256.24 (2026-10-22 20:15:55 UTC-05:00)
 - **High/Low**: $800.00 / $70.00
 - **Ratings**: Strong Buy: 8, Buy: 22, Hold: 5, Sell: 3, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 50 - Neutral
-- BB: $nan - $nan (Width: nan%)
-- %B: nan - Middle range
-- SMA20 < SMA50 (Bearish)
+- RSI 40 - Neutral
+- BB: $137.52 - $172.64 (Width: 22.6%)
+- %B: 0.21 - Middle range
+- SMA20 > SMA50 (Bullish)
 
 ## Key Catalysts
 
