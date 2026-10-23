@@ -1,18 +1,18 @@
 ---
 title: "ASTS (AST SpaceMobile) Analysis"
-date: 2026-10-22 23:36:46 UTC
+date: 2026-10-23 01:12:33 UTC
 categories: [Research]
 tags: [ASTS, Finance, Analysis]
 ---
 
 ## Current Price & Key Metrics
-- **Current Price**: $38.77 (2026-10-22 23:36:46 UTC)
+- **Current Price**: $38.77 (2026-10-23 01:12:33 UTC)
 - **Market Cap**: $15.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.80 - $133.86
-- **RSI**: 23.5
-- **SMA20/SMA50**: $51.76 / $58.31
-- **Bollinger Bands**: $34.37 - $69.15 (Width: 67.2%, %B: 0.127)
+- **RSI**: 24.9
+- **SMA20/SMA50**: $nan / $nan
+- **Bollinger Bands**: $nan - $nan (Width: nan%, %B: nan)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -23,16 +23,16 @@ tags: [ASTS, Finance, Analysis]
 ---
 
 ## Analyst Targets
-- **Mean Target**: $74.28 (2026-10-22 23:36:46 UTC)
+- **Mean Target**: $74.28 (2026-10-23 01:12:33 UTC)
 - **High/Low**: $108.00 / $42.50
 - **Ratings**: Strong Buy: 0, Buy: 4, Hold: 7, Sell: 1, Strong Sell: 1
 
 ---
 
 ## Technical Notes
-- RSI 24 - Oversold
-- BB: $34.37 - $69.15 (Width: 67.2%)
-- %B: 0.13 - Near lower band
+- RSI 25 - Oversold
+- BB: $nan - $nan (Width: nan%)
+- %B: nan - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts

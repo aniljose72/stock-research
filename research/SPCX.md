@@ -1,18 +1,18 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-date: 2026-10-22 23:36:46 UTC
+date: 2026-10-23 01:12:33 UTC
 categories: [Research]
 tags: [SPCX, Finance, Analysis]
 ---
 
 ## Current Price & Key Metrics
-- **Current Price**: $144.75 (2026-10-22 23:36:46 UTC)
+- **Current Price**: $144.75 (2026-10-23 01:12:33 UTC)
 - **Market Cap**: $1908.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 40.2
-- **SMA20/SMA50**: $155.08 / $149.12
-- **Bollinger Bands**: $137.52 - $172.64 (Width: 22.6%, %B: 0.206)
+- **RSI**: 50.3
+- **SMA20/SMA50**: $nan / $nan
+- **Bollinger Bands**: $nan - $nan (Width: nan%, %B: nan)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -23,27 +23,27 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Analyst Targets
-- **Mean Target**: $256.24 (2026-10-22 23:36:46 UTC)
+- **Mean Target**: $256.24 (2026-10-23 01:12:33 UTC)
 - **High/Low**: $800.00 / $70.00
 - **Ratings**: Strong Buy: 8, Buy: 22, Hold: 5, Sell: 3, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 40 - Neutral
-- BB: $137.52 - $172.64 (Width: 22.6%)
-- %B: 0.21 - Middle range
-- SMA20 > SMA50 (Bullish)
+- RSI 50 - Neutral
+- BB: $nan - $nan (Width: nan%)
+- %B: nan - Middle range
+- SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Stock Market Today, Oct. 22: SpaceX Earnings Beat Sparks Profit-Taking | Neutral | 2026-10-22 16:25 |
-| Musk wants to merge SpaceX and Tesla: Here's what to know | Neutral | 2026-10-22 16:10 |
-| SpaceX’s Booming Data Center Business Is Fueled by Illegal Turbines, Lawsuit Alleges | Neutral | 2026-10-22 16:07 |
-| Musk Says AI Is Short on Power. Here’s Why Constellation Energy Still Has a Rules Problem | Neutral | 2026-10-22 15:29 |
-| A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal? | Neutral | 2026-10-22 15:16 |
+| SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays | Neutral | 2026-10-22 18:49 |
+| Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, S | Neutral | 2026-10-22 18:44 |
+| Elon Musk’s $10.5B SpaceX gift to kids has a catch: Families can’t say no — and may need to wait 5 y | Neutral | 2026-10-22 18:30 |
+| SpaceX Reportedly Eyes 80,000 Cell Sites In Push To Become Fourth US Wireless Carrier: T, TMUS, VZ S | Neutral | 2026-10-22 17:47 |
+| TSLA, SPCX Boards Confirm Special Committees On Potential Combination As Megapack Deals And Terafab  | Neutral | 2026-10-22 17:34 |
 
 ## Recent SEC Filings
 
