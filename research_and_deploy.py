@@ -34,7 +34,7 @@ def send_signal(title: str, message: str, priority: int = 3) -> bool:
     full = f"{emoji} {title}\n\n{message}"
     try:
         subprocess.run(
-            ["signal-cli", "-u", "+12144783359", "send", "-m", full, "+12144783359"],
+            ["/opt/homebrew/bin/signal-cli", "-u", "+12144783359", "send", "-m", full, "+12144783359"],
             capture_output=True, timeout=15, check=True
         )
         return True
