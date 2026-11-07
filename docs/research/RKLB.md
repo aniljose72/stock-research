@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $52.73 (2026-10-22 20:15:55 UTC-05:00)
-- **Market Cap**: $33.7B
+- **Current Price**: $53.07 (2026-10-22 20:15:55 UTC-05:00)
+- **Market Cap**: $33.9B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 51.8
-- **SMA20/SMA50**: $54.86 / $62.55
-- **Bollinger Bands**: $45.34 - $64.37 (Width: 34.7%, %B: 0.388)
+- **RSI**: 52.2
+- **SMA20/SMA50**: $54.87 / $62.56
+- **Bollinger Bands**: $45.37 - $64.38 (Width: 34.6%, %B: 0.405)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 52 - Neutral
-- BB: $45.34 - $64.37 (Width: 34.7%)
-- %B: 0.39 - Middle range
+- BB: $45.37 - $64.38 (Width: 34.6%)
+- %B: 0.41 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Tesla Rebounds 5% as Musk Ends Cybertruck to Make Room for “Increased Cybercab Production” | Neutral | 2026-11-06 11:25 |
-| Stock Market Today: Dow Slides 500 Points Amid Surprise Jobs Report; Nvidia Leads Tech Rebound (Live | Neutral | 2026-11-06 10:47 |
-| SpaceX Rises 4% as Tech Stocks Rebound From Post-Election Rout; AST SpaceMobile Sinks 8%, Rocket Lab | Neutral | 2026-11-06 08:56 |
-| Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock | Neutral | 2026-11-06 08:41 |
-| AST SpaceMobile Will Use Firefly in Bold Move to Build Its Starlink Competitor | Neutral | 2026-11-06 07:47 |
+| Rocket Lab Just Built a Space Robot | Neutral | 2026-11-07 06:27 |
+| Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks — But Sells CRWV, AVGO, LLY | Neutral | 2026-11-07 00:00 |
+| 3 Space Stocks With Revenue Growth Up To 27% | Neutral | 2026-11-06 19:16 |
+| SpaceX Land Deal, Tesla Merger Dealt Election Blow. Space Stocks Rebound. | Neutral | 2026-11-06 15:21 |
+| Musk Says SpaceX Will Hit a Revenue Number That Not One of Its 37 Analysts Believes | Neutral | 2026-11-06 14:26 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $52.73 | 94% upside to mean PT $102.15 |
+| Strong Buy | $53.07 | 92% upside to mean PT $102.15 |
 
 > **Consensus**: Mean PT: $102.15; Median PT: $102.50; Analysts leaning bullish
 

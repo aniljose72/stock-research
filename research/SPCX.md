@@ -8,44 +8,44 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $133.92 (2026-10-22 20:15:55 UTC-05:00)
-- **Market Cap**: $1818.8B
-- **P/E Ratio**: 582.26
+- **Current Price**: $134.27 (2026-10-22 20:15:55 UTC-05:00)
+- **Market Cap**: $1823.5B
+- **P/E Ratio**: 583.78
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 41.2
-- **SMA20/SMA50**: $145.23 / $149.18
-- **Bollinger Bands**: $126.66 - $163.80 (Width: 25.6%, %B: 0.196)
+- **RSI**: 41.4
+- **SMA20/SMA50**: $145.24 / $149.18
+- **Bollinger Bands**: $126.72 - $163.77 (Width: 25.5%, %B: 0.204)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $257.11; Median PT: $247.50; Analysts leaning bullish
+- **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $257.11 (2026-10-22 20:15:55 UTC-05:00)
+- **Mean Target**: $255.06 (2026-10-22 20:15:55 UTC-05:00)
 - **High/Low**: $800.00 / $70.00
-- **Ratings**: Strong Buy: 8, Buy: 23, Hold: 6, Sell: 2, Strong Sell: 0
+- **Ratings**: Strong Buy: 8, Buy: 24, Hold: 6, Sell: 2, Strong Sell: 0
 
 ---
 
 ## Technical Notes
 - RSI 41 - Neutral
-- BB: $126.66 - $163.80 (Width: 25.6%)
-- %B: 0.20 - Near lower band
+- BB: $126.72 - $163.77 (Width: 25.5%)
+- %B: 0.20 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Elon Musk's longtime backer exits Tesla after 13-fold gain | Neutral | 2026-11-06 13:27 |
-| AST SpaceMobile Soars 7% on $1.3 Billion Rocket Plan Promising “Unconstrained Access to Orbit” | Neutral | 2026-11-06 13:27 |
-| Texas Gov.-Elect Gina Hinojosa Just Delivered Fantastic News for SpaceX Investors | Neutral | 2026-11-06 13:20 |
-| Why SpaceX Stock Is Up Today | Neutral | 2026-11-06 13:18 |
-| Cathie Wood Makes $437 Million In Trades. Adds Nvidia, SpaceX; Offloads Broadcom | Neutral | 2026-11-06 12:58 |
+| Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties | Neutral | 2026-11-07 13:11 |
+| Ceragon Networks Ltd (CRNT) (Q3 2026) Earnings Call Highlights: Revenue Jumps 11. ... | Neutral | 2026-11-07 13:10 |
+| Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better | Neutral | 2026-11-07 12:26 |
+| Musk Says His Terafab Chip Plant Could Cost $1 Trillion | Neutral | 2026-11-07 11:16 |
+| How Investors Are Reacting To Goldman Sachs Stock After Congress Shift | Neutral | 2026-11-07 11:11 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $133.92 | 92% upside to mean PT $257.11 |
+| Strong Buy | $134.27 | 90% upside to mean PT $255.06 |
 
-> **Consensus**: Mean PT: $257.11; Median PT: $247.50; Analysts leaning bullish
+> **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 
 ---
 

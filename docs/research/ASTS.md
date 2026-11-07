@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $32.55 (2026-10-22 20:15:55 UTC-05:00)
-- **Market Cap**: $12.7B
+- **Current Price**: $32.33 (2026-10-22 20:15:55 UTC-05:00)
+- **Market Cap**: $12.6B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.58 - $133.86
-- **RSI**: 31.3
-- **SMA20/SMA50**: $40.39 / $52.17
-- **Bollinger Bands**: $30.96 - $49.82 (Width: 46.7%, %B: 0.084)
+- **RSI**: 30.7
+- **SMA20/SMA50**: $40.38 / $52.17
+- **Bollinger Bands**: $30.91 - $49.85 (Width: 46.9%, %B: 0.075)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [ASTS, Finance, Analysis]
 
 ## Technical Notes
 - RSI 31 - Neutral
-- BB: $30.96 - $49.82 (Width: 46.7%)
-- %B: 0.08 - Near lower band
+- BB: $30.91 - $49.85 (Width: 46.9%)
+- %B: 0.07 - Near lower band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Firefly, AST SpaceMobile Stocks Rise on $1.3B Rocket Engine Deal: What’s Happening? | Neutral | 2026-11-06 03:45 |
-| Rocket Lab Stock Pulls Out of a Nosedive Friday: What's Going On? | Neutral | 2026-11-06 02:50 |
-| Firefly Aerospace Inks $1.3B Agreement With AST SpaceMobile To Provide Over 36 Rocket Engines | Neutral | 2026-11-06 02:31 |
-| AST SpaceMobile Sinks 15% as AI Rout Swamps Space Force Contract News | Neutral | 2026-11-05 16:08 |
-| AST SpaceMobile Stock Price Forecast: What Options Traders and Financial Analysts Expect Ahead of Q3 | Neutral | 2026-11-05 15:53 |
+| AST SpaceMobile Is Building Its Own Reusable Rocket to Rely Less on SpaceX | Neutral | 2026-11-07 10:49 |
+| Why Did Firefly Aerospace (FLY) Move Today? | Neutral | 2026-11-07 05:13 |
+| AST SpaceMobile (ASTS) Bets On Reusable Blacklift Rocket To Control 2028 Launches | Neutral | 2026-11-07 02:12 |
+| Firefly Aerospace (FLY) Bags $1.3B Deal With AST, Shares Surge 36.8% | Neutral | 2026-11-06 19:59 |
+| SpaceX Land Deal, Tesla Merger Dealt Election Blow. Space Stocks Rebound. | Neutral | 2026-11-06 15:21 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $32.55 | 129% upside to mean PT $74.68 |
+| Strong Buy | $32.33 | 131% upside to mean PT $74.68 |
 
 > **Consensus**: Mean PT: $74.68; Median PT: $78.00; Analysts leaning bullish
 
