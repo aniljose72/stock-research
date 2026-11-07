@@ -1,65 +1,67 @@
 ---
 title: "AAPL (Apple) Analysis"
-date: 2026-10-22 23:33:16 UTC
+date: 2026-10-22 20:15:55 UTC-05:00
 categories: [Research]
 tags: [AAPL, Finance, Analysis]
 ---
 
+> **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
+
 ## Current Price & Key Metrics
-- **Current Price**: $348.22 (2026-10-22 23:33:16 UTC)
-- **Market Cap**: $5082.0B
-- **P/E Ratio**: 39.93
-- **52-Week Range**: $243.42 - $348.36
-- **RSI**: 71.7
-- **SMA20/SMA50**: $338.57 / $328.62
-- **Bollinger Bands**: $328.41 - $348.74 (Width: 6.0%, %B: 0.974)
+- **Current Price**: $344.63 (2026-10-22 20:15:55 UTC-05:00)
+- **Market Cap**: $5029.6B
+- **P/E Ratio**: 39.52
+- **52-Week Range**: $243.42 - $351.73
+- **RSI**: 54.9
+- **SMA20/SMA50**: $342.08 / $333.04
+- **Bollinger Bands**: $333.05 - $351.12 (Width: 5.3%, %B: 0.641)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $328.35; Median PT: $335.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $332.39; Median PT: $337.50; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $328.35 (2026-10-22 23:33:16 UTC)
-- **High/Low**: $405.00 / $215.00
-- **Ratings**: Strong Buy: 6, Buy: 18, Hold: 14, Sell: 3, Strong Sell: 3
+- **Mean Target**: $332.39 (2026-10-22 20:15:55 UTC-05:00)
+- **High/Low**: $405.00 / $245.00
+- **Ratings**: Strong Buy: 6, Buy: 18, Hold: 13, Sell: 3, Strong Sell: 3
 
 ---
 
 ## Technical Notes
-- RSI 72 - Overbought
-- BB: $328.41 - $348.74 (Width: 6.0%)
-- %B: 0.97 - Near upper band
+- RSI 55 - Neutral
+- BB: $333.05 - $351.12 (Width: 5.3%)
+- %B: 0.64 - Middle range
 - SMA20 > SMA50 (Bullish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving | Neutral | 2026-10-22 16:53 |
-| Meta Eyes an Early Equity Deal for Its AI War Chest—and Berkshire Could Be a Buyer | Neutral | 2026-10-22 15:44 |
-| Apple’s foldable iPhone has a $2,000 app problem | Neutral | 2026-10-22 15:34 |
-| Here Are 4 ETFs That Run an Entire Retirement Portfolio for Less Than $50 a Year on $100,000 | Neutral | 2026-10-22 15:33 |
-| Apple Reportedly Raised Its iPhone Duo Target 44%. Here’s What November 2 Has to Show | Neutral | 2026-10-22 15:32 |
+| A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings | Neutral | 2026-11-01 07:00 |
+| Alphabet Gets Kicked Out of the $4 Trillion Club After Its Record $505 Billion Drop. Here's What His | Neutral | 2026-11-01 06:35 |
+| A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week | Neutral | 2026-11-01 05:00 |
+| This Week in TSLA: Elon Musk's Apple Mac Studio Jibe, Former Autopilot Lead's Vision-Only Criticism  | Neutral | 2026-11-01 04:04 |
+| What to Expect in Markets This Week: Apple, Palantir Report; October Jobs Data Lands | Neutral | 2026-11-01 04:00 |
 
 ## Recent SEC Filings
 
 | Form | Date | Link |
 |------|------|------|
+| 4 | 2026-10-29 | [Link](https://www.sec.gov/Archives/edgar/data/320193/000114036126041201/xslF345X06/form4.xml) |
 | 4 | 2026-10-22 | [Link](https://www.sec.gov/Archives/edgar/data/320193/000114036126040540/xslF345X06/form4.xml) |
 | 4 | 2026-10-19 | [Link](https://www.sec.gov/Archives/edgar/data/320193/000114036126040127/xslF345X06/form4.xml) |
-| 4 | 2026-10-19 | [Link](https://www.sec.gov/Archives/edgar/data/320193/000114036126040126/xslF345X06/form4.xml) |
 
 ## Buy/Sell Recommendations
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Sell | $348.22 | -6% downside to mean PT $328.35 |
+| Hold | $344.63 | Near fair value (PT $332.39) |
 
-> **Consensus**: Mean PT: $328.35; Median PT: $335.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $332.39; Median PT: $337.50; Analysts leaning bullish
 
 ---
 

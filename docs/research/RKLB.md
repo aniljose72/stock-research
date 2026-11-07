@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $51.22 (2026-10-22 20:15:55 UTC-05:00)
-- **Market Cap**: $32.8B
+- **Current Price**: $52.73 (2026-10-22 20:15:55 UTC-05:00)
+- **Market Cap**: $33.7B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 16.0
-- **SMA20/SMA50**: $64.44 / $66.89
-- **Bollinger Bands**: $46.39 - $82.50 (Width: 56.0%, %B: 0.134)
+- **RSI**: 51.8
+- **SMA20/SMA50**: $54.86 / $62.55
+- **Bollinger Bands**: $45.34 - $64.37 (Width: 34.7%, %B: 0.388)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 16 - Oversold
-- BB: $46.39 - $82.50 (Width: 56.0%)
-- %B: 0.13 - Near lower band
+- RSI 52 - Neutral
+- BB: $45.34 - $64.37 (Width: 34.7%)
+- %B: 0.39 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Stock Market Today, Oct. 22: SpaceX Earnings Beat Sparks Profit-Taking | Neutral | 2026-10-22 16:25 |
-| If I Could Only Buy 1 Space Stock After the Rocket Lab Crash, It Would Be This One | Neutral | 2026-10-22 12:50 |
-| SpaceX and AST SpaceMobile Sink 6%, Rocket Lab Falls 5% as Tech Selloff Hits High-Flying Space Stock | Neutral | 2026-10-22 10:56 |
-| Brown Advisory Sees Long-Term Potential in Rocket Lab Corporation (RKLB) | Neutral | 2026-10-22 08:43 |
-| SpaceX Rallied, but These 6 Space Stocks Are Still Waiting for Liftoff | Neutral | 2026-10-22 08:20 |
+| Tesla Rebounds 5% as Musk Ends Cybertruck to Make Room for “Increased Cybercab Production” | Neutral | 2026-11-06 11:25 |
+| Stock Market Today: Dow Slides 500 Points Amid Surprise Jobs Report; Nvidia Leads Tech Rebound (Live | Neutral | 2026-11-06 10:47 |
+| SpaceX Rises 4% as Tech Stocks Rebound From Post-Election Rout; AST SpaceMobile Sinks 8%, Rocket Lab | Neutral | 2026-11-06 08:56 |
+| Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock | Neutral | 2026-11-06 08:41 |
+| AST SpaceMobile Will Use Firefly in Bold Move to Build Its Starlink Competitor | Neutral | 2026-11-06 07:47 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $51.22 | 99% upside to mean PT $102.15 |
+| Strong Buy | $52.73 | 94% upside to mean PT $102.15 |
 
 > **Consensus**: Mean PT: $102.15; Median PT: $102.50; Analysts leaning bullish
 

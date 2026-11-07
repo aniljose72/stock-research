@@ -8,44 +8,44 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $144.75 (2026-10-22 20:15:55 UTC-05:00)
-- **Market Cap**: $1908.1B
-- **P/E Ratio**: N/A
+- **Current Price**: $133.92 (2026-10-22 20:15:55 UTC-05:00)
+- **Market Cap**: $1818.8B
+- **P/E Ratio**: 582.26
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 40.2
-- **SMA20/SMA50**: $155.08 / $149.12
-- **Bollinger Bands**: $137.52 - $172.64 (Width: 22.6%, %B: 0.206)
+- **RSI**: 41.2
+- **SMA20/SMA50**: $145.23 / $149.18
+- **Bollinger Bands**: $126.66 - $163.80 (Width: 25.6%, %B: 0.196)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $256.24; Median PT: $237.50; Analysts leaning bullish
+- **Consensus**: Mean PT: $257.11; Median PT: $247.50; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $256.24 (2026-10-22 20:15:55 UTC-05:00)
+- **Mean Target**: $257.11 (2026-10-22 20:15:55 UTC-05:00)
 - **High/Low**: $800.00 / $70.00
-- **Ratings**: Strong Buy: 8, Buy: 22, Hold: 5, Sell: 3, Strong Sell: 0
+- **Ratings**: Strong Buy: 8, Buy: 23, Hold: 6, Sell: 2, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 40 - Neutral
-- BB: $137.52 - $172.64 (Width: 22.6%)
-- %B: 0.21 - Middle range
-- SMA20 > SMA50 (Bullish)
+- RSI 41 - Neutral
+- BB: $126.66 - $163.80 (Width: 25.6%)
+- %B: 0.20 - Near lower band
+- SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays | Neutral | 2026-10-22 18:49 |
-| Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, S | Neutral | 2026-10-22 18:44 |
-| Elon Musk’s $10.5B SpaceX gift to kids has a catch: Families can’t say no — and may need to wait 5 y | Neutral | 2026-10-22 18:30 |
-| SpaceX Reportedly Eyes 80,000 Cell Sites In Push To Become Fourth US Wireless Carrier: T, TMUS, VZ S | Neutral | 2026-10-22 17:47 |
-| TSLA, SPCX Boards Confirm Special Committees On Potential Combination As Megapack Deals And Terafab  | Neutral | 2026-10-22 17:34 |
+| Elon Musk's longtime backer exits Tesla after 13-fold gain | Neutral | 2026-11-06 13:27 |
+| AST SpaceMobile Soars 7% on $1.3 Billion Rocket Plan Promising “Unconstrained Access to Orbit” | Neutral | 2026-11-06 13:27 |
+| Texas Gov.-Elect Gina Hinojosa Just Delivered Fantastic News for SpaceX Investors | Neutral | 2026-11-06 13:20 |
+| Why SpaceX Stock Is Up Today | Neutral | 2026-11-06 13:18 |
+| Cathie Wood Makes $437 Million In Trades. Adds Nvidia, SpaceX; Offloads Broadcom | Neutral | 2026-11-06 12:58 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $144.75 | 77% upside to mean PT $256.24 |
+| Strong Buy | $133.92 | 92% upside to mean PT $257.11 |
 
-> **Consensus**: Mean PT: $256.24; Median PT: $237.50; Analysts leaning bullish
+> **Consensus**: Mean PT: $257.11; Median PT: $247.50; Analysts leaning bullish
 
 ---
 

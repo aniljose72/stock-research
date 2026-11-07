@@ -8,44 +8,44 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $38.77 (2026-10-22 20:15:55 UTC-05:00)
-- **Market Cap**: $15.1B
+- **Current Price**: $32.55 (2026-10-22 20:15:55 UTC-05:00)
+- **Market Cap**: $12.7B
 - **P/E Ratio**: N/A
-- **52-Week Range**: $37.80 - $133.86
-- **RSI**: 23.5
-- **SMA20/SMA50**: $51.76 / $58.31
-- **Bollinger Bands**: $34.37 - $69.15 (Width: 67.2%, %B: 0.127)
+- **52-Week Range**: $27.58 - $133.86
+- **RSI**: 31.3
+- **SMA20/SMA50**: $40.39 / $52.17
+- **Bollinger Bands**: $30.96 - $49.82 (Width: 46.7%, %B: 0.084)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $74.28; Median PT: $78.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $74.68; Median PT: $78.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $74.28 (2026-10-22 20:15:55 UTC-05:00)
+- **Mean Target**: $74.68 (2026-10-22 20:15:55 UTC-05:00)
 - **High/Low**: $108.00 / $42.50
-- **Ratings**: Strong Buy: 0, Buy: 4, Hold: 7, Sell: 1, Strong Sell: 1
+- **Ratings**: Strong Buy: 1, Buy: 4, Hold: 6, Sell: 1, Strong Sell: 1
 
 ---
 
 ## Technical Notes
-- RSI 24 - Oversold
-- BB: $34.37 - $69.15 (Width: 67.2%)
-- %B: 0.13 - Near lower band
+- RSI 31 - Neutral
+- BB: $30.96 - $49.82 (Width: 46.7%)
+- %B: 0.08 - Near lower band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| RKLB Is Among Nasdaq’s Top 5 Losers So Far This Month, Yet Analysts See 90% Upside — Can Neutron Jus | Neutral | 2026-10-22 02:01 |
-| Forget the Anthropic IPO. Here Are 6 Stocks Worth Watching. | Neutral | 2026-10-21 21:41 |
-| Should You Sell Your AST SpaceMobile Stock Now? | Neutral | 2026-10-21 16:55 |
-| Stock Market Today, Oct. 21: Space Exploration Technologies Surges on Q3 Earnings Beat | Neutral | 2026-10-21 16:40 |
-| AST SpaceMobile Hit a 52-Week Low Days After SpaceX Spent $8 Billion on Spectrum. That's Not a Coinc | Neutral | 2026-10-21 14:25 |
+| Firefly, AST SpaceMobile Stocks Rise on $1.3B Rocket Engine Deal: What’s Happening? | Neutral | 2026-11-06 03:45 |
+| Rocket Lab Stock Pulls Out of a Nosedive Friday: What's Going On? | Neutral | 2026-11-06 02:50 |
+| Firefly Aerospace Inks $1.3B Agreement With AST SpaceMobile To Provide Over 36 Rocket Engines | Neutral | 2026-11-06 02:31 |
+| AST SpaceMobile Sinks 15% as AI Rout Swamps Space Force Contract News | Neutral | 2026-11-05 16:08 |
+| AST SpaceMobile Stock Price Forecast: What Options Traders and Financial Analysts Expect Ahead of Q3 | Neutral | 2026-11-05 15:53 |
 
 ## Recent SEC Filings
 
@@ -57,9 +57,9 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $38.77 | 92% upside to mean PT $74.28 |
+| Strong Buy | $32.55 | 129% upside to mean PT $74.68 |
 
-> **Consensus**: Mean PT: $74.28; Median PT: $78.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $74.68; Median PT: $78.00; Analysts leaning bullish
 
 ---
 
