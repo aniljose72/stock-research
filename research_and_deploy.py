@@ -111,11 +111,21 @@ def main():
         else:
             print(f"  ✅ {t} regenerated")
     
-    # 3. Wait for deploy
-    print("\n🌐 Waiting for GitHub Pages deploy...")
-    if not wait_for_deploy(base_dir):
-        send_signal("❌ Deploy Timeout", "GitHub Pages didn't deploy in time", 1)
-        return 1
+    # 3. Try to confirm deploy (non-blocking — push-triggered Actions may be unreliable)
+    print("\n🌐 Checking GitHub Pages deploy status...")
+    try:
+        ok, sha = run(f"cd {base_dir} && git rev-parse HEAD")
+        if ok:
+            resp = requests.get(f"https://api.github.com/repos/aniljose72/stock-research/commits/{sha.strip()[:7]}/status", timeout=10)
+            if resp.status_code == 200:
+                status = resp.json().get("state", "unknown")
+                print(f"  Deploy status: {status}")
+            else:
+                print("  Could not check deploy status (API)")
+        else:
+            print("  Could not get HEAD commit")
+    except Exception as e:
+        print(f"  Deploy check skipped: {e}")
     
     # 4. Verify page is live
     print("\n🔍 Verifying site is live...")
@@ -128,12 +138,12 @@ def main():
         return 1
     print("✅ Site is live!")
     
-    # 4. Send success Signal
+    # 5. Send success Signal
     tickers_list = sys.argv[1:] if len(sys.argv) > 1 else ["RKLB", "ASTS", "SPCX"]
     urls = "\n".join([f"• {t}: https://aniljose72.github.io/stock-research/research/{t}/" for t in tickers_list])
     send_signal(
-        "✅ Research Complete & Deployed",
-        f"All {len(tickers_list)} tickers researched and live:\n\n{urls}\n\nSite: https://aniljose72.github.io/stock-research/",
+        "✅ Research Complete",
+        f"All {len(tickers_list)} tickers researched and pushed:\n\n{urls}\n\nSite: https://aniljose72.github.io/stock-research/\n(Deploy may take a few minutes via GitHub Actions)",
         4
     )
     
