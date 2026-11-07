@@ -1,14 +1,14 @@
 ---
 title: "RKLB (Rocket Lab) Analysis"
-date: 2026-11-07 16:39:24 UTC-05:00
+date: 2026-11-07 16:52:22 UTC-05:00
 categories: [Research]
 tags: [RKLB, Finance, Analysis]
 ---
 
-> **Created at**: 2026-11-07 16:39:24 UTC-05:00 (US Central Time)
+> **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $53.07 (2026-11-07 16:39:24 UTC-05:00)
+- **Current Price**: $53.07 (2026-11-07 16:52:22 UTC-05:00)
 - **Market Cap**: $33.9B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
@@ -25,7 +25,7 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Analyst Targets
-- **Mean Target**: $102.15 (2026-11-07 16:39:24 UTC-05:00)
+- **Mean Target**: $102.15 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $150.00 / $64.00
 - **Ratings**: Strong Buy: 5, Buy: 13, Hold: 4, Sell: 0, Strong Sell: 0
 
