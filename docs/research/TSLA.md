@@ -1,67 +1,67 @@
 ---
 title: "TSLA (Tesla) Analysis"
-date: 2026-10-22 20:15:55 UTC-05:00
+date: 2026-11-07 16:52:22 UTC-05:00
 categories: [Research]
 tags: [TSLA, Finance, Analysis]
 ---
 
-> **Created at**: 2026-10-22 20:15:55 UTC-05:00 (US Central Time)
+> **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $399.81 (2026-10-22 20:15:55 UTC-05:00)
-- **Market Cap**: $1580.3B
-- **P/E Ratio**: 439.35
+- **Current Price**: $358.22 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1416.0B
+- **P/E Ratio**: 393.65
 - **52-Week Range**: $297.38 - $498.83
-- **RSI**: 59.7
-- **SMA20/SMA50**: $380.70 / $369.60
-- **Bollinger Bands**: $352.07 - $409.33 (Width: 15.0%, %B: 0.834)
+- **RSI**: 46.8
+- **SMA20/SMA50**: $380.42 / $372.14
+- **Bollinger Bands**: $343.18 - $417.67 (Width: 19.6%, %B: 0.202)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $411.82; Median PT: $436.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $413.10; Median PT: $436.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $411.82 (2026-10-22 20:15:55 UTC-05:00)
+- **Mean Target**: $413.10 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $600.00 / $128.11
-- **Ratings**: Strong Buy: 5, Buy: 15, Hold: 22, Sell: 2, Strong Sell: 0
+- **Ratings**: Strong Buy: 6, Buy: 15, Hold: 21, Sell: 2, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 60 - Neutral
-- BB: $352.07 - $409.33 (Width: 15.0%)
-- %B: 0.83 - Near upper band
+- RSI 47 - Neutral
+- BB: $343.18 - $417.67 (Width: 19.6%)
+- %B: 0.20 - Middle range
 - SMA20 > SMA50 (Bullish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins | Neutral | 2026-11-01 07:25 |
-| The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC  | Neutral | 2026-11-01 05:28 |
-| Rivian CEO Says Autonomy Could Drive ‘Huge Changes’ in Market Share as Tesla FSD Rival Emerges | Neutral | 2026-11-01 04:45 |
-| This Week in TSLA: Elon Musk's Apple Mac Studio Jibe, Former Autopilot Lead's Vision-Only Criticism  | Neutral | 2026-11-01 04:04 |
-| Tesla’s Cybercab Costs “About $25,000” to Build. Waymo Has a Big Problem: It’s Cost Is Nearly 4X Tha | Neutral | 2026-11-01 02:18 |
+| Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waite | Neutral | 2026-11-08 07:09 |
+| Elon Musk Says Tesla Will End Cybertruck Production -- Here's Why | Neutral | 2026-11-08 06:53 |
+| Tesla (TSLA) To End Cybertruck Production In 2027 As Cybercab Takes Priority | Neutral | 2026-11-08 06:09 |
+| Tesla Stock Hasn't Closed at a Record in Nearly 11 Months. Here's How Its Past Record Droughts Ended | Neutral | 2026-11-08 05:37 |
+| Ron Baron Has Made $30B Betting On Elon Musk — Now He Sees ‘Hundreds Of Billions’ More Coming From H | Neutral | 2026-11-08 03:56 |
 
 ## Recent SEC Filings
 
 | Form | Date | Link |
 |------|------|------|
+| DEFA14A | 2026-11-06 | [Link](https://www.sec.gov/Archives/edgar/data/1318605/000110465926123945/tm267596d10_defa14a.htm) |
+| DEFA14A | 2026-11-02 | [Link](https://www.sec.gov/Archives/edgar/data/1318605/000110465926121458/tm267596d9_defa14a.htm) |
 | DEFA14A | 2026-10-29 | [Link](https://www.sec.gov/Archives/edgar/data/1318605/000110465926120263/tm267596d8_defa14a.htm) |
-| SCHEDULE 13G/A | 2026-10-27 | [Link](https://www.sec.gov/Archives/edgar/data/1318605/000201238326003852/xslSCHEDULE_13G_X02/primary_doc.xml) |
-| 10-Q | 2026-10-22 | [Link](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm) |
 
 ## Buy/Sell Recommendations
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Hold | $399.81 | Near fair value (PT $411.82) |
+| Buy | $358.22 | 15% upside to mean PT $413.10 |
 
-> **Consensus**: Mean PT: $411.82; Median PT: $436.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $413.10; Median PT: $436.00; Analysts leaning bullish
 
 ---
 

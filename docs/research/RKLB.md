@@ -41,11 +41,11 @@ tags: [RKLB, Finance, Analysis]
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Earnings Volatility Watch: CoreWeave Reports Into an AI Rally Test, and Options Expect a 21% Move | Neutral | 2026-11-08 03:30 |
+| Wall Street Week Ahead | Neutral | 2026-11-08 00:13 |
+| Rocket Lab Stock Options Point to a Sizable Earnings Move as Neutron Concerns Persist | Neutral | 2026-11-07 12:03 |
 | Rocket Lab Just Built a Space Robot | Neutral | 2026-11-07 06:27 |
 | Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks — But Sells CRWV, AVGO, LLY | Neutral | 2026-11-07 00:00 |
-| 3 Space Stocks With Revenue Growth Up To 27% | Neutral | 2026-11-06 19:16 |
-| SpaceX Land Deal, Tesla Merger Dealt Election Blow. Space Stocks Rebound. | Neutral | 2026-11-06 15:21 |
-| Musk Says SpaceX Will Hit a Revenue Number That Not One of Its 37 Analysts Believes | Neutral | 2026-11-06 14:26 |
 
 ## Recent SEC Filings
 

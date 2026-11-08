@@ -41,11 +41,11 @@ tags: [SPCX, Finance, Analysis]
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties | Neutral | 2026-11-07 13:11 |
-| Ceragon Networks Ltd (CRNT) (Q3 2026) Earnings Call Highlights: Revenue Jumps 11. ... | Neutral | 2026-11-07 13:10 |
-| Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better | Neutral | 2026-11-07 12:26 |
-| Musk Says His Terafab Chip Plant Could Cost $1 Trillion | Neutral | 2026-11-07 11:16 |
-| How Investors Are Reacting To Goldman Sachs Stock After Congress Shift | Neutral | 2026-11-07 11:11 |
+| Morgan Stanley Says $300. Michael Burry Says Overvalued. Here's Who Is Right About SpaceX Stock. | Neutral | 2026-11-08 07:50 |
+| Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waite | Neutral | 2026-11-08 07:09 |
+| NextNav (NN) Stock Trades Above Fair Value After An 87% Rise | Neutral | 2026-11-08 06:08 |
+| Ron Baron Has Made $30B Betting On Elon Musk — Now He Sees ‘Hundreds Of Billions’ More Coming From H | Neutral | 2026-11-08 03:56 |
+| This Week in TSLA: Elon Musk Loses Big in Midterms, Cybertruck Ends Production and More | Neutral | 2026-11-08 03:45 |
 
 ## Recent SEC Filings
 
