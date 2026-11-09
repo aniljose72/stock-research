@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $58.25 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $37.2B
+- **Current Price**: $59.28 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $37.9B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 58.5
-- **SMA20/SMA50**: $54.50 / $62.43
-- **Bollinger Bands**: $46.29 - $62.71 (Width: 30.1%, %B: 0.728)
+- **RSI**: 59.5
+- **SMA20/SMA50**: $54.55 / $62.45
+- **Bollinger Bands**: $46.23 - $62.87 (Width: 30.5%, %B: 0.784)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 58 - Neutral
-- BB: $46.29 - $62.71 (Width: 30.1%)
-- %B: 0.73 - Middle range
+- RSI 60 - Neutral
+- BB: $46.23 - $62.87 (Width: 30.5%)
+- %B: 0.78 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards | Neutral | 2026-11-09 10:43 |
+| AST SpaceMobile Soars 16% on Rakuten Japan Satellite Joint Venture: “A Key Pillar” | Neutral | 2026-11-09 10:36 |
+| Two space stocks face a major Wall Street test tonight | Neutral | 2026-11-09 10:36 |
 | Rocket Lab Jumps 9% Ahead of Earnings, AST SpaceMobile Surges 11% on Japan Satellite Venture With Ra | Neutral | 2026-11-09 09:53 |
 | SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today’s Price | Neutral | 2026-11-09 07:45 |
-| US Stock Market Today: S&P 500 Futures Nudge Higher On Jobs Strength Fed Uncertainty | Neutral | 2026-11-09 07:09 |
-| Rocket Lab Earnings Loom: Here’s What Investors Need to Know | Neutral | 2026-11-09 04:32 |
-| Nebius Could Swing $6.56 Billion After Earnings | Neutral | 2026-11-09 01:00 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $58.25 | 75% upside to mean PT $102.15 |
+| Strong Buy | $59.28 | 72% upside to mean PT $102.15 |
 
 > **Consensus**: Mean PT: $102.15; Median PT: $102.50; Analysts leaning bullish
 

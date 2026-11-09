@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $140.89 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1913.4B
-- **P/E Ratio**: 612.57
+- **Current Price**: $141.38 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1920.1B
+- **P/E Ratio**: 614.70
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.0
-- **SMA20/SMA50**: $144.12 / $149.17
-- **Bollinger Bands**: $127.61 - $160.62 (Width: 22.9%, %B: 0.402)
+- **RSI**: 46.3
+- **SMA20/SMA50**: $144.14 / $149.18
+- **Bollinger Bands**: $127.65 - $160.63 (Width: 22.9%, %B: 0.416)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 46 - Neutral
-- BB: $127.61 - $160.62 (Width: 22.9%)
-- %B: 0.40 - Middle range
+- BB: $127.65 - $160.63 (Width: 22.9%)
+- %B: 0.42 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Rocket Lab Jumps 9% Ahead of Earnings, AST SpaceMobile Surges 11% on Japan Satellite Venture With Ra | Neutral | 2026-11-09 09:53 |
-| How much is Anthropic actually worth? | Neutral | 2026-11-09 09:38 |
-| SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts | Neutral | 2026-11-09 09:37 |
-| Tesla Stock Jumps as Robo-Taxi Service Enters a New City | Neutral | 2026-11-09 09:26 |
-| Goldman Sachs (GS) Stock Looks Cheap Based On Excess Returns | Neutral | 2026-11-09 09:09 |
+| SpaceX plans $24 billion power plant in Starbase, Texas | Neutral | 2026-11-09 13:46 |
+| Why Voyager Technologies Stock Went to the Moon on Monday | Neutral | 2026-11-09 13:45 |
+| Anthropic's IPO May No Longer Value the Company Anywhere Near $2 Trillion. Does That Make it Worth B | Neutral | 2026-11-09 13:41 |
+| Morgan Stanley Climbs 4% on Vinyl Equity Deal to Capture IPO Wealth; Goldman Sachs Rises 5%, JPMorga | Neutral | 2026-11-09 13:02 |
+| Is a Continued Rebound in SpaceX Stock Imminent After Musk's Lofty Revenue Forecast? | Neutral | 2026-11-09 12:56 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $140.89 | 81% upside to mean PT $255.06 |
+| Strong Buy | $141.38 | 80% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 
