@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $142.04 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1929.1B
-- **P/E Ratio**: 617.57
+- **Current Price**: $140.89 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1913.4B
+- **P/E Ratio**: 612.57
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.8
-- **SMA20/SMA50**: $144.18 / $149.19
-- **Bollinger Bands**: $127.72 - $160.64 (Width: 22.8%, %B: 0.435)
+- **RSI**: 46.0
+- **SMA20/SMA50**: $144.12 / $149.17
+- **Bollinger Bands**: $127.61 - $160.62 (Width: 22.9%, %B: 0.402)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 47 - Neutral
-- BB: $127.72 - $160.64 (Width: 22.8%)
-- %B: 0.43 - Middle range
+- RSI 46 - Neutral
+- BB: $127.61 - $160.62 (Width: 22.9%)
+- %B: 0.40 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today’s Price | Neutral | 2026-11-09 07:45 |
-| Here's What Must Happen for SpaceX Stock to Rebound | Neutral | 2026-11-09 07:42 |
-| Goldman Sachs Delivers Surprising Take on SpaceX Stock | Neutral | 2026-11-09 07:33 |
-| Alphabet Makes $548 Million In Major Tech Stock, Keeps Massive SpaceX Stake | Neutral | 2026-11-09 07:30 |
-| Elon Musk Sets Massive 2032 Chipmaking Target for Tesla, SpaceX | Neutral | 2026-11-09 07:26 |
+| Rocket Lab Jumps 9% Ahead of Earnings, AST SpaceMobile Surges 11% on Japan Satellite Venture With Ra | Neutral | 2026-11-09 09:53 |
+| How much is Anthropic actually worth? | Neutral | 2026-11-09 09:38 |
+| SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts | Neutral | 2026-11-09 09:37 |
+| Tesla Stock Jumps as Robo-Taxi Service Enters a New City | Neutral | 2026-11-09 09:26 |
+| Goldman Sachs (GS) Stock Looks Cheap Based On Excess Returns | Neutral | 2026-11-09 09:09 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $142.04 | 80% upside to mean PT $255.06 |
+| Strong Buy | $140.89 | 81% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 
