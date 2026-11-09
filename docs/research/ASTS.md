@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $32.33 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $12.6B
+- **Current Price**: $36.26 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $14.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.58 - $133.86
-- **RSI**: 30.7
-- **SMA20/SMA50**: $40.38 / $52.17
-- **Bollinger Bands**: $30.91 - $49.85 (Width: 46.9%, %B: 0.075)
+- **RSI**: 41.3
+- **SMA20/SMA50**: $39.62 / $51.73
+- **Bollinger Bands**: $31.56 - $47.68 (Width: 40.7%, %B: 0.291)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,9 +32,9 @@ tags: [ASTS, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 31 - Neutral
-- BB: $30.91 - $49.85 (Width: 46.9%)
-- %B: 0.07 - Near lower band
+- RSI 41 - Neutral
+- BB: $31.56 - $47.68 (Width: 40.7%)
+- %B: 0.29 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
@@ -43,9 +43,9 @@ tags: [ASTS, Finance, Analysis]
 |-------|--------|----------|
 | Company News for Nov 9, 2026 | Neutral | 2026-11-09 04:21 |
 | Strength Seen in Firefly Aerospace (FLY): Can Its 36.8% Jump Turn into More Strength? | Neutral | 2026-11-09 03:32 |
-| ASTS Stock Rebounds Overnight Ahead Of Earnings — CEO Touts Satellite Progress As Blacklift Rocket R | Neutral | 2026-11-08 21:33 |
-| Why Are Billionaires Investing In AST SpaceMobile, Inc. (ASTS)? | Neutral | 2026-11-08 15:22 |
-| Dear AST SpaceMobile Stock Fans, Mark Your Calendars for November 9 | Neutral | 2026-11-08 13:54 |
+| AST SpaceMobile And Rakuten Form Rakuten AST JV To Build Direct-To-Device Communications Network In  | Neutral | 2026-11-09 02:39 |
+| What's Going On With Firefly Aerospace Stock Monday? | Neutral | 2026-11-09 02:11 |
+| Nebius Could Swing $6.56 Billion After Earnings | Neutral | 2026-11-09 01:00 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $32.33 | 131% upside to mean PT $74.68 |
+| Strong Buy | $36.26 | 106% upside to mean PT $74.68 |
 
 > **Consensus**: Mean PT: $74.68; Median PT: $78.00; Analysts leaning bullish
 

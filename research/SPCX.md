@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $134.27 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1823.5B
-- **P/E Ratio**: 583.78
+- **Current Price**: $142.04 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1929.1B
+- **P/E Ratio**: 617.57
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 41.4
-- **SMA20/SMA50**: $145.24 / $149.18
-- **Bollinger Bands**: $126.72 - $163.77 (Width: 25.5%, %B: 0.204)
+- **RSI**: 46.8
+- **SMA20/SMA50**: $144.18 / $149.19
+- **Bollinger Bands**: $127.72 - $160.64 (Width: 22.8%, %B: 0.435)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 41 - Neutral
-- BB: $126.72 - $163.77 (Width: 25.5%)
-- %B: 0.20 - Middle range
+- RSI 47 - Neutral
+- BB: $127.72 - $160.64 (Width: 22.8%)
+- %B: 0.43 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| “Don’t Come Begging To Taxpayers,” Bernie Sanders Warns Big Tech “You Won’t Be Bailed Out” If AI Bet | Neutral | 2026-11-09 05:40 |
-| Cathie Wood sends surprising message after AI stock crash | Neutral | 2026-11-09 05:31 |
-| Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move | Neutral | 2026-11-09 05:18 |
-| Nvidia’s Stock Falls 5%. What That Tells Us About Jensen Huang’s Future. | Neutral | 2026-11-09 04:44 |
-| Stock Market Today: Nvidia Board Opens Probe Into Jensen Huang as Wall Street Licks Its AI Wounds | Neutral | 2026-11-09 02:40 |
+| SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today’s Price | Neutral | 2026-11-09 07:45 |
+| Here's What Must Happen for SpaceX Stock to Rebound | Neutral | 2026-11-09 07:42 |
+| Goldman Sachs Delivers Surprising Take on SpaceX Stock | Neutral | 2026-11-09 07:33 |
+| Alphabet Makes $548 Million In Major Tech Stock, Keeps Massive SpaceX Stake | Neutral | 2026-11-09 07:30 |
+| Elon Musk Sets Massive 2032 Chipmaking Target for Tesla, SpaceX | Neutral | 2026-11-09 07:26 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $134.27 | 90% upside to mean PT $255.06 |
+| Strong Buy | $142.04 | 80% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 

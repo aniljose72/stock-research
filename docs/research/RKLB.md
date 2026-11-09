@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $53.07 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $33.9B
+- **Current Price**: $58.16 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $37.2B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 52.2
-- **SMA20/SMA50**: $54.87 / $62.56
-- **Bollinger Bands**: $45.37 - $64.38 (Width: 34.6%, %B: 0.405)
+- **RSI**: 58.4
+- **SMA20/SMA50**: $54.50 / $62.43
+- **Bollinger Bands**: $46.29 - $62.70 (Width: 30.1%, %B: 0.723)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 52 - Neutral
-- BB: $45.37 - $64.38 (Width: 34.6%)
-- %B: 0.41 - Middle range
+- RSI 58 - Neutral
+- BB: $46.29 - $62.70 (Width: 30.1%)
+- %B: 0.72 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today’s Price | Neutral | 2026-11-09 07:45 |
+| US Stock Market Today: S&P 500 Futures Nudge Higher On Jobs Strength Fed Uncertainty | Neutral | 2026-11-09 07:09 |
+| Rocket Lab Earnings Loom: Here’s What Investors Need to Know | Neutral | 2026-11-09 04:32 |
+| Nebius Could Swing $6.56 Billion After Earnings | Neutral | 2026-11-09 01:00 |
 | RKLB Stock Climbs Overnight Ahead Of Earnings — Bulls Bet Neutron Delay Is Priced In Amid Fresh Prog | Neutral | 2026-11-08 23:19 |
-| Billionaires Are Loading Up on Space Stocks: Does Rocket Lab (RKLB) Make the Cut? | Neutral | 2026-11-08 15:40 |
-| Why Nov. 9 Could Be a Huge Day for Rocket Lab Investors | Neutral | 2026-11-08 15:05 |
-| Inflation Data, Constellation Energy, Skydance, Applied Materials, and More to Watch This Week | Neutral | 2026-11-08 13:00 |
-| Rocket Lab Reports Monday With Neutron Pushed to 2027 and Its CFO Selling $17 Million of Stock | Neutral | 2026-11-08 10:49 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $53.07 | 92% upside to mean PT $102.15 |
+| Strong Buy | $58.16 | 76% upside to mean PT $102.15 |
 
 > **Consensus**: Mean PT: $102.15; Median PT: $102.50; Analysts leaning bullish
 
