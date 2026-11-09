@@ -41,11 +41,11 @@ tags: [SPCX, Finance, Analysis]
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Morgan Stanley Says $300. Michael Burry Says Overvalued. Here's Who Is Right About SpaceX Stock. | Neutral | 2026-11-08 07:50 |
-| Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waite | Neutral | 2026-11-08 07:09 |
-| NextNav (NN) Stock Trades Above Fair Value After An 87% Rise | Neutral | 2026-11-08 06:08 |
-| Ron Baron Has Made $30B Betting On Elon Musk — Now He Sees ‘Hundreds Of Billions’ More Coming From H | Neutral | 2026-11-08 03:56 |
-| This Week in TSLA: Elon Musk Loses Big in Midterms, Cybertruck Ends Production and More | Neutral | 2026-11-08 03:45 |
+| “Don’t Come Begging To Taxpayers,” Bernie Sanders Warns Big Tech “You Won’t Be Bailed Out” If AI Bet | Neutral | 2026-11-09 05:40 |
+| Cathie Wood sends surprising message after AI stock crash | Neutral | 2026-11-09 05:31 |
+| Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move | Neutral | 2026-11-09 05:18 |
+| Nvidia’s Stock Falls 5%. What That Tells Us About Jensen Huang’s Future. | Neutral | 2026-11-09 04:44 |
+| Stock Market Today: Nvidia Board Opens Probe Into Jensen Huang as Wall Street Licks Its AI Wounds | Neutral | 2026-11-09 02:40 |
 
 ## Recent SEC Filings
 
