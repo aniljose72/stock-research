@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $59.10 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $37.8B
+- **Current Price**: $60.15 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $38.5B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 56.7
-- **SMA20/SMA50**: $54.28 / $62.35
-- **Bollinger Bands**: $47.00 - $61.56 (Width: 26.8%, %B: 0.831)
+- **RSI**: 57.7
+- **SMA20/SMA50**: $54.33 / $62.37
+- **Bollinger Bands**: $46.90 - $61.75 (Width: 27.3%, %B: 0.892)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 57 - Neutral
-- BB: $47.00 - $61.56 (Width: 26.8%)
-- %B: 0.83 - Near upper band
+- RSI 58 - Neutral
+- BB: $46.90 - $61.75 (Width: 27.3%)
+- %B: 0.89 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobile Falls 6% on BofA Price Target Cut; Space | Neutral | 2026-11-10 08:02 |
-| Rocket Lab Imploded, Falling 45% in 6 Months: Here’s Why One Analyst Predicts 160% Returns From Toda | Neutral | 2026-11-10 07:45 |
-| Rocket Lab Retreats On Mixed Q3 Report, Analysts Say Neutron Timing Is Key | Neutral | 2026-11-10 07:32 |
-| Rocket Lab Just Gained 13% in a Week: Take Profits, or Buy More? | Neutral | 2026-11-10 07:27 |
-| Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall | Neutral | 2026-11-10 07:04 |
+| Rocket Lab (RKLB) Q3 2026 Earnings Call Transcript | Neutral | 2026-11-10 09:59 |
+| RKLB Stock Draws Wall Street’s Attention – Cantor Sees Attractive Entry Point Ahead Of These Two Key | Neutral | 2026-11-10 09:10 |
+| Rocket Lab’s (NASDAQ:RKLB) Q3 2026: strong sales, guides for strong sales next quarter | Neutral | 2026-11-10 08:53 |
+| Rocket Lab Slides On Mixed Q3 Report, Analysts Say Neutron Timing Is Key | Neutral | 2026-11-10 08:53 |
+| Rocket Lab stock tumbles as earnings reveal a $3.6 billion twist | Neutral | 2026-11-10 08:33 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $59.10 | 68% upside to mean PT $99.40 |
+| Strong Buy | $60.15 | 65% upside to mean PT $99.40 |
 
 > **Consensus**: Mean PT: $99.40; Median PT: $100.00; Analysts leaning bullish
 
