@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $140.98 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1914.7B
-- **P/E Ratio**: 612.96
+- **Current Price**: $142.16 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1930.6B
+- **P/E Ratio**: 618.07
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 38.1
-- **SMA20/SMA50**: $143.40 / $149.14
-- **Bollinger Bands**: $127.96 - $158.84 (Width: 21.5%, %B: 0.422)
+- **RSI**: 38.8
+- **SMA20/SMA50**: $143.46 / $149.16
+- **Bollinger Bands**: $128.05 - $158.87 (Width: 21.5%, %B: 0.458)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 38 - Neutral
-- BB: $127.96 - $158.84 (Width: 21.5%)
-- %B: 0.42 - Middle range
+- RSI 39 - Neutral
+- BB: $128.05 - $158.87 (Width: 21.5%)
+- %B: 0.46 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX Sets Date For Critical Starship Flight 15, Plans Tower Catches | Neutral | 2026-11-10 09:25 |
-| SpaceX Wants a Tax Break for a $24 Billion Gas Plant and Supercomputer at Starbase | Neutral | 2026-11-10 09:23 |
-| Could QUALCOMM (QCOM) Be 8% Undervalued Following Its Fresh Debt Raise? | Neutral | 2026-11-10 09:08 |
-| Dan Ives Says Microsoft Amazon and Meta Win Big as Data Center Slowdown Looms | Neutral | 2026-11-10 08:56 |
-| SpaceX to Build $24B TX Data Center & Gas Plant: Stock Worth a Bet? | Neutral | 2026-11-10 08:17 |
+| Musk Calls Anthropic’s Opus 5.5 “a Masterpiece” but Says Grok 5 Beats It “in 2 or 3 Months” | Neutral | 2026-11-10 11:55 |
+| Space stocks Rocket Lab, AST SpaceMobile on the move following earnings, operational updates | Neutral | 2026-11-10 11:53 |
+| Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster | Neutral | 2026-11-10 11:39 |
+| Why SpaceX Could Be the Best Buy-and-Hold Stock of the Decade | Neutral | 2026-11-10 11:36 |
+| Anthropic Will Pay SpaceX “Over $3 Billion Per Month.” Cramer Says a Failed IPO Hits Nvidia Too | Neutral | 2026-11-10 10:43 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $140.98 | 81% upside to mean PT $255.06 |
+| Strong Buy | $142.16 | 79% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 

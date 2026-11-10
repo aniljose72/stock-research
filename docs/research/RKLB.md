@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $60.15 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $38.5B
+- **Current Price**: $61.02 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $39.0B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 57.7
-- **SMA20/SMA50**: $54.33 / $62.37
-- **Bollinger Bands**: $46.90 - $61.75 (Width: 27.3%, %B: 0.892)
+- **RSI**: 58.5
+- **SMA20/SMA50**: $54.37 / $62.39
+- **Bollinger Bands**: $46.79 - $61.95 (Width: 27.9%, %B: 0.939)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 58 - Neutral
-- BB: $46.90 - $61.75 (Width: 27.3%)
-- %B: 0.89 - Near upper band
+- BB: $46.79 - $61.95 (Width: 27.9%)
+- %B: 0.94 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Space stocks Rocket Lab, AST SpaceMobile on the move following earnings, operational updates | Neutral | 2026-11-10 11:53 |
+| Stock Market Midday, Nov. 10: Stocks Slide on Hot Inflation Data | Neutral | 2026-11-10 11:40 |
+| Rocket Lab earnings: what to look for from RKLB | Neutral | 2026-11-10 11:09 |
 | Rocket Lab (RKLB) Q3 2026 Earnings Call Transcript | Neutral | 2026-11-10 09:59 |
-| RKLB Stock Draws Wall Street’s Attention – Cantor Sees Attractive Entry Point Ahead Of These Two Key | Neutral | 2026-11-10 09:10 |
-| Rocket Lab’s (NASDAQ:RKLB) Q3 2026: strong sales, guides for strong sales next quarter | Neutral | 2026-11-10 08:53 |
-| Rocket Lab Slides On Mixed Q3 Report, Analysts Say Neutron Timing Is Key | Neutral | 2026-11-10 08:53 |
-| Rocket Lab stock tumbles as earnings reveal a $3.6 billion twist | Neutral | 2026-11-10 08:33 |
+| AST SpaceMobile Sinks 8% on Q3 Miss as BofA Slashes Target to $45 Over Rocket Risk | Neutral | 2026-11-10 09:53 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $60.15 | 65% upside to mean PT $99.40 |
+| Strong Buy | $61.02 | 63% upside to mean PT $99.40 |
 
 > **Consensus**: Mean PT: $99.40; Median PT: $100.00; Analysts leaning bullish
 
