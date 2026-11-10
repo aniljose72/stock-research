@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $142.07 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1929.5B
-- **P/E Ratio**: 617.70
+- **Current Price**: $143.38 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1947.3B
+- **P/E Ratio**: 623.39
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.7
-- **SMA20/SMA50**: $144.18 / $149.19
-- **Bollinger Bands**: $127.71 - $160.64 (Width: 22.8%, %B: 0.436)
+- **RSI**: 39.7
+- **SMA20/SMA50**: $143.52 / $149.19
+- **Bollinger Bands**: $128.12 - $158.92 (Width: 21.5%, %B: 0.496)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 47 - Neutral
-- BB: $127.71 - $160.64 (Width: 22.8%)
-- %B: 0.44 - Middle range
+- RSI 40 - Neutral
+- BB: $128.12 - $158.92 (Width: 21.5%)
+- %B: 0.50 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Anthropic cuts valuation to $1tn after AI sell-off | Neutral | 2026-11-10 05:51 |
-| SpaceX Is Buying Turbines, Building Pipelines, and Hiring Gas Traders. Here's What $5,000 in SpaceX  | Neutral | 2026-11-10 05:50 |
-| Elon Musk's $24 billion Texas plan faces a major obstacle | Neutral | 2026-11-10 05:23 |
-| NASA Says Bezos’ Blue Origin Can Compete For Up to $10 Billion in Moon Base Contracts, As Musk’s Spa | Neutral | 2026-11-10 05:16 |
-| Our Pick Of The Best Founder Led Stocks In November 2026 | Neutral | 2026-11-10 05:10 |
+| Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobile Falls 6% on BofA Price Target Cut; Space | Neutral | 2026-11-10 08:02 |
+| Rocket Lab Imploded, Falling 45% in 6 Months: Here’s Why One Analyst Predicts 160% Returns From Toda | Neutral | 2026-11-10 07:45 |
+| If I Had $1,000 to Invest Today, I'd Buy This Trillion-Dollar Stock Instead of SpaceX | Neutral | 2026-11-10 07:29 |
+| Rocket Lab Just Gained 13% in a Week: Take Profits, or Buy More? | Neutral | 2026-11-10 07:27 |
+| 3 Things You Need to Know Before Buying SpaceX | Neutral | 2026-11-10 07:20 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $142.07 | 80% upside to mean PT $255.06 |
+| Strong Buy | $143.38 | 78% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 

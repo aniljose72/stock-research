@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $58.86 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $37.6B
+- **Current Price**: $59.10 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $37.8B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 59.1
-- **SMA20/SMA50**: $54.53 / $62.45
-- **Bollinger Bands**: $46.26 - $62.80 (Width: 30.3%, %B: 0.762)
+- **RSI**: 56.7
+- **SMA20/SMA50**: $54.28 / $62.35
+- **Bollinger Bands**: $47.00 - $61.56 (Width: 26.8%, %B: 0.831)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 59 - Neutral
-- BB: $46.26 - $62.80 (Width: 30.3%)
-- %B: 0.76 - Middle range
+- RSI 57 - Neutral
+- BB: $47.00 - $61.56 (Width: 26.8%)
+- %B: 0.83 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Rocket Lab Shares Fall Over 5% After Q3 Earnings Miss Despite 73% Revenue Growth and Record Backlog | Neutral | 2026-11-10 05:41 |
-| Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab, AMD to Open Lower | Neutral | 2026-11-10 05:36 |
-| Why Rocket Lab Stock Crashed After Earnings | Neutral | 2026-11-10 05:26 |
-| Rocket Lab's Record $3.6 Billion Backlog Can't Lift the Stock | Neutral | 2026-11-10 05:23 |
-| US Stock Futures Mixed As Investors Await CPI Data — AMD, CRWV, RKLB Stocks In Focus | Neutral | 2026-11-10 04:20 |
+| Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobile Falls 6% on BofA Price Target Cut; Space | Neutral | 2026-11-10 08:02 |
+| Rocket Lab Imploded, Falling 45% in 6 Months: Here’s Why One Analyst Predicts 160% Returns From Toda | Neutral | 2026-11-10 07:45 |
+| Rocket Lab Retreats On Mixed Q3 Report, Analysts Say Neutron Timing Is Key | Neutral | 2026-11-10 07:32 |
+| Rocket Lab Just Gained 13% in a Week: Take Profits, or Buy More? | Neutral | 2026-11-10 07:27 |
+| Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall | Neutral | 2026-11-10 07:04 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $58.86 | 69% upside to mean PT $99.40 |
+| Strong Buy | $59.10 | 68% upside to mean PT $99.40 |
 
 > **Consensus**: Mean PT: $99.40; Median PT: $100.00; Analysts leaning bullish
 
