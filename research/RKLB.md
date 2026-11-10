@@ -8,44 +8,44 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $59.28 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $37.9B
+- **Current Price**: $58.86 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $37.6B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 59.5
-- **SMA20/SMA50**: $54.55 / $62.45
-- **Bollinger Bands**: $46.23 - $62.87 (Width: 30.5%, %B: 0.784)
+- **RSI**: 59.1
+- **SMA20/SMA50**: $54.53 / $62.45
+- **Bollinger Bands**: $46.26 - $62.80 (Width: 30.3%, %B: 0.762)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $102.15; Median PT: $102.50; Analysts leaning bullish
+- **Consensus**: Mean PT: $99.40; Median PT: $100.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $102.15 (2026-11-07 16:52:22 UTC-05:00)
-- **High/Low**: $150.00 / $64.00
+- **Mean Target**: $99.40 (2026-11-07 16:52:22 UTC-05:00)
+- **High/Low**: $150.00 / $58.00
 - **Ratings**: Strong Buy: 5, Buy: 13, Hold: 4, Sell: 0, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 60 - Neutral
-- BB: $46.23 - $62.87 (Width: 30.5%)
-- %B: 0.78 - Middle range
+- RSI 59 - Neutral
+- BB: $46.26 - $62.80 (Width: 30.3%)
+- %B: 0.76 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards | Neutral | 2026-11-09 10:43 |
-| AST SpaceMobile Soars 16% on Rakuten Japan Satellite Joint Venture: “A Key Pillar” | Neutral | 2026-11-09 10:36 |
-| Two space stocks face a major Wall Street test tonight | Neutral | 2026-11-09 10:36 |
-| Rocket Lab Jumps 9% Ahead of Earnings, AST SpaceMobile Surges 11% on Japan Satellite Venture With Ra | Neutral | 2026-11-09 09:53 |
-| SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today’s Price | Neutral | 2026-11-09 07:45 |
+| Rocket Lab Shares Fall Over 5% After Q3 Earnings Miss Despite 73% Revenue Growth and Record Backlog | Neutral | 2026-11-10 05:41 |
+| Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab, AMD to Open Lower | Neutral | 2026-11-10 05:36 |
+| Why Rocket Lab Stock Crashed After Earnings | Neutral | 2026-11-10 05:26 |
+| Rocket Lab's Record $3.6 Billion Backlog Can't Lift the Stock | Neutral | 2026-11-10 05:23 |
+| US Stock Futures Mixed As Investors Await CPI Data — AMD, CRWV, RKLB Stocks In Focus | Neutral | 2026-11-10 04:20 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $59.28 | 72% upside to mean PT $102.15 |
+| Strong Buy | $58.86 | 69% upside to mean PT $99.40 |
 
-> **Consensus**: Mean PT: $102.15; Median PT: $102.50; Analysts leaning bullish
+> **Consensus**: Mean PT: $99.40; Median PT: $100.00; Analysts leaning bullish
 
 ---
 

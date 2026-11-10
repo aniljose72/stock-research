@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $141.38 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1920.1B
-- **P/E Ratio**: 614.70
+- **Current Price**: $142.07 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1929.5B
+- **P/E Ratio**: 617.70
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.3
-- **SMA20/SMA50**: $144.14 / $149.18
-- **Bollinger Bands**: $127.65 - $160.63 (Width: 22.9%, %B: 0.416)
+- **RSI**: 46.7
+- **SMA20/SMA50**: $144.18 / $149.19
+- **Bollinger Bands**: $127.71 - $160.64 (Width: 22.8%, %B: 0.436)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 46 - Neutral
-- BB: $127.65 - $160.63 (Width: 22.9%)
-- %B: 0.42 - Middle range
+- RSI 47 - Neutral
+- BB: $127.71 - $160.64 (Width: 22.8%)
+- %B: 0.44 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX plans $24 billion power plant in Starbase, Texas | Neutral | 2026-11-09 13:46 |
-| Why Voyager Technologies Stock Went to the Moon on Monday | Neutral | 2026-11-09 13:45 |
-| Anthropic's IPO May No Longer Value the Company Anywhere Near $2 Trillion. Does That Make it Worth B | Neutral | 2026-11-09 13:41 |
-| Morgan Stanley Climbs 4% on Vinyl Equity Deal to Capture IPO Wealth; Goldman Sachs Rises 5%, JPMorga | Neutral | 2026-11-09 13:02 |
-| Is a Continued Rebound in SpaceX Stock Imminent After Musk's Lofty Revenue Forecast? | Neutral | 2026-11-09 12:56 |
+| Anthropic cuts valuation to $1tn after AI sell-off | Neutral | 2026-11-10 05:51 |
+| SpaceX Is Buying Turbines, Building Pipelines, and Hiring Gas Traders. Here's What $5,000 in SpaceX  | Neutral | 2026-11-10 05:50 |
+| Elon Musk's $24 billion Texas plan faces a major obstacle | Neutral | 2026-11-10 05:23 |
+| NASA Says Bezos’ Blue Origin Can Compete For Up to $10 Billion in Moon Base Contracts, As Musk’s Spa | Neutral | 2026-11-10 05:16 |
+| Our Pick Of The Best Founder Led Stocks In November 2026 | Neutral | 2026-11-10 05:10 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $141.38 | 80% upside to mean PT $255.06 |
+| Strong Buy | $142.07 | 80% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 
