@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $143.09 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1943.3B
-- **P/E Ratio**: 622.13
+- **Current Price**: $141.35 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1919.8B
+- **P/E Ratio**: 614.59
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 39.5
-- **SMA20/SMA50**: $143.50 / $149.18
-- **Bollinger Bands**: $128.10 - $158.90 (Width: 21.5%, %B: 0.487)
+- **RSI**: 47.4
+- **SMA20/SMA50**: $142.96 / $149.16
+- **Bollinger Bands**: $128.09 - $157.84 (Width: 20.8%, %B: 0.446)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 40 - Neutral
-- BB: $128.10 - $158.90 (Width: 21.5%)
-- %B: 0.49 - Middle range
+- RSI 47 - Neutral
+- BB: $128.09 - $157.84 (Width: 20.8%)
+- %B: 0.45 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Dear SpaceX Stock Fans, Get Ready for November 13 | Neutral | 2026-11-11 05:53 |
-| Social Buzz: Wallstreetbets Stocks Advance Premarket Wednesday; CoreWeave, Nebius Group to Open High | Neutral | 2026-11-11 05:41 |
-| Space Exploration Technologies (SPCX) Director Resigns, Is The 31% Undervaluation Case Still Intact? | Neutral | 2026-11-11 05:11 |
-| What 400 years of hot IPOs say about buying Anthropic on day one: Chart of the Day | Neutral | 2026-11-11 05:00 |
-| Your Index Funds Will Soon Be Forced to Buy This $1.4 Trillion Company. Its Own Safety Alarm Just We | Neutral | 2026-11-11 04:53 |
+| Anthropic IPO demand exceeds available shares multiple times, Bloomberg reports | Neutral | 2026-11-11 07:56 |
+| Elon Musk Aims for Historic 'Double Catch' Friday | Neutral | 2026-11-11 07:50 |
+| Musk’s Companies Will Face Intense Democrat Scrutiny, But One is Under More Heat | Neutral | 2026-11-11 07:45 |
+| Here's What $1,000 Invested in SpaceX Could Be Worth by the End of 2027 | Neutral | 2026-11-11 07:22 |
+| Bad News: There's a New Red Flag Ahead of the Anthropic IPO | Neutral | 2026-11-11 06:26 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $143.09 | 78% upside to mean PT $255.06 |
+| Strong Buy | $141.35 | 80% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 
