@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $66.83 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $45.0B
+- **Current Price**: $67.21 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $45.2B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 66.8
-- **SMA20/SMA50**: $54.84 / $62.51
-- **Bollinger Bands**: $45.37 - $64.31 (Width: 34.5%, %B: 1.133)
+- **RSI**: 67.1
+- **SMA20/SMA50**: $54.86 / $62.52
+- **Bollinger Bands**: $45.27 - $64.44 (Width: 34.9%, %B: 1.145)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 67 - Neutral
-- BB: $45.37 - $64.31 (Width: 34.5%)
-- %B: 1.13 - Near upper band
+- BB: $45.27 - $64.44 (Width: 34.9%)
+- %B: 1.15 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Rocket Lab's Neutron Commercialization Path Outweighs Q3 Margin Noise, Morgan Stanley Says | Neutral | 2026-11-11 09:44 |
 | Cathie Wood Just Bought $3.4 Million of This Surging Space Stock | Neutral | 2026-11-11 05:13 |
 | SpaceX Wins NASA Moon Base Awards, but Government Is “Less Than 10%” of Its Revenue | Neutral | 2026-11-11 01:28 |
 | Needham Maintains Buy on Rocket Lab, Lowers Price Target to $100 | Neutral | 2026-11-11 01:10 |
 | 3 Growth Stocks With Earnings Growth Reaching 120% | Neutral | 2026-11-11 00:16 |
-| Is SpaceX Winding Down Falcon 9 Really “A Gift to Rocket Lab”? | Neutral | 2026-11-10 23:27 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $66.83 | 47% upside to mean PT $98.25 |
+| Strong Buy | $67.21 | 46% upside to mean PT $98.25 |
 
 > **Consensus**: Mean PT: $98.25; Median PT: $100.00; Analysts leaning bullish
 
