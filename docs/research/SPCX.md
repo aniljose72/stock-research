@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $142.16 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1930.6B
-- **P/E Ratio**: 618.07
+- **Current Price**: $143.09 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1943.3B
+- **P/E Ratio**: 622.13
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 38.8
-- **SMA20/SMA50**: $143.46 / $149.16
-- **Bollinger Bands**: $128.05 - $158.87 (Width: 21.5%, %B: 0.458)
+- **RSI**: 39.5
+- **SMA20/SMA50**: $143.50 / $149.18
+- **Bollinger Bands**: $128.10 - $158.90 (Width: 21.5%, %B: 0.487)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 39 - Neutral
-- BB: $128.05 - $158.87 (Width: 21.5%)
-- %B: 0.46 - Middle range
+- RSI 40 - Neutral
+- BB: $128.10 - $158.90 (Width: 21.5%)
+- %B: 0.49 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Musk Calls Anthropic’s Opus 5.5 “a Masterpiece” but Says Grok 5 Beats It “in 2 or 3 Months” | Neutral | 2026-11-10 11:55 |
-| Space stocks Rocket Lab, AST SpaceMobile on the move following earnings, operational updates | Neutral | 2026-11-10 11:53 |
-| Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster | Neutral | 2026-11-10 11:39 |
-| Why SpaceX Could Be the Best Buy-and-Hold Stock of the Decade | Neutral | 2026-11-10 11:36 |
-| Anthropic Will Pay SpaceX “Over $3 Billion Per Month.” Cramer Says a Failed IPO Hits Nvidia Too | Neutral | 2026-11-10 10:43 |
+| Dear SpaceX Stock Fans, Get Ready for November 13 | Neutral | 2026-11-11 05:53 |
+| Social Buzz: Wallstreetbets Stocks Advance Premarket Wednesday; CoreWeave, Nebius Group to Open High | Neutral | 2026-11-11 05:41 |
+| Space Exploration Technologies (SPCX) Director Resigns, Is The 31% Undervaluation Case Still Intact? | Neutral | 2026-11-11 05:11 |
+| What 400 years of hot IPOs say about buying Anthropic on day one: Chart of the Day | Neutral | 2026-11-11 05:00 |
+| Your Index Funds Will Soon Be Forced to Buy This $1.4 Trillion Company. Its Own Safety Alarm Just We | Neutral | 2026-11-11 04:53 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $142.16 | 79% upside to mean PT $255.06 |
+| Strong Buy | $143.09 | 78% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 

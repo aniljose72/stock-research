@@ -8,44 +8,44 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $61.02 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $39.0B
+- **Current Price**: $62.71 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $42.2B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 58.5
-- **SMA20/SMA50**: $54.37 / $62.39
-- **Bollinger Bands**: $46.79 - $61.95 (Width: 27.9%, %B: 0.939)
+- **RSI**: 60.1
+- **SMA20/SMA50**: $54.45 / $62.42
+- **Bollinger Bands**: $46.53 - $62.37 (Width: 29.1%, %B: 1.021)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $99.40; Median PT: $100.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $98.25; Median PT: $100.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $99.40 (2026-11-07 16:52:22 UTC-05:00)
+- **Mean Target**: $98.25 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $150.00 / $58.00
 - **Ratings**: Strong Buy: 5, Buy: 13, Hold: 4, Sell: 0, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 58 - Neutral
-- BB: $46.79 - $61.95 (Width: 27.9%)
-- %B: 0.94 - Near upper band
+- RSI 60 - Neutral
+- BB: $46.53 - $62.37 (Width: 29.1%)
+- %B: 1.02 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Space stocks Rocket Lab, AST SpaceMobile on the move following earnings, operational updates | Neutral | 2026-11-10 11:53 |
-| Stock Market Midday, Nov. 10: Stocks Slide on Hot Inflation Data | Neutral | 2026-11-10 11:40 |
-| Rocket Lab earnings: what to look for from RKLB | Neutral | 2026-11-10 11:09 |
-| Rocket Lab (RKLB) Q3 2026 Earnings Call Transcript | Neutral | 2026-11-10 09:59 |
-| AST SpaceMobile Sinks 8% on Q3 Miss as BofA Slashes Target to $45 Over Rocket Risk | Neutral | 2026-11-10 09:53 |
+| Cathie Wood Just Bought $3.4 Million of This Surging Space Stock | Neutral | 2026-11-11 05:13 |
+| SpaceX Wins NASA Moon Base Awards, but Government Is “Less Than 10%” of Its Revenue | Neutral | 2026-11-11 01:28 |
+| 3 Growth Stocks With Earnings Growth Reaching 120% | Neutral | 2026-11-11 00:16 |
+| Is SpaceX Winding Down Falcon 9 Really “A Gift to Rocket Lab”? | Neutral | 2026-11-10 23:27 |
+| RKLB Vs. SPCX: Which Space Stock Has More Upside As Rocket Lab’s Iridium Deal Deepens Spectrum Feud? | Neutral | 2026-11-10 22:40 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $61.02 | 63% upside to mean PT $99.40 |
+| Strong Buy | $62.71 | 57% upside to mean PT $98.25 |
 
-> **Consensus**: Mean PT: $99.40; Median PT: $100.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $98.25; Median PT: $100.00; Analysts leaning bullish
 
 ---
 
