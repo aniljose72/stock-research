@@ -8,44 +8,44 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $67.21 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $45.2B
+- **Current Price**: $65.91 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $44.4B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 67.1
-- **SMA20/SMA50**: $54.86 / $62.52
-- **Bollinger Bands**: $45.27 - $64.44 (Width: 34.9%, %B: 1.145)
+- **RSI**: 66.1
+- **SMA20/SMA50**: $54.79 / $62.49
+- **Bollinger Bands**: $45.56 - $64.02 (Width: 33.7%, %B: 1.102)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $98.25; Median PT: $100.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $96.50; Median PT: $100.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $98.25 (2026-11-07 16:52:22 UTC-05:00)
+- **Mean Target**: $96.50 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $150.00 / $58.00
 - **Ratings**: Strong Buy: 5, Buy: 13, Hold: 4, Sell: 0, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 67 - Neutral
-- BB: $45.27 - $64.44 (Width: 34.9%)
-- %B: 1.15 - Near upper band
+- RSI 66 - Neutral
+- BB: $45.56 - $64.02 (Width: 33.7%)
+- %B: 1.10 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Rocket Lab's Neutron Commercialization Path Outweighs Q3 Margin Noise, Morgan Stanley Says | Neutral | 2026-11-11 09:44 |
-| Cathie Wood Just Bought $3.4 Million of This Surging Space Stock | Neutral | 2026-11-11 05:13 |
-| SpaceX Wins NASA Moon Base Awards, but Government Is “Less Than 10%” of Its Revenue | Neutral | 2026-11-11 01:28 |
-| Needham Maintains Buy on Rocket Lab, Lowers Price Target to $100 | Neutral | 2026-11-11 01:10 |
-| 3 Growth Stocks With Earnings Growth Reaching 120% | Neutral | 2026-11-11 00:16 |
+| Rocket Lab Soars 6% as Morgan Stanley Looks Past “Q3 Margin Noise” to Neutron | Neutral | 2026-11-11 13:06 |
+| Before a Planned Catch of Both Rocket Stages, Space Companies Lay Out Fresh Results | Neutral | 2026-11-11 12:25 |
+| Cathie Wood's ARK Pares Amazon, Adds These Aerospace Stocks | Neutral | 2026-11-11 12:07 |
+| Rocket Lab Long-Term Trajectory Intact Amid Higher Neutron Pricing, Backlog Expansion, Morgan Stanle | Neutral | 2026-11-11 11:31 |
+| Rocket Lab Stock Rises 23.5% in a Year: Is There More Upside Ahead? | Neutral | 2026-11-11 11:14 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $67.21 | 46% upside to mean PT $98.25 |
+| Strong Buy | $65.91 | 46% upside to mean PT $96.50 |
 
-> **Consensus**: Mean PT: $98.25; Median PT: $100.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $96.50; Median PT: $100.00; Analysts leaning bullish
 
 ---
 

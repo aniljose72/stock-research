@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $142.43 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1934.5B
-- **P/E Ratio**: 619.30
+- **Current Price**: $140.89 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1913.4B
+- **P/E Ratio**: 612.57
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 48.2
-- **SMA20/SMA50**: $143.02 / $149.19
-- **Bollinger Bands**: $128.16 - $157.87 (Width: 20.8%, %B: 0.480)
+- **RSI**: 47.0
+- **SMA20/SMA50**: $142.94 / $149.16
+- **Bollinger Bands**: $128.06 - $157.82 (Width: 20.8%, %B: 0.431)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 48 - Neutral
-- BB: $128.16 - $157.87 (Width: 20.8%)
-- %B: 0.48 - Middle range
+- RSI 47 - Neutral
+- BB: $128.06 - $157.82 (Width: 20.8%)
+- %B: 0.43 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Anthropic's IPO has a line around the block. History says that's not the signal to watch. | Neutral | 2026-11-11 10:09 |
-| Anthropic IPO eyes higher valuation as stronger demand pushes price up | Neutral | 2026-11-11 08:55 |
-| Tesla Is Scrapping a 250,000-Unit Cybertruck Dream for Cybercabs. Waymo Got to San Antonio First | Neutral | 2026-11-11 08:50 |
-| AI Trade bounces back, Kalshi possibly facing charges, OpenAI continues to see heavy losses | Neutral | 2026-11-11 08:44 |
-| Elon Musk's SpaceX Reportedly Plans $24 Billion Gas-Fired Power Plant and AI Data Center In Texas | Neutral | 2026-11-11 08:30 |
+| AT&T or Pfizer: Only One Gets My Dividend Dollars for the Next 10 Years | Neutral | 2026-11-11 13:50 |
+| Nov 13 Could Be A Huge Day For SpaceX Stock | Neutral | 2026-11-11 13:50 |
+| Is SpaceX a Millionaire-Maker Stock? | Neutral | 2026-11-11 13:36 |
+| Elon Musk's SpaceX Could Be Making AST SpaceMobile More Valuable, Analysts Say | Neutral | 2026-11-11 13:00 |
+| Is SpaceX Stock a Buy Right Now? | Neutral | 2026-11-11 12:46 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $142.43 | 79% upside to mean PT $255.06 |
+| Strong Buy | $140.89 | 81% upside to mean PT $255.06 |
 
 > **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
 
