@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $64.74 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $43.6B
+- **Current Price**: $65.48 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $44.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 63.2
-- **SMA20/SMA50**: $55.28 / $62.53
-- **Bollinger Bands**: $44.98 - $65.58 (Width: 37.3%, %B: 0.959)
+- **RSI**: 64.3
+- **SMA20/SMA50**: $55.31 / $62.54
+- **Bollinger Bands**: $44.86 - $65.76 (Width: 37.8%, %B: 0.986)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 63 - Neutral
-- BB: $44.98 - $65.58 (Width: 37.3%)
-- %B: 0.96 - Near upper band
+- RSI 64 - Neutral
+- BB: $44.86 - $65.76 (Width: 37.8%)
+- %B: 0.99 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Should I Buy Rocket Lab Stock Now? | Neutral | 2026-11-12 09:54 |
+| Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3 | Neutral | 2026-11-12 08:51 |
+| Intuitive Machines Stock Heads Back to the Moon as Revenues Rise | Neutral | 2026-11-12 08:36 |
 | Could Rocket Lab Actually Climb 56%? Or Is Morgan Stanley Totally Wrong? | Neutral | 2026-11-12 06:55 |
 | Can RKLB's ESCAPADE Mission Strengthen Its Deep-Space Capabilities? | Neutral | 2026-11-12 06:12 |
-| Rocket Lab CEO Takes a Swipe at Elon Musk, Explains Why Neutron Gives Company an Edge Over SpaceX: ‘ | Neutral | 2026-11-12 00:07 |
-| Rocket Lab CEO Says It Could Be ‘Extremely Profitable’ Without Neutron — But SpaceX Is Not The Only  | Neutral | 2026-11-11 19:44 |
-| Stock Market Today, Nov. 11: SpaceX Shares Slip Amid Upcoming Starship Test Flight Jitters | Neutral | 2026-11-11 16:23 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $64.74 | 49% upside to mean PT $96.60 |
+| Strong Buy | $65.48 | 48% upside to mean PT $96.60 |
 
 > **Consensus**: Mean PT: $96.60; Median PT: $100.00; Analysts leaning bullish
 

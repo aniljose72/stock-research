@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $141.91 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1927.3B
-- **P/E Ratio**: 617.00
+- **Current Price**: $142.90 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1940.7B
+- **P/E Ratio**: 621.30
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 45.7
-- **SMA20/SMA50**: $142.55 / $149.16
-- **Bollinger Bands**: $127.87 - $157.23 (Width: 20.6%, %B: 0.478)
+- **RSI**: 46.5
+- **SMA20/SMA50**: $142.60 / $149.18
+- **Bollinger Bands**: $127.92 - $157.28 (Width: 20.6%, %B: 0.510)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 46 - Neutral
-- BB: $127.87 - $157.23 (Width: 20.6%)
-- %B: 0.48 - Middle range
+- BB: $127.92 - $157.28 (Width: 20.6%)
+- %B: 0.51 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Qualcomm CEO: Elon Musk is serious about SpaceX's cellular network ambitions | Neutral | 2026-11-12 07:34 |
-| Qualcomm CEO on SpaceX deal: 'It's a great partnership' that will drive 'innovation' | Neutral | 2026-11-12 07:24 |
-| Cathie Wood Bought Cerebras Before It Fell 54%. Is She Wrong, or Early? | Neutral | 2026-11-12 07:17 |
-| Roundhill Investments Launches Roundhill Magnificent Seven Plus ETF (MAGP) | Neutral | 2026-11-12 07:00 |
-| Not Starlink. Not Starship. This Is the Real Reason SpaceX Stock Could Soar Before 2027 Arrives. | Neutral | 2026-11-12 06:45 |
+| SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Up | Neutral | 2026-11-12 09:41 |
+| Direct-to-Device (D2D) Market Size, Share and Trend Analysis - Global Forecast to 2036 | Revenue to  | Neutral | 2026-11-12 09:37 |
+| Jensen Huang's exit puts Nvidia's $530 billion web of AI deals under the microscope | Neutral | 2026-11-12 09:31 |
+| Musk-Huang partnership speculation grows after Nvidia exit as SpaceX shares rise | Neutral | 2026-11-12 09:20 |
+| SpaceX eyes $24B data center near in South Texas as state weighs rules | Neutral | 2026-11-12 09:15 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $141.91 | 81% upside to mean PT $256.41 |
+| Strong Buy | $142.90 | 79% upside to mean PT $256.41 |
 
 > **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 
