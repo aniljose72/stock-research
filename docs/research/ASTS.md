@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $35.65 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $13.9B
+- **Current Price**: $36.62 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $14.3B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.58 - $133.86
-- **RSI**: 45.0
-- **SMA20/SMA50**: $38.66 / $50.83
-- **Bollinger Bands**: $31.05 - $46.27 (Width: 39.4%, %B: 0.302)
+- **RSI**: 46.7
+- **SMA20/SMA50**: $38.71 / $50.85
+- **Bollinger Bands**: $31.16 - $46.25 (Width: 39.0%, %B: 0.362)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [ASTS, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 45 - Neutral
-- BB: $31.05 - $46.27 (Width: 39.4%)
-- %B: 0.30 - Middle range
+- RSI 47 - Neutral
+- BB: $31.16 - $46.25 (Width: 39.0%)
+- %B: 0.36 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Firefly Aerospace CEO Says Rocket Demand Is Outstripping Supply: 'More Customers Than We Have Rocket | Neutral | 2026-11-11 01:20 |
-| SpaceX Scores Key FCC Breakthrough in $8 Billion Spectrum Deal: Starlink Moves Closer to Nationwide  | Neutral | 2026-11-11 00:50 |
-| ASTS Stock Jumps Overnight: Analyst Estimates $50M Each For 3 Early BlueBirds — Retail Bulls Defend  | Neutral | 2026-11-10 23:14 |
-| AST SpaceMobile: 3 Key Takeaways for Long-Term Investors | Neutral | 2026-11-10 22:44 |
-| What Firefly Aerospace (FLY) Said on Its Q3 Earnings Call | Neutral | 2026-11-10 20:14 |
+| AST SpaceMobile (ASTS) Stock Fair Value Moves Lower As Analysts Split On Risks | Neutral | 2026-11-11 22:32 |
+| Does The Move In AST SpaceMobile Stock Change Anything? | Neutral | 2026-11-11 14:26 |
+| Rocket Lab Soars 6% as Morgan Stanley Looks Past “Q3 Margin Noise” to Neutron | Neutral | 2026-11-11 13:06 |
+| Elon Musk's SpaceX Could Be Making AST SpaceMobile More Valuable, Analysts Say | Neutral | 2026-11-11 13:00 |
+| Is UBS Wrong to Give Up on AST SpaceMobile? Wall Street Still Sees $68 | Neutral | 2026-11-11 11:09 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $35.65 | 86% upside to mean PT $66.18 |
+| Strong Buy | $36.62 | 81% upside to mean PT $66.18 |
 
 > **Consensus**: Mean PT: $66.18; Median PT: $57.85; Analysts leaning bullish
 

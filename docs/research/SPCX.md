@@ -8,44 +8,44 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $140.89 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1913.4B
-- **P/E Ratio**: 612.57
+- **Current Price**: $139.75 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1898.0B
+- **P/E Ratio**: 607.61
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 47.0
-- **SMA20/SMA50**: $142.94 / $149.16
-- **Bollinger Bands**: $128.06 - $157.82 (Width: 20.8%, %B: 0.431)
+- **RSI**: 46.2
+- **SMA20/SMA50**: $142.88 / $149.13
+- **Bollinger Bands**: $127.96 - $157.81 (Width: 20.9%, %B: 0.395)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $255.06 (2026-11-07 16:52:22 UTC-05:00)
+- **Mean Target**: $256.41 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $800.00 / $70.00
 - **Ratings**: Strong Buy: 8, Buy: 24, Hold: 6, Sell: 2, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 47 - Neutral
-- BB: $128.06 - $157.82 (Width: 20.8%)
-- %B: 0.43 - Middle range
+- RSI 46 - Neutral
+- BB: $127.96 - $157.81 (Width: 20.9%)
+- %B: 0.40 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| AT&T or Pfizer: Only One Gets My Dividend Dollars for the Next 10 Years | Neutral | 2026-11-11 13:50 |
-| Nov 13 Could Be A Huge Day For SpaceX Stock | Neutral | 2026-11-11 13:50 |
-| Is SpaceX a Millionaire-Maker Stock? | Neutral | 2026-11-11 13:36 |
-| Elon Musk's SpaceX Could Be Making AST SpaceMobile More Valuable, Analysts Say | Neutral | 2026-11-11 13:00 |
-| Is SpaceX Stock a Buy Right Now? | Neutral | 2026-11-11 12:46 |
+| AST SpaceMobile sends strong signal to SpaceX investors | Neutral | 2026-11-12 06:03 |
+| Weak SpaceX Stock Is Complicating Elon Musk’s Merger Math | Neutral | 2026-11-12 05:42 |
+| SpaceX's IPO reveals a $19 billion opportunity for Anthropic | Neutral | 2026-11-12 05:14 |
+| ETFs Bought $99.3 Million of SpaceX (SPCX) on Nov. 10 | Neutral | 2026-11-12 05:01 |
+| Nvidia Stock Is Tumbling. What Happens Next If Huang Gets Ousted. | Neutral | 2026-11-12 04:11 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $140.89 | 81% upside to mean PT $255.06 |
+| Strong Buy | $139.75 | 83% upside to mean PT $256.41 |
 
-> **Consensus**: Mean PT: $255.06; Median PT: $245.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 
 ---
 
