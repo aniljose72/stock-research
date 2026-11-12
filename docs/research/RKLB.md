@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $65.48 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $44.1B
+- **Current Price**: $64.52 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $43.4B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 64.3
-- **SMA20/SMA50**: $55.31 / $62.54
-- **Bollinger Bands**: $44.86 - $65.76 (Width: 37.8%, %B: 0.986)
+- **RSI**: 62.9
+- **SMA20/SMA50**: $55.27 / $62.52
+- **Bollinger Bands**: $45.01 - $65.52 (Width: 37.1%, %B: 0.951)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,9 +32,9 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 64 - Neutral
-- BB: $44.86 - $65.76 (Width: 37.8%)
-- %B: 0.99 - Near upper band
+- RSI 63 - Neutral
+- BB: $45.01 - $65.52 (Width: 37.1%)
+- %B: 0.95 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $65.48 | 48% upside to mean PT $96.60 |
+| Strong Buy | $64.52 | 50% upside to mean PT $96.60 |
 
 > **Consensus**: Mean PT: $96.60; Median PT: $100.00; Analysts leaning bullish
 

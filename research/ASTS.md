@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $35.45 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $13.8B
+- **Current Price**: $35.02 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $13.7B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.58 - $133.86
-- **RSI**: 43.3
-- **SMA20/SMA50**: $38.26 / $50.31
-- **Bollinger Bands**: $31.09 - $45.42 (Width: 37.5%, %B: 0.304)
+- **RSI**: 42.8
+- **SMA20/SMA50**: $38.24 / $50.30
+- **Bollinger Bands**: $31.03 - $45.44 (Width: 37.7%, %B: 0.277)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [ASTS, Finance, Analysis]
 
 ## Technical Notes
 - RSI 43 - Neutral
-- BB: $31.09 - $45.42 (Width: 37.5%)
-- %B: 0.30 - Middle range
+- BB: $31.03 - $45.44 (Width: 37.7%)
+- %B: 0.28 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| AST SpaceMobile, Inc. (ASTS) Discusses Direct-to-Cell Satellite Connectivity and Space Technology Ex | Neutral | 2026-11-12 08:39 |
 | AST SpaceMobile: I'm Buying Before The 2027 Breakout | Neutral | 2026-11-12 03:30 |
 | AST SpaceMobile (ASTS) Stock Fair Value Moves Lower As Analysts Split On Risks | Neutral | 2026-11-11 22:32 |
 | Does The Move In AST SpaceMobile Stock Change Anything? | Neutral | 2026-11-11 14:26 |
 | Rocket Lab Soars 6% as Morgan Stanley Looks Past “Q3 Margin Noise” to Neutron | Neutral | 2026-11-11 13:06 |
-| Elon Musk's SpaceX Could Be Making AST SpaceMobile More Valuable, Analysts Say | Neutral | 2026-11-11 13:00 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $35.45 | 87% upside to mean PT $66.18 |
+| Strong Buy | $35.02 | 89% upside to mean PT $66.18 |
 
 > **Consensus**: Mean PT: $66.18; Median PT: $57.85; Analysts leaning bullish
 
