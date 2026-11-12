@@ -8,44 +8,44 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $66.15 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $44.5B
+- **Current Price**: $64.74 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $43.6B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 66.3
-- **SMA20/SMA50**: $54.80 / $62.49
-- **Bollinger Bands**: $45.51 - $64.09 (Width: 33.9%, %B: 1.111)
+- **RSI**: 63.2
+- **SMA20/SMA50**: $55.28 / $62.53
+- **Bollinger Bands**: $44.98 - $65.58 (Width: 37.3%, %B: 0.959)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $96.50; Median PT: $100.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $96.60; Median PT: $100.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $96.50 (2026-11-07 16:52:22 UTC-05:00)
+- **Mean Target**: $96.60 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $150.00 / $58.00
 - **Ratings**: Strong Buy: 5, Buy: 13, Hold: 4, Sell: 0, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 66 - Neutral
-- BB: $45.51 - $64.09 (Width: 33.9%)
-- %B: 1.11 - Near upper band
+- RSI 63 - Neutral
+- BB: $44.98 - $65.58 (Width: 37.3%)
+- %B: 0.96 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Could Rocket Lab Actually Climb 56%? Or Is Morgan Stanley Totally Wrong? | Neutral | 2026-11-12 06:55 |
+| Can RKLB's ESCAPADE Mission Strengthen Its Deep-Space Capabilities? | Neutral | 2026-11-12 06:12 |
+| Rocket Lab CEO Takes a Swipe at Elon Musk, Explains Why Neutron Gives Company an Edge Over SpaceX: ‘ | Neutral | 2026-11-12 00:07 |
 | Rocket Lab CEO Says It Could Be ‘Extremely Profitable’ Without Neutron — But SpaceX Is Not The Only  | Neutral | 2026-11-11 19:44 |
 | Stock Market Today, Nov. 11: SpaceX Shares Slip Amid Upcoming Starship Test Flight Jitters | Neutral | 2026-11-11 16:23 |
-| Rocket Lab: Strong Buy As Neutron Gives Investors More Reasons To Be Bullish | Neutral | 2026-11-11 16:20 |
-| RKLB Stock Price Forecast: How Much Upside Do Analysts See Post-Q3 Earnings? | Neutral | 2026-11-11 15:35 |
-| Piper Sandler Sees 13% Downside in Rocket Lab Even After a Record Quarter | Neutral | 2026-11-11 15:29 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $66.15 | 46% upside to mean PT $96.50 |
+| Strong Buy | $64.74 | 49% upside to mean PT $96.60 |
 
-> **Consensus**: Mean PT: $96.50; Median PT: $100.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $96.60; Median PT: $100.00; Analysts leaning bullish
 
 ---
 

@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $139.75 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1898.0B
-- **P/E Ratio**: 607.61
+- **Current Price**: $141.91 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1927.3B
+- **P/E Ratio**: 617.00
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.2
-- **SMA20/SMA50**: $142.88 / $149.13
-- **Bollinger Bands**: $127.96 - $157.81 (Width: 20.9%, %B: 0.395)
+- **RSI**: 45.7
+- **SMA20/SMA50**: $142.55 / $149.16
+- **Bollinger Bands**: $127.87 - $157.23 (Width: 20.6%, %B: 0.478)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 46 - Neutral
-- BB: $127.96 - $157.81 (Width: 20.9%)
-- %B: 0.40 - Middle range
+- BB: $127.87 - $157.23 (Width: 20.6%)
+- %B: 0.48 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| AST SpaceMobile sends strong signal to SpaceX investors | Neutral | 2026-11-12 06:03 |
-| Weak SpaceX Stock Is Complicating Elon Musk’s Merger Math | Neutral | 2026-11-12 05:42 |
-| SpaceX's IPO reveals a $19 billion opportunity for Anthropic | Neutral | 2026-11-12 05:14 |
-| ETFs Bought $99.3 Million of SpaceX (SPCX) on Nov. 10 | Neutral | 2026-11-12 05:01 |
-| Nvidia Stock Is Tumbling. What Happens Next If Huang Gets Ousted. | Neutral | 2026-11-12 04:11 |
+| Qualcomm CEO: Elon Musk is serious about SpaceX's cellular network ambitions | Neutral | 2026-11-12 07:34 |
+| Qualcomm CEO on SpaceX deal: 'It's a great partnership' that will drive 'innovation' | Neutral | 2026-11-12 07:24 |
+| Cathie Wood Bought Cerebras Before It Fell 54%. Is She Wrong, or Early? | Neutral | 2026-11-12 07:17 |
+| Roundhill Investments Launches Roundhill Magnificent Seven Plus ETF (MAGP) | Neutral | 2026-11-12 07:00 |
+| Not Starlink. Not Starship. This Is the Real Reason SpaceX Stock Could Soar Before 2027 Arrives. | Neutral | 2026-11-12 06:45 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $139.75 | 83% upside to mean PT $256.41 |
+| Strong Buy | $141.91 | 81% upside to mean PT $256.41 |
 
 > **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 
