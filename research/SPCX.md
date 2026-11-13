@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $139.94 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1900.5B
-- **P/E Ratio**: 608.43
+- **Current Price**: $137.93 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1873.2B
+- **P/E Ratio**: 599.70
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 44.0
-- **SMA20/SMA50**: $142.45 / $149.12
-- **Bollinger Bands**: $127.72 - $157.18 (Width: 20.7%, %B: 0.415)
+- **RSI**: 43.1
+- **SMA20/SMA50**: $142.05 / $148.88
+- **Bollinger Bands**: $127.29 - $156.80 (Width: 20.8%, %B: 0.361)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 44 - Neutral
-- BB: $127.72 - $157.18 (Width: 20.7%)
-- %B: 0.41 - Middle range
+- RSI 43 - Neutral
+- BB: $127.29 - $156.80 (Width: 20.8%)
+- %B: 0.36 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX-Tesla Merger Could Be Announced as Soon as December | Neutral | 2026-11-13 06:03 |
-| Dow Jones Futures Rise, Yields Up Again; Nvidia Climbs After Tumbling On CEO Huang's Exit | Neutral | 2026-11-13 05:59 |
-| Market Chatter: SpaceX Plans First Starship Catch at Texas Launch Site in 15th Flight | Neutral | 2026-11-13 05:40 |
-| What Capital Group Growth ETF (CGGR) Bought: SpaceX Leads on Wednesday | Neutral | 2026-11-13 05:04 |
-| Space Stocks Had A Stellar Week, But SpaceX Rivals Flew Higher — What Powered LUNR, FLY, RKLB And AS | Neutral | 2026-11-13 01:51 |
+| Why AI job-replacement forecasts are moving up | Neutral | 2026-11-13 07:50 |
+| Tesla and SpaceX Could Announce a Merger as Soon as December | Neutral | 2026-11-13 07:08 |
+| Rosenblatt defends Super Micro amid selloff, Megaspeed allegations | Neutral | 2026-11-13 06:41 |
+| SpaceX vs. AST SpaceMobile: Which Space Stock Has the Edge Now? | Neutral | 2026-11-13 06:34 |
+| How Much Could You Lose In AT&T Stock After CPI? | Neutral | 2026-11-13 06:12 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $139.94 | 83% upside to mean PT $256.41 |
+| Strong Buy | $137.93 | 86% upside to mean PT $256.41 |
 
 > **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 
