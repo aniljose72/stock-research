@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $139.18 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1890.2B
-- **P/E Ratio**: 605.13
+- **Current Price**: $139.88 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1899.7B
+- **P/E Ratio**: 608.17
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 43.9
-- **SMA20/SMA50**: $142.11 / $148.91
-- **Bollinger Bands**: $127.41 - $156.80 (Width: 20.7%, %B: 0.400)
+- **RSI**: 44.4
+- **SMA20/SMA50**: $142.14 / $148.92
+- **Bollinger Bands**: $127.47 - $156.81 (Width: 20.6%, %B: 0.423)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 44 - Neutral
-- BB: $127.41 - $156.80 (Width: 20.7%)
-- %B: 0.40 - Middle range
+- BB: $127.47 - $156.81 (Width: 20.6%)
+- %B: 0.42 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX Drops More Than 13% Over 30 Days: This Wall Street Pro Projects 260% Gains Within 12 Months | Neutral | 2026-11-13 09:45 |
-| People underappreciate how much they already use space: Karan Kunjur, K2 Space Co-Founder & CEO | Neutral | 2026-11-13 09:43 |
-| Anthropic to IPO amid Nvidia fiasco | Neutral | 2026-11-13 09:40 |
-| SpaceX Flight 15: Morgan Stanley Calls Upcoming Starship Test One Of The Most ‘Significant Catalysts | Neutral | 2026-11-13 09:37 |
-| Tesla-SpaceX merger announcement as early as December: Bloomberg | Neutral | 2026-11-13 09:31 |
+| Elon Musk's SpaceX–Tesla Merger 'Almost Inconceivable' to Avoid, Biographer Says | Neutral | 2026-11-13 13:45 |
+| SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Be | Neutral | 2026-11-13 13:45 |
+| Tesla and SpaceX Move Closer to a Deal. What Would Tesla Shareholders Get? | Neutral | 2026-11-13 13:31 |
+| SpaceX Starship’s First Double Catch Is ‘Massive’ For Orbital AI Data Centers, Says Market Strategis | Neutral | 2026-11-13 13:30 |
+| Texas AG-elect vows 'tremendous scrutiny' of SpaceX-Tesla merger | Neutral | 2026-11-13 13:29 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $139.18 | 84% upside to mean PT $256.41 |
+| Strong Buy | $139.88 | 83% upside to mean PT $256.41 |
 
 > **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 
