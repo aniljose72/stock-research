@@ -8,44 +8,44 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $64.52 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $43.4B
+- **Current Price**: $64.07 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $43.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 62.9
-- **SMA20/SMA50**: $55.27 / $62.52
-- **Bollinger Bands**: $45.01 - $65.52 (Width: 37.1%, %B: 0.951)
+- **RSI**: 62.3
+- **SMA20/SMA50**: $55.24 / $62.51
+- **Bollinger Bands**: $45.07 - $65.42 (Width: 36.8%, %B: 0.934)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $96.60; Median PT: $100.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $93.10; Median PT: $100.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $96.60 (2026-11-07 16:52:22 UTC-05:00)
-- **High/Low**: $150.00 / $58.00
-- **Ratings**: Strong Buy: 5, Buy: 13, Hold: 4, Sell: 0, Strong Sell: 0
+- **Mean Target**: $93.10 (2026-11-07 16:52:22 UTC-05:00)
+- **High/Low**: $127.00 / $58.00
+- **Ratings**: Strong Buy: 5, Buy: 12, Hold: 4, Sell: 0, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 63 - Neutral
-- BB: $45.01 - $65.52 (Width: 37.1%)
-- %B: 0.95 - Near upper band
+- RSI 62 - Neutral
+- BB: $45.07 - $65.42 (Width: 36.8%)
+- %B: 0.93 - Near upper band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Should I Buy Rocket Lab Stock Now? | Neutral | 2026-11-12 09:54 |
-| Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3 | Neutral | 2026-11-12 08:51 |
-| Intuitive Machines Stock Heads Back to the Moon as Revenues Rise | Neutral | 2026-11-12 08:36 |
-| Could Rocket Lab Actually Climb 56%? Or Is Morgan Stanley Totally Wrong? | Neutral | 2026-11-12 06:55 |
-| Can RKLB's ESCAPADE Mission Strengthen Its Deep-Space Capabilities? | Neutral | 2026-11-12 06:12 |
+| Space Stocks Had A Stellar Week, But SpaceX Rivals Flew Higher — What Powered LUNR, FLY, RKLB And AS | Neutral | 2026-11-13 01:51 |
+| What Does Rocket Lab (RKLB) Reaching Mars Bound Orbit Mean For Investors? | Neutral | 2026-11-12 19:15 |
+| ACHR, RKLB: Cathie Wood Buys More of Archer Aviation and Rocket Lab Stocks | Neutral | 2026-11-12 16:42 |
+| The Honeymoon Is Over Between Rocket Lab and Its Investors | Neutral | 2026-11-12 16:21 |
+| Rocket Lab To Launch Milestone 100th Electron Rocket This Week | Neutral | 2026-11-12 16:15 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $64.52 | 50% upside to mean PT $96.60 |
+| Strong Buy | $64.07 | 45% upside to mean PT $93.10 |
 
-> **Consensus**: Mean PT: $96.60; Median PT: $100.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $93.10; Median PT: $100.00; Analysts leaning bullish
 
 ---
 

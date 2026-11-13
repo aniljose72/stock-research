@@ -8,44 +8,44 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $35.02 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $13.7B
+- **Current Price**: $34.50 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $13.5B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.58 - $133.86
-- **RSI**: 42.8
-- **SMA20/SMA50**: $38.24 / $50.30
-- **Bollinger Bands**: $31.03 - $45.44 (Width: 37.7%, %B: 0.277)
+- **RSI**: 42.1
+- **SMA20/SMA50**: $38.21 / $50.29
+- **Bollinger Bands**: $30.95 - $45.47 (Width: 38.0%, %B: 0.244)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $66.18; Median PT: $57.85; Analysts leaning bullish
+- **Consensus**: Mean PT: $63.35; Median PT: $51.85; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $66.18 (2026-11-07 16:52:22 UTC-05:00)
+- **Mean Target**: $63.35 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $108.00 / $39.00
 - **Ratings**: Strong Buy: 1, Buy: 4, Hold: 6, Sell: 1, Strong Sell: 1
 
 ---
 
 ## Technical Notes
-- RSI 43 - Neutral
-- BB: $31.03 - $45.44 (Width: 37.7%)
-- %B: 0.28 - Middle range
+- RSI 42 - Neutral
+- BB: $30.95 - $45.47 (Width: 38.0%)
+- %B: 0.24 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| AST SpaceMobile, Inc. (ASTS) Discusses Direct-to-Cell Satellite Connectivity and Space Technology Ex | Neutral | 2026-11-12 08:39 |
-| AST SpaceMobile: I'm Buying Before The 2027 Breakout | Neutral | 2026-11-12 03:30 |
-| AST SpaceMobile (ASTS) Stock Fair Value Moves Lower As Analysts Split On Risks | Neutral | 2026-11-11 22:32 |
-| Does The Move In AST SpaceMobile Stock Change Anything? | Neutral | 2026-11-11 14:26 |
-| Rocket Lab Soars 6% as Morgan Stanley Looks Past “Q3 Margin Noise” to Neutron | Neutral | 2026-11-11 13:06 |
+| The Honeymoon Is Over Between Rocket Lab and Its Investors | Neutral | 2026-11-12 16:21 |
+| 3 Intriguing Stocks to Buy After Q3 Earnings Beats: FOSL, FLY, NYAX | Neutral | 2026-11-12 14:46 |
+| AST SpaceMobile Plans Its Own Rocket to Speed Satellite Launches and Cut Costs | Neutral | 2026-11-12 13:14 |
+| Direct-to-Device (D2D) Market Size, Share and Trend Analysis - Global Forecast to 2036 | Revenue to  | Neutral | 2026-11-12 09:37 |
+| Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3 | Neutral | 2026-11-12 08:51 |
 
 ## Recent SEC Filings
 
@@ -57,9 +57,9 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $35.02 | 89% upside to mean PT $66.18 |
+| Strong Buy | $34.50 | 84% upside to mean PT $63.35 |
 
-> **Consensus**: Mean PT: $66.18; Median PT: $57.85; Analysts leaning bullish
+> **Consensus**: Mean PT: $63.35; Median PT: $51.85; Analysts leaning bullish
 
 ---
 

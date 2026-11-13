@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $140.41 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1906.8B
-- **P/E Ratio**: 610.46
+- **Current Price**: $139.94 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1900.5B
+- **P/E Ratio**: 608.43
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 44.5
-- **SMA20/SMA50**: $142.47 / $149.13
-- **Bollinger Bands**: $127.76 - $157.18 (Width: 20.6%, %B: 0.430)
+- **RSI**: 44.0
+- **SMA20/SMA50**: $142.45 / $149.12
+- **Bollinger Bands**: $127.72 - $157.18 (Width: 20.7%, %B: 0.415)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 44 - Neutral
-- BB: $127.76 - $157.18 (Width: 20.6%)
-- %B: 0.43 - Middle range
+- BB: $127.72 - $157.18 (Width: 20.7%)
+- %B: 0.41 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX Commits $74B To New AI Campuses While Musk Eyes Hiring Former Nvidia CEO, Starship Readies Fl | Neutral | 2026-11-12 11:55 |
-| Binance founder CZ says crypto exchange didn't sell any SpaceX stock amid hack | Neutral | 2026-11-12 11:48 |
-| Goldman Sachs sees $66 billion problem with Anthropic's blockbuster IPO | Neutral | 2026-11-12 11:47 |
-| Binance's CZ on Elon Musk spat: People took it 'out of context' | Neutral | 2026-11-12 11:40 |
-| Why SpaceX Stock Popped After Nvidia's CEO News | Neutral | 2026-11-12 10:54 |
+| SpaceX-Tesla Merger Could Be Announced as Soon as December | Neutral | 2026-11-13 06:03 |
+| Dow Jones Futures Rise, Yields Up Again; Nvidia Climbs After Tumbling On CEO Huang's Exit | Neutral | 2026-11-13 05:59 |
+| Market Chatter: SpaceX Plans First Starship Catch at Texas Launch Site in 15th Flight | Neutral | 2026-11-13 05:40 |
+| What Capital Group Growth ETF (CGGR) Bought: SpaceX Leads on Wednesday | Neutral | 2026-11-13 05:04 |
+| Space Stocks Had A Stellar Week, But SpaceX Rivals Flew Higher — What Powered LUNR, FLY, RKLB And AS | Neutral | 2026-11-13 01:51 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $140.41 | 83% upside to mean PT $256.41 |
+| Strong Buy | $139.94 | 83% upside to mean PT $256.41 |
 
 > **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 
