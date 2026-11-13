@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $137.93 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1873.2B
-- **P/E Ratio**: 599.70
+- **Current Price**: $139.18 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1890.2B
+- **P/E Ratio**: 605.13
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 43.1
-- **SMA20/SMA50**: $142.05 / $148.88
-- **Bollinger Bands**: $127.29 - $156.80 (Width: 20.8%, %B: 0.361)
+- **RSI**: 43.9
+- **SMA20/SMA50**: $142.11 / $148.91
+- **Bollinger Bands**: $127.41 - $156.80 (Width: 20.7%, %B: 0.400)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 43 - Neutral
-- BB: $127.29 - $156.80 (Width: 20.8%)
-- %B: 0.36 - Middle range
+- RSI 44 - Neutral
+- BB: $127.41 - $156.80 (Width: 20.7%)
+- %B: 0.40 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Why AI job-replacement forecasts are moving up | Neutral | 2026-11-13 07:50 |
-| Tesla and SpaceX Could Announce a Merger as Soon as December | Neutral | 2026-11-13 07:08 |
-| Rosenblatt defends Super Micro amid selloff, Megaspeed allegations | Neutral | 2026-11-13 06:41 |
-| SpaceX vs. AST SpaceMobile: Which Space Stock Has the Edge Now? | Neutral | 2026-11-13 06:34 |
-| How Much Could You Lose In AT&T Stock After CPI? | Neutral | 2026-11-13 06:12 |
+| SpaceX Drops More Than 13% Over 30 Days: This Wall Street Pro Projects 260% Gains Within 12 Months | Neutral | 2026-11-13 09:45 |
+| People underappreciate how much they already use space: Karan Kunjur, K2 Space Co-Founder & CEO | Neutral | 2026-11-13 09:43 |
+| Anthropic to IPO amid Nvidia fiasco | Neutral | 2026-11-13 09:40 |
+| SpaceX Flight 15: Morgan Stanley Calls Upcoming Starship Test One Of The Most ‘Significant Catalysts | Neutral | 2026-11-13 09:37 |
+| Tesla-SpaceX merger announcement as early as December: Bloomberg | Neutral | 2026-11-13 09:31 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $137.93 | 86% upside to mean PT $256.41 |
+| Strong Buy | $139.18 | 84% upside to mean PT $256.41 |
 
 > **Consensus**: Mean PT: $256.41; Median PT: $245.00; Analysts leaning bullish
 

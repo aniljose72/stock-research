@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $60.56 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $40.8B
+- **Current Price**: $60.95 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $41.0B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 56.8
-- **SMA20/SMA50**: $55.73 / $62.45
-- **Bollinger Bands**: $45.51 - $65.94 (Width: 36.6%, %B: 0.737)
+- **RSI**: 57.4
+- **SMA20/SMA50**: $55.75 / $62.46
+- **Bollinger Bands**: $45.49 - $66.01 (Width: 36.8%, %B: 0.753)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 57 - Neutral
-- BB: $45.51 - $65.94 (Width: 36.6%)
-- %B: 0.74 - Middle range
+- BB: $45.49 - $66.01 (Width: 36.8%)
+- %B: 0.75 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| SpaceX Drops More Than 13% Over 30 Days: This Wall Street Pro Projects 260% Gains Within 12 Months | Neutral | 2026-11-13 09:45 |
+| Space Stocks Are Complex. York Sinks, AST and AT&T Make Historic Satellite Call. | Neutral | 2026-11-13 09:00 |
+| SpaceX's Starship Flight 15, Rocket Lab's Electron Ready For Milestone Missions | Neutral | 2026-11-13 08:59 |
 | Rocket Lab CEO Takes a Swipe at Elon Musk, Explains Why Neutron Gives Company an Edge Over SpaceX: ‘ | Neutral | 2026-11-13 05:59 |
 | Rocket Lab Is Up 28% in a Year, Down 57% From May’s High: Take Profits, or Load Up? | Neutral | 2026-11-13 05:55 |
-| Can LUNR Convert Its Record Backlog Into Sustained Growth? | Neutral | 2026-11-13 05:23 |
-| Space Stocks Had A Stellar Week, But SpaceX Rivals Flew Higher — What Powered LUNR, FLY, RKLB And AS | Neutral | 2026-11-13 01:51 |
-| What Does Rocket Lab (RKLB) Reaching Mars Bound Orbit Mean For Investors? | Neutral | 2026-11-12 19:15 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $60.56 | 54% upside to mean PT $93.10 |
+| Strong Buy | $60.95 | 53% upside to mean PT $93.10 |
 
 > **Consensus**: Mean PT: $93.10; Median PT: $100.00; Analysts leaning bullish
 
