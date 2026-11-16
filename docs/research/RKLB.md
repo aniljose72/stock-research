@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $57.70 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $38.8B
+- **Current Price**: $57.50 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $38.7B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 49.4
-- **SMA20/SMA50**: $56.09 / $62.34
-- **Bollinger Bands**: $45.95 - $66.24 (Width: 36.1%, %B: 0.579)
+- **RSI**: 49.1
+- **SMA20/SMA50**: $56.08 / $62.33
+- **Bollinger Bands**: $45.95 - $66.22 (Width: 36.1%, %B: 0.570)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 49 - Neutral
-- BB: $45.95 - $66.24 (Width: 36.1%)
-- %B: 0.58 - Middle range
+- BB: $45.95 - $66.22 (Width: 36.1%)
+- %B: 0.57 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Co | Neutral | 2026-11-16 09:48 |
-| Rocket Lab Stock Could Be Headed for a Breakout. Here’s My 2027 Price Prediction | Neutral | 2026-11-16 07:47 |
-| Rocket Lab Investors Need January Neutron Tank Test Success to Move Toward $90, Not Congressional Al | Neutral | 2026-11-16 07:45 |
-| Can RKLB's 100th Electron Launch Strengthen Its Market Position? | Neutral | 2026-11-16 06:40 |
-| Not SpaceX. Not Blue Origin. The Space Stock That Just Raised Its Launch Price to $70 Million -- and | Neutral | 2026-11-16 04:04 |
+| Musk Plans Next Starship After Flight 15 Catch. ULA Loses Amazon Payload. | Neutral | 2026-11-16 11:45 |
+| Cathie Wood Adds Nvidia Stock Before Earnings While Selling Palantir | Neutral | 2026-11-16 11:43 |
+| Is KTOS Expanding Its Role in Next-Generation Defense Technologies? | Neutral | 2026-11-16 11:09 |
+| Rocket Lab Doesn’t Have to Become the Next SpaceX. Here’s What It Does Have to Deliver. | Neutral | 2026-11-16 11:05 |
+| AST SpaceMobile Drops 7% as Tech Selloff Hits Space Stocks; Rocket Lab Falls 4%, SpaceX Dips Despite | Neutral | 2026-11-16 11:02 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $57.70 | 61% upside to mean PT $93.15 |
+| Strong Buy | $57.50 | 62% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 

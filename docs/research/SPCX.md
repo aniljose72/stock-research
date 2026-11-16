@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $136.61 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1855.3B
-- **P/E Ratio**: 593.96
+- **Current Price**: $138.98 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1887.5B
+- **P/E Ratio**: 604.26
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 40.7
-- **SMA20/SMA50**: $141.54 / $148.68
-- **Bollinger Bands**: $126.91 - $156.16 (Width: 20.7%, %B: 0.332)
+- **RSI**: 42.3
+- **SMA20/SMA50**: $141.65 / $148.73
+- **Bollinger Bands**: $127.16 - $156.15 (Width: 20.5%, %B: 0.408)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 41 - Neutral
-- BB: $126.91 - $156.16 (Width: 20.7%)
-- %B: 0.33 - Middle range
+- RSI 42 - Neutral
+- BB: $127.16 - $156.15 (Width: 20.5%)
+- %B: 0.41 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Anthropic's IPO keeps getting revised ahead of the IPO | Neutral | 2026-11-16 09:54 |
-| Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Co | Neutral | 2026-11-16 09:48 |
-| Anthropic gears up for the largest IPO in history, but do the economics work? | Neutral | 2026-11-16 09:43 |
-| Could SpaceX Actually Climb 116%? Or Is Morgan Stanley Totally Wrong? | Neutral | 2026-11-16 09:31 |
-| Jensen Huang was a great CEO, but he's not untouchable | Neutral | 2026-11-16 09:27 |
+| Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? | Neutral | 2026-11-16 14:00 |
+| Sinch (OM:SINCH) Could Be 7% Undervalued As AI Partnerships Draw Attention | Neutral | 2026-11-16 13:17 |
+| Michael Burry Hints At Bigger Nvidia Asia ‘Reveal’ As Jensen Huang’s ‘Deer In The Headlights’ Dig At | Neutral | 2026-11-16 13:00 |
+| AST SpaceMobile: Is the Stock a No-Brainer Buy at $30? | Neutral | 2026-11-16 12:17 |
+| Elon Musk calls out Jeff Bezos over SpaceX rivals | Neutral | 2026-11-16 12:07 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $136.61 | 87% upside to mean PT $255.63 |
+| Strong Buy | $138.98 | 84% upside to mean PT $255.63 |
 
 > **Consensus**: Mean PT: $255.63; Median PT: $240.00; Analysts leaning bullish
 
