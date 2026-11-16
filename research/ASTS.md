@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $32.60 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $12.7B
+- **Current Price**: $30.38 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $11.9B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.58 - $133.86
-- **RSI**: 40.2
-- **SMA20/SMA50**: $37.81 / $49.70
-- **Bollinger Bands**: $30.24 - $45.38 (Width: 40.0%, %B: 0.156)
+- **RSI**: 33.3
+- **SMA20/SMA50**: $37.23 / $49.06
+- **Bollinger Bands**: $29.23 - $45.24 (Width: 43.0%, %B: 0.072)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [ASTS, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 40 - Neutral
-- BB: $30.24 - $45.38 (Width: 40.0%)
-- %B: 0.16 - Near lower band
+- RSI 33 - Neutral
+- BB: $29.23 - $45.24 (Width: 43.0%)
+- %B: 0.07 - Near lower band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Stock Market Today: Jensen Huang Eyes a Comeback as Nvidia Closes Its Worst Week Since April 2025 | Neutral | 2026-11-16 07:22 |
 | ASTS, RKLB, LUNR And FLY Fall After ULA Rocket Failure Strands 40 Amazon Satellites — Why One Analys | Neutral | 2026-11-15 23:58 |
 | Can AT&T (T) Turn Satellite Handoffs Into A Real Wireless Edge? | Neutral | 2026-11-15 17:21 |
 | Dear AST SpaceMobile Stock Fans, Mark Your Calendars for November 17 | Neutral | 2026-11-15 14:09 |
 | Firefly Aerospace vs. Redwire: Which Industrials Stock Is a Better Buy for 2027? | Neutral | 2026-11-14 10:20 |
-| Benzinga Bulls and Bears: Nvidia, Rocket Lab, Nebius | Neutral | 2026-11-14 02:17 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $32.60 | 94% upside to mean PT $63.35 |
+| Strong Buy | $30.38 | 109% upside to mean PT $63.35 |
 
 > **Consensus**: Mean PT: $63.35; Median PT: $51.85; Analysts leaning bullish
 

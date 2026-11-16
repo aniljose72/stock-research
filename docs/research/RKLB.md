@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $61.53 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $41.4B
+- **Current Price**: $59.49 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $40.0B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 58.0
-- **SMA20/SMA50**: $55.78 / $62.47
-- **Bollinger Bands**: $45.45 - $66.10 (Width: 37.0%, %B: 0.779)
+- **RSI**: 51.3
+- **SMA20/SMA50**: $56.18 / $62.37
+- **Bollinger Bands**: $45.95 - $66.42 (Width: 36.4%, %B: 0.662)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 58 - Neutral
-- BB: $45.45 - $66.10 (Width: 37.0%)
-- %B: 0.78 - Middle range
+- RSI 51 - Neutral
+- BB: $45.95 - $66.42 (Width: 36.4%)
+- %B: 0.66 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Rocket Lab Stock Could Be Headed for a Breakout. Here’s My 2027 Price Prediction | Neutral | 2026-11-16 07:47 |
+| Rocket Lab Investors Need January Neutron Tank Test Success to Move Toward $90, Not Congressional Al | Neutral | 2026-11-16 07:45 |
+| Can RKLB's 100th Electron Launch Strengthen Its Market Position? | Neutral | 2026-11-16 06:40 |
 | Not SpaceX. Not Blue Origin. The Space Stock That Just Raised Its Launch Price to $70 Million -- and | Neutral | 2026-11-16 04:04 |
-| ASTS, RKLB, LUNR And FLY Fall After ULA Rocket Failure Strands 40 Amazon Satellites — Why One Analys | Neutral | 2026-11-15 23:58 |
-| Rocket Lab (RKLB) Nears Its 100th Electron Launch | Neutral | 2026-11-15 20:07 |
-| Rocket Lab Just Hit 100 Launches. A Successful Neutron Debut Could Make 2027 Its Biggest Year Yet | Neutral | 2026-11-15 10:25 |
-| SpaceX Just Lost a Starship Booster. Is Rocket Lab Stock the Better Bet? | Neutral | 2026-11-14 07:04 |
+| Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Trade Fall as Scott Bessent Presses Nvidi | Neutral | 2026-11-16 03:25 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $61.53 | 51% upside to mean PT $93.15 |
+| Strong Buy | $59.49 | 57% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 

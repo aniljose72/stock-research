@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $139.11 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1889.3B
-- **P/E Ratio**: 604.83
+- **Current Price**: $136.64 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1855.7B
+- **P/E Ratio**: 594.09
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 43.9
-- **SMA20/SMA50**: $142.10 / $148.90
-- **Bollinger Bands**: $127.41 - $156.80 (Width: 20.7%, %B: 0.398)
+- **RSI**: 40.7
+- **SMA20/SMA50**: $141.54 / $148.68
+- **Bollinger Bands**: $126.92 - $156.16 (Width: 20.7%, %B: 0.332)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 44 - Neutral
-- BB: $127.41 - $156.80 (Width: 20.7%)
-- %B: 0.40 - Middle range
+- RSI 41 - Neutral
+- BB: $126.92 - $156.16 (Width: 20.7%)
+- %B: 0.33 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| KBRA Assigns Preliminary A- Ratings With Stable Outlook to Saturn Funding Trust's Senior and Subordi | Neutral | 2026-11-16 05:57 |
-| Elon Musk's Starship victory exposes a major Boeing setback | Neutral | 2026-11-16 05:40 |
-| Rocket failure wipes out dozens of Amazon Leo satellites | Neutral | 2026-11-16 05:18 |
-| SpaceX Wants More Land Near Starship Launch Site -- Here's Why | Neutral | 2026-11-16 05:15 |
-| Amazon loses 40 satellites in major rocket failure | Neutral | 2026-11-16 05:05 |
+| Rocket Lab Investors Need January Neutron Tank Test Success to Move Toward $90, Not Congressional Al | Neutral | 2026-11-16 07:45 |
+| Stock Market Today: Jensen Huang Eyes a Comeback as Nvidia Closes Its Worst Week Since April 2025 | Neutral | 2026-11-16 07:22 |
+| Elon Musk Says SpaceX’s Recovered Starship Could Fly Again After Weeks of Refurbishment | Neutral | 2026-11-16 07:14 |
+| Nearly a fifth of the S&P 500 is tied to three men with no clear successors | Neutral | 2026-11-16 07:02 |
+| Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain. | Neutral | 2026-11-16 06:46 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $139.11 | 84% upside to mean PT $255.63 |
+| Strong Buy | $136.64 | 87% upside to mean PT $255.63 |
 
 > **Consensus**: Mean PT: $255.63; Median PT: $240.00; Analysts leaning bullish
 
