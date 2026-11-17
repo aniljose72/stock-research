@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $137.36 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1865.5B
-- **P/E Ratio**: 597.22
+- **Current Price**: $140.47 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1907.7B
+- **P/E Ratio**: 610.72
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 41.2
-- **SMA20/SMA50**: $141.57 / $148.69
-- **Bollinger Bands**: $127.00 - $156.15 (Width: 20.6%, %B: 0.355)
+- **RSI**: 46.3
+- **SMA20/SMA50**: $141.21 / $148.43
+- **Bollinger Bands**: $126.93 - $155.49 (Width: 20.2%, %B: 0.474)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 41 - Neutral
-- BB: $127.00 - $156.15 (Width: 20.6%)
-- %B: 0.35 - Middle range
+- RSI 46 - Neutral
+- BB: $126.93 - $155.49 (Width: 20.2%)
+- %B: 0.47 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SpaceX just caught a spaceship out of the sky | Neutral | 2026-11-17 06:00 |
-| Billionaire David Tepper Dumps AMD Stock, Makes $172 Million Bet on Oracle | Neutral | 2026-11-17 05:56 |
-| Rocket Lab Says Adjusted EBITDA Turns Positive Within 6 Months of Neutron’s First Flight. Here’s the | Neutral | 2026-11-17 05:52 |
-| Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030 | Neutral | 2026-11-17 05:35 |
-| Nvidia Board Reportedly Rules Out Jensen Huang Return Despite Growing Support Campaign | Neutral | 2026-11-17 05:24 |
+| Planet Labs Has Shed 70% Over 6 Months: Two Highly Respected Wall Street Teams Expect Gains Exceedin | Neutral | 2026-11-17 07:45 |
+| AI, Innovation and Optimism Take Center Stage at Baron Capital's 33rd Annual Investment Conference | Neutral | 2026-11-17 07:30 |
+| Momentus to Fly NASA Payloads on Vigoride-8 Spacecraft During Bandwagon-6 Rideshare Mission with Spa | Neutral | 2026-11-17 07:00 |
+| Premarket movers: Nvidia, Red Cat fall; Home Depot, SpaceX gains | Neutral | 2026-11-17 06:48 |
+| Anthropic IPO Frenzy: SPCX, CBRS, ARM And Other Mega-Listings Show What Happens After The First-Day  | Neutral | 2026-11-17 06:48 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $137.36 | 87% upside to mean PT $257.50 |
+| Strong Buy | $140.47 | 83% upside to mean PT $257.50 |
 
 > **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 

@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $57.37 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $38.6B
+- **Current Price**: $55.51 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $37.4B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 49.0
-- **SMA20/SMA50**: $56.08 / $62.33
-- **Bollinger Bands**: $45.95 - $66.21 (Width: 36.1%, %B: 0.564)
+- **RSI**: 46.9
+- **SMA20/SMA50**: $56.31 / $62.12
+- **Bollinger Bands**: $46.47 - $66.15 (Width: 35.0%, %B: 0.459)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 49 - Neutral
-- BB: $45.95 - $66.21 (Width: 36.1%)
-- %B: 0.56 - Middle range
+- RSI 47 - Neutral
+- BB: $46.47 - $66.15 (Width: 35.0%)
+- %B: 0.46 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Planet Labs Has Shed 70% Over 6 Months: Two Highly Respected Wall Street Teams Expect Gains Exceedin | Neutral | 2026-11-17 07:45 |
+| Space Stocks Are Splitting: Select Launch and Satellite Names Buck the Sector Slump | Neutral | 2026-11-17 07:36 |
+| Rocket Lab’s $57 Share Price is a Highly Attractive Entry Point For Forward-Looking Bulls | Neutral | 2026-11-17 06:15 |
 | Rocket Lab Says Adjusted EBITDA Turns Positive Within 6 Months of Neutron’s First Flight. Here’s the | Neutral | 2026-11-17 05:52 |
 | Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030 | Neutral | 2026-11-17 05:35 |
-| A 100 Reason to Buy Rocket Lab Stock Right Now | Neutral | 2026-11-17 05:09 |
-| Amazon Lost 40 Leo Satellites as Launch Stays “Extremely Constrained.” That Widens SpaceX’s Lead | Neutral | 2026-11-17 01:50 |
-| Why Catching SpaceX Is Getting Harder: Analyst Calls AST’s 2-Year Rocket Plan ‘Totally Unrealistic’, | Neutral | 2026-11-17 01:45 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $57.37 | 62% upside to mean PT $93.15 |
+| Strong Buy | $55.51 | 68% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 
