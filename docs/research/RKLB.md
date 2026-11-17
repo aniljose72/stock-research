@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $55.65 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $37.5B
+- **Current Price**: $55.00 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $37.0B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 47.0
-- **SMA20/SMA50**: $56.32 / $62.12
-- **Bollinger Bands**: $46.48 - $66.15 (Width: 34.9%, %B: 0.466)
+- **RSI**: 46.4
+- **SMA20/SMA50**: $56.28 / $62.11
+- **Bollinger Bands**: $46.43 - $66.13 (Width: 35.0%, %B: 0.435)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 47 - Neutral
-- BB: $46.48 - $66.15 (Width: 34.9%)
-- %B: 0.47 - Middle range
+- RSI 46 - Neutral
+- BB: $46.43 - $66.13 (Width: 35.0%)
+- %B: 0.43 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Rocket Lab's Stock Price Keeps Falling While Its Revenue and Backlog Keep Growing. Which Trend Shoul | Neutral | 2026-11-17 10:50 |
 | Rocket Lab Slides 4% as SpaceX Shares a $985 Million Launch Award: Are Cathie Wood and David Tepper  | Neutral | 2026-11-17 10:03 |
 | Rocket Lab Stock Is Down 62% But Not Cheap | Neutral | 2026-11-17 08:40 |
 | Planet Labs Has Shed 70% Over 6 Months: Two Highly Respected Wall Street Teams Expect Gains Exceedin | Neutral | 2026-11-17 07:45 |
 | Space Stocks Are Splitting: Select Launch and Satellite Names Buck the Sector Slump | Neutral | 2026-11-17 07:36 |
-| Rocket Lab’s $57 Share Price is a Highly Attractive Entry Point For Forward-Looking Bulls | Neutral | 2026-11-17 06:15 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $55.65 | 67% upside to mean PT $93.15 |
+| Strong Buy | $55.00 | 69% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 

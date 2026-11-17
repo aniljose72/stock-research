@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $140.92 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1912.8B
-- **P/E Ratio**: 612.35
+- **Current Price**: $141.24 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1918.3B
+- **P/E Ratio**: 614.11
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.6
-- **SMA20/SMA50**: $141.23 / $148.44
-- **Bollinger Bands**: $126.95 - $155.50 (Width: 20.2%, %B: 0.489)
+- **RSI**: 46.9
+- **SMA20/SMA50**: $141.25 / $148.45
+- **Bollinger Bands**: $126.97 - $155.52 (Width: 20.2%, %B: 0.500)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 47 - Neutral
-- BB: $126.95 - $155.50 (Width: 20.2%)
-- %B: 0.49 - Middle range
+- BB: $126.97 - $155.52 (Width: 20.2%)
+- %B: 0.50 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Rocket Lab Slides 4% as SpaceX Shares a $985 Million Launch Award: Are Cathie Wood and David Tepper  | Neutral | 2026-11-17 10:03 |
-| SpaceX, Rivals Win $985 Million In Launch Awards. Cathie Wood, David Tepper Shift Space Holdings. | Neutral | 2026-11-17 09:52 |
-| SpaceX Data Center Push Meets Texas, Arizona Politics | Neutral | 2026-11-17 09:46 |
-| Jensen Huang holds 3.6% of Nvidia’s votes, so his board could show him the door. Musk and Zuckerberg | Neutral | 2026-11-17 09:35 |
-| SpaceX Is Now Nvidia’s Top Holding After It Cut Its Intel and Nokia Stakes | Neutral | 2026-11-17 09:12 |
+| SPCX Stock In Focus: SpaceX To Reportedly Launch $4B Bond Sale This Week | Neutral | 2026-11-17 12:07 |
+| Intel Stock Slips as Nvidia Sells a Quarter of Its Stake | Neutral | 2026-11-17 11:55 |
+| Top Bank Slashes Dell Stock Price Target by 30% Ahead of Earnings | Neutral | 2026-11-17 11:49 |
+| Cathie Wood's Nvidia Move Breaks From a Quarter of Heavy Buying | Neutral | 2026-11-17 11:45 |
+| Nvidia Dumps 25% of Its Intel Stake as SpaceX Becomes Its Biggest Investment | Neutral | 2026-11-17 11:44 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $140.92 | 83% upside to mean PT $257.50 |
+| Strong Buy | $141.24 | 82% upside to mean PT $257.50 |
 
 > **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 

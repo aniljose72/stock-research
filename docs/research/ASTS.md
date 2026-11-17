@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $27.88 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $10.9B
+- **Current Price**: $27.59 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $10.8B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.01 - $133.86
-- **RSI**: 30.4
-- **SMA20/SMA50**: $36.48 / $48.26
-- **Bollinger Bands**: $27.38 - $45.58 (Width: 49.9%, %B: 0.027)
+- **RSI**: 30.2
+- **SMA20/SMA50**: $36.47 / $48.26
+- **Bollinger Bands**: $27.31 - $45.62 (Width: 50.2%, %B: 0.015)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,8 +33,8 @@ tags: [ASTS, Finance, Analysis]
 
 ## Technical Notes
 - RSI 30 - Neutral
-- BB: $27.38 - $45.58 (Width: 49.9%)
-- %B: 0.03 - Near lower band
+- BB: $27.31 - $45.62 (Width: 50.2%)
+- %B: 0.01 - Near lower band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $27.88 | 127% upside to mean PT $63.35 |
+| Strong Buy | $27.59 | 130% upside to mean PT $63.35 |
 
 > **Consensus**: Mean PT: $63.35; Median PT: $51.85; Analysts leaning bullish
 
