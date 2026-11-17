@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $57.50 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $38.7B
+- **Current Price**: $57.37 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $38.6B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 49.1
+- **RSI**: 49.0
 - **SMA20/SMA50**: $56.08 / $62.33
-- **Bollinger Bands**: $45.95 - $66.22 (Width: 36.1%, %B: 0.570)
+- **Bollinger Bands**: $45.95 - $66.21 (Width: 36.1%, %B: 0.564)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 49 - Neutral
-- BB: $45.95 - $66.22 (Width: 36.1%)
-- %B: 0.57 - Middle range
+- BB: $45.95 - $66.21 (Width: 36.1%)
+- %B: 0.56 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Musk Plans Next Starship After Flight 15 Catch. ULA Loses Amazon Payload. | Neutral | 2026-11-16 11:45 |
-| Cathie Wood Adds Nvidia Stock Before Earnings While Selling Palantir | Neutral | 2026-11-16 11:43 |
-| Is KTOS Expanding Its Role in Next-Generation Defense Technologies? | Neutral | 2026-11-16 11:09 |
-| Rocket Lab Doesn’t Have to Become the Next SpaceX. Here’s What It Does Have to Deliver. | Neutral | 2026-11-16 11:05 |
-| AST SpaceMobile Drops 7% as Tech Selloff Hits Space Stocks; Rocket Lab Falls 4%, SpaceX Dips Despite | Neutral | 2026-11-16 11:02 |
+| Rocket Lab Says Adjusted EBITDA Turns Positive Within 6 Months of Neutron’s First Flight. Here’s the | Neutral | 2026-11-17 05:52 |
+| Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030 | Neutral | 2026-11-17 05:35 |
+| A 100 Reason to Buy Rocket Lab Stock Right Now | Neutral | 2026-11-17 05:09 |
+| Amazon Lost 40 Leo Satellites as Launch Stays “Extremely Constrained.” That Widens SpaceX’s Lead | Neutral | 2026-11-17 01:50 |
+| Why Catching SpaceX Is Getting Harder: Analyst Calls AST’s 2-Year Rocket Plan ‘Totally Unrealistic’, | Neutral | 2026-11-17 01:45 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $57.50 | 62% upside to mean PT $93.15 |
+| Strong Buy | $57.37 | 62% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 

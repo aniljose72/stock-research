@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $28.65 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $11.2B
+- **Current Price**: $28.58 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $11.1B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $27.58 - $133.86
 - **RSI**: 31.7
-- **SMA20/SMA50**: $37.15 / $49.03
-- **Bollinger Bands**: $28.80 - $45.49 (Width: 44.9%, %B: -0.009)
+- **SMA20/SMA50**: $37.14 / $49.03
+- **Bollinger Bands**: $28.78 - $45.50 (Width: 45.0%, %B: -0.012)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,7 +33,7 @@ tags: [ASTS, Finance, Analysis]
 
 ## Technical Notes
 - RSI 32 - Neutral
-- BB: $28.80 - $45.49 (Width: 44.9%)
+- BB: $28.78 - $45.50 (Width: 45.0%)
 - %B: -0.01 - Near lower band
 - SMA20 < SMA50 (Bearish)
 
@@ -41,11 +41,11 @@ tags: [ASTS, Finance, Analysis]
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Stock Market Today: Jensen Huang Eyes a Comeback as Nvidia Closes Its Worst Week Since April 2025 | Neutral | 2026-11-16 07:22 |
-| ASTS, RKLB, LUNR And FLY Fall After ULA Rocket Failure Strands 40 Amazon Satellites — Why One Analys | Neutral | 2026-11-15 23:58 |
-| Can AT&T (T) Turn Satellite Handoffs Into A Real Wireless Edge? | Neutral | 2026-11-15 17:21 |
-| Dear AST SpaceMobile Stock Fans, Mark Your Calendars for November 17 | Neutral | 2026-11-15 14:09 |
-| Firefly Aerospace vs. Redwire: Which Industrials Stock Is a Better Buy for 2027? | Neutral | 2026-11-14 10:20 |
+| Why Catching SpaceX Is Getting Harder: Analyst Calls AST’s 2-Year Rocket Plan ‘Totally Unrealistic’, | Neutral | 2026-11-17 01:45 |
+| What Is AST SpaceMobile (ASTS) Building With Its $1 Billion Japan Venture? | Neutral | 2026-11-16 21:11 |
+| AST SpaceMobile (ASTS) Takes a Beating. Here’s What Happened | Neutral | 2026-11-16 20:03 |
+| Rocket Lab Sinks 7%, AST SpaceMobile Down 12% as Tech Selloff and Vulcan Failure Hit Space Stocks | Neutral | 2026-11-16 15:22 |
+| AST SpaceMobile: Is the Stock a No-Brainer Buy at $30? | Neutral | 2026-11-16 12:17 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $28.65 | 121% upside to mean PT $63.35 |
+| Strong Buy | $28.58 | 122% upside to mean PT $63.35 |
 
 > **Consensus**: Mean PT: $63.35; Median PT: $51.85; Analysts leaning bullish
 

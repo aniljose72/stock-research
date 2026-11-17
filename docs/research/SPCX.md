@@ -8,44 +8,44 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $138.98 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1887.5B
-- **P/E Ratio**: 604.26
+- **Current Price**: $137.36 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1865.5B
+- **P/E Ratio**: 597.22
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 42.3
-- **SMA20/SMA50**: $141.65 / $148.73
-- **Bollinger Bands**: $127.16 - $156.15 (Width: 20.5%, %B: 0.408)
+- **RSI**: 41.2
+- **SMA20/SMA50**: $141.57 / $148.69
+- **Bollinger Bands**: $127.00 - $156.15 (Width: 20.6%, %B: 0.355)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
 - **Bull Case**: Monitor news flow
 - **Bear Case**: Monitor risk factors
-- **Consensus**: Mean PT: $255.63; Median PT: $240.00; Analysts leaning bullish
+- **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 
 ---
 
 ## Analyst Targets
-- **Mean Target**: $255.63 (2026-11-07 16:52:22 UTC-05:00)
+- **Mean Target**: $257.50 (2026-11-07 16:52:22 UTC-05:00)
 - **High/Low**: $800.00 / $70.00
 - **Ratings**: Strong Buy: 8, Buy: 24, Hold: 6, Sell: 2, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 42 - Neutral
-- BB: $127.16 - $156.15 (Width: 20.5%)
-- %B: 0.41 - Middle range
+- RSI 41 - Neutral
+- BB: $127.00 - $156.15 (Width: 20.6%)
+- %B: 0.35 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? | Neutral | 2026-11-16 14:00 |
-| Sinch (OM:SINCH) Could Be 7% Undervalued As AI Partnerships Draw Attention | Neutral | 2026-11-16 13:17 |
-| Michael Burry Hints At Bigger Nvidia Asia ‘Reveal’ As Jensen Huang’s ‘Deer In The Headlights’ Dig At | Neutral | 2026-11-16 13:00 |
-| AST SpaceMobile: Is the Stock a No-Brainer Buy at $30? | Neutral | 2026-11-16 12:17 |
-| Elon Musk calls out Jeff Bezos over SpaceX rivals | Neutral | 2026-11-16 12:07 |
+| SpaceX just caught a spaceship out of the sky | Neutral | 2026-11-17 06:00 |
+| Billionaire David Tepper Dumps AMD Stock, Makes $172 Million Bet on Oracle | Neutral | 2026-11-17 05:56 |
+| Rocket Lab Says Adjusted EBITDA Turns Positive Within 6 Months of Neutron’s First Flight. Here’s the | Neutral | 2026-11-17 05:52 |
+| Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030 | Neutral | 2026-11-17 05:35 |
+| Nvidia Board Reportedly Rules Out Jensen Huang Return Despite Growing Support Campaign | Neutral | 2026-11-17 05:24 |
 
 ## Recent SEC Filings
 
@@ -59,9 +59,9 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $138.98 | 84% upside to mean PT $255.63 |
+| Strong Buy | $137.36 | 87% upside to mean PT $257.50 |
 
-> **Consensus**: Mean PT: $255.63; Median PT: $240.00; Analysts leaning bullish
+> **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 
 ---
 
