@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $140.47 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1907.7B
-- **P/E Ratio**: 610.72
+- **Current Price**: $140.92 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1912.8B
+- **P/E Ratio**: 612.35
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.3
-- **SMA20/SMA50**: $141.21 / $148.43
-- **Bollinger Bands**: $126.93 - $155.49 (Width: 20.2%, %B: 0.474)
+- **RSI**: 46.6
+- **SMA20/SMA50**: $141.23 / $148.44
+- **Bollinger Bands**: $126.95 - $155.50 (Width: 20.2%, %B: 0.489)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 46 - Neutral
-- BB: $126.93 - $155.49 (Width: 20.2%)
-- %B: 0.47 - Middle range
+- RSI 47 - Neutral
+- BB: $126.95 - $155.50 (Width: 20.2%)
+- %B: 0.49 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Planet Labs Has Shed 70% Over 6 Months: Two Highly Respected Wall Street Teams Expect Gains Exceedin | Neutral | 2026-11-17 07:45 |
-| AI, Innovation and Optimism Take Center Stage at Baron Capital's 33rd Annual Investment Conference | Neutral | 2026-11-17 07:30 |
-| Momentus to Fly NASA Payloads on Vigoride-8 Spacecraft During Bandwagon-6 Rideshare Mission with Spa | Neutral | 2026-11-17 07:00 |
-| Premarket movers: Nvidia, Red Cat fall; Home Depot, SpaceX gains | Neutral | 2026-11-17 06:48 |
-| Anthropic IPO Frenzy: SPCX, CBRS, ARM And Other Mega-Listings Show What Happens After The First-Day  | Neutral | 2026-11-17 06:48 |
+| Rocket Lab Slides 4% as SpaceX Shares a $985 Million Launch Award: Are Cathie Wood and David Tepper  | Neutral | 2026-11-17 10:03 |
+| SpaceX, Rivals Win $985 Million In Launch Awards. Cathie Wood, David Tepper Shift Space Holdings. | Neutral | 2026-11-17 09:52 |
+| SpaceX Data Center Push Meets Texas, Arizona Politics | Neutral | 2026-11-17 09:46 |
+| Jensen Huang holds 3.6% of Nvidia’s votes, so his board could show him the door. Musk and Zuckerberg | Neutral | 2026-11-17 09:35 |
+| SpaceX Is Now Nvidia’s Top Holding After It Cut Its Intel and Nokia Stakes | Neutral | 2026-11-17 09:12 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $140.47 | 83% upside to mean PT $257.50 |
+| Strong Buy | $140.92 | 83% upside to mean PT $257.50 |
 
 > **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 

@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $55.51 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $37.4B
+- **Current Price**: $55.65 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $37.5B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 46.9
-- **SMA20/SMA50**: $56.31 / $62.12
-- **Bollinger Bands**: $46.47 - $66.15 (Width: 35.0%, %B: 0.459)
+- **RSI**: 47.0
+- **SMA20/SMA50**: $56.32 / $62.12
+- **Bollinger Bands**: $46.48 - $66.15 (Width: 34.9%, %B: 0.466)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 47 - Neutral
-- BB: $46.47 - $66.15 (Width: 35.0%)
-- %B: 0.46 - Middle range
+- BB: $46.48 - $66.15 (Width: 34.9%)
+- %B: 0.47 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| Rocket Lab Slides 4% as SpaceX Shares a $985 Million Launch Award: Are Cathie Wood and David Tepper  | Neutral | 2026-11-17 10:03 |
+| Rocket Lab Stock Is Down 62% But Not Cheap | Neutral | 2026-11-17 08:40 |
 | Planet Labs Has Shed 70% Over 6 Months: Two Highly Respected Wall Street Teams Expect Gains Exceedin | Neutral | 2026-11-17 07:45 |
 | Space Stocks Are Splitting: Select Launch and Satellite Names Buck the Sector Slump | Neutral | 2026-11-17 07:36 |
 | Rocket Lab’s $57 Share Price is a Highly Attractive Entry Point For Forward-Looking Bulls | Neutral | 2026-11-17 06:15 |
-| Rocket Lab Says Adjusted EBITDA Turns Positive Within 6 Months of Neutron’s First Flight. Here’s the | Neutral | 2026-11-17 05:52 |
-| Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030 | Neutral | 2026-11-17 05:35 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $55.51 | 68% upside to mean PT $93.15 |
+| Strong Buy | $55.65 | 67% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 
