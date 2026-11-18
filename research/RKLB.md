@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $54.77 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $36.9B
+- **Current Price**: $54.24 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $36.5B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 45.6
-- **SMA20/SMA50**: $56.34 / $61.95
-- **Bollinger Bands**: $46.54 - $66.14 (Width: 34.8%, %B: 0.420)
+- **RSI**: 45.1
+- **SMA20/SMA50**: $56.31 / $61.94
+- **Bollinger Bands**: $46.49 - $66.14 (Width: 34.9%, %B: 0.394)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 46 - Neutral
-- BB: $46.54 - $66.14 (Width: 34.8%)
-- %B: 0.42 - Middle range
+- RSI 45 - Neutral
+- BB: $46.49 - $66.14 (Width: 34.9%)
+- %B: 0.39 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Very Hard Stock to Own’; SpaceX Rises 3%, Rock | Neutral | 2026-11-18 09:57 |
 | There Are 8 Billion Reasons to Buy Rocket Lab At $50 | Neutral | 2026-11-18 07:45 |
 | Can Kratos' Offshore Launch Agreement Expand Its Mission Flexibility? | Neutral | 2026-11-18 06:13 |
 | Is Rocket Lab (RKLB) Fully Priced Following Its 100th Electron Mission? | Neutral | 2026-11-18 04:14 |
 | AST SpaceMobile Sinks 18% in a Week to a 52-Week Low. Jim Cramer: “A Very Hard Stock to Own” | Neutral | 2026-11-17 20:50 |
-| Rocket Lab's Stock Price Keeps Falling While Its Revenue and Backlog Keep Growing. Which Trend Shoul | Neutral | 2026-11-17 10:50 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $54.77 | 70% upside to mean PT $93.15 |
+| Strong Buy | $54.24 | 72% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 

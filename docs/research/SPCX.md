@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $146.15 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1984.7B
-- **P/E Ratio**: 635.39
+- **Current Price**: $145.08 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1970.3B
+- **P/E Ratio**: 630.78
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 51.7
-- **SMA20/SMA50**: $140.61 / $148.43
-- **Bollinger Bands**: $128.84 - $152.38 (Width: 16.7%, %B: 0.735)
+- **RSI**: 50.9
+- **SMA20/SMA50**: $140.56 / $148.41
+- **Bollinger Bands**: $128.89 - $152.23 (Width: 16.6%, %B: 0.694)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 52 - Neutral
-- BB: $128.84 - $152.38 (Width: 16.7%)
-- %B: 0.73 - Middle range
+- RSI 51 - Neutral
+- BB: $128.89 - $152.23 (Width: 16.6%)
+- %B: 0.69 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Anthropic Will Pay SpaceX Up to $120.5 Billion for Compute Through 2029. That's More Than SpaceX Rai | Neutral | 2026-11-18 08:05 |
-| Why the Anthropic IPO could be a trap for investors | Neutral | 2026-11-18 07:55 |
-| ECB sounds alarm on AI ahead of Anthropic’s $1.4tn listing | Neutral | 2026-11-18 07:28 |
-| Nvidia Chaos Is the Perfect Setup for Anthropic IPO | Neutral | 2026-11-18 06:41 |
-| Investors ‘Overwhelmingly Bullish’ On Anthropic’s AI Position, Says William Blair — Sees Valuation B | Neutral | 2026-11-18 06:25 |
+| AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Very Hard Stock to Own’; SpaceX Rises 3%, Rock | Neutral | 2026-11-18 09:57 |
+| Coinbase Says AI Defenses Blocked $4.7M in Elon Musk Deepfake Crypto Scam | Neutral | 2026-11-18 09:53 |
+| Democrats Swept Congress. Could Elon Musk’s SpaceX Be Nationalized After the 2028 Election? | Neutral | 2026-11-18 09:48 |
+| A $5.9 Billion Fund Dumps These 3 Stocks | Neutral | 2026-11-18 09:41 |
+| Is Anthropic Worth $1.4 Trillion? Here's What Investors Have to Believe | Neutral | 2026-11-18 09:30 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $146.15 | 76% upside to mean PT $257.50 |
+| Strong Buy | $145.08 | 77% upside to mean PT $257.50 |
 
 > **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 
