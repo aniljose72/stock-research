@@ -41,11 +41,11 @@ tags: [ASTS, Finance, Analysis]
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Jim Cramer Sees A Bargain In Wells Fargo, But These 4 Stocks Are 'Hard To Own' | Neutral | 2026-11-17 02:56 |
-| Why Catching SpaceX Is Getting Harder: Analyst Calls AST’s 2-Year Rocket Plan ‘Totally Unrealistic’, | Neutral | 2026-11-17 01:45 |
-| What Is AST SpaceMobile (ASTS) Building With Its $1 Billion Japan Venture? | Neutral | 2026-11-16 21:11 |
-| AST SpaceMobile (ASTS) Takes a Beating. Here’s What Happened | Neutral | 2026-11-16 20:03 |
-| Rocket Lab Sinks 7%, AST SpaceMobile Down 12% as Tech Selloff and Vulcan Failure Hit Space Stocks | Neutral | 2026-11-16 15:22 |
+| Firefly: 3 Key Takeaways for Long-Term Investors | Neutral | 2026-11-17 22:39 |
+| Why Did ASTS, NFLX, RCAT Stocks Plunge To 52-Week Lows Today? | Neutral | 2026-11-17 22:35 |
+| SpaceX Catches Starship While ULA, Blue Origin Stumble. No One Is Catching Musk. | Neutral | 2026-11-17 12:07 |
+| Rocket Lab Slides 4% as SpaceX Shares a $985 Million Launch Award: Are Cathie Wood and David Tepper  | Neutral | 2026-11-17 10:03 |
+| 2 Great Space Stocks Team Up on a $1.3 Billion Deal to Beat SpaceX at Satellite Internet | Neutral | 2026-11-17 04:01 |
 
 ## Recent SEC Filings
 

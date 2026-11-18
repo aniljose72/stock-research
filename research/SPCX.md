@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $141.24 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1918.3B
-- **P/E Ratio**: 614.11
+- **Current Price**: $141.70 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1924.4B
+- **P/E Ratio**: 616.09
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 46.9
-- **SMA20/SMA50**: $141.25 / $148.45
-- **Bollinger Bands**: $126.97 - $155.52 (Width: 20.2%, %B: 0.500)
+- **RSI**: 47.3
+- **SMA20/SMA50**: $141.27 / $148.46
+- **Bollinger Bands**: $126.99 - $155.55 (Width: 20.2%, %B: 0.515)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 47 - Neutral
-- BB: $126.97 - $155.52 (Width: 20.2%)
-- %B: 0.50 - Middle range
+- BB: $126.99 - $155.55 (Width: 20.2%)
+- %B: 0.52 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| SPCX Stock In Focus: SpaceX To Reportedly Launch $4B Bond Sale This Week | Neutral | 2026-11-17 12:07 |
-| Intel Stock Slips as Nvidia Sells a Quarter of Its Stake | Neutral | 2026-11-17 11:55 |
-| Top Bank Slashes Dell Stock Price Target by 30% Ahead of Earnings | Neutral | 2026-11-17 11:49 |
-| Cathie Wood's Nvidia Move Breaks From a Quarter of Heavy Buying | Neutral | 2026-11-17 11:45 |
-| Nvidia Dumps 25% of Its Intel Stake as SpaceX Becomes Its Biggest Investment | Neutral | 2026-11-17 11:44 |
+| Anthropic IPO Generates Strong Wall Street Interest Despite Selloff in AI Stocks | Neutral | 2026-11-18 05:40 |
+| SpaceX Wants $4 Billion From Investors to Help Buy Nvidia's Powerful AI Chips | Neutral | 2026-11-18 05:19 |
+| SpaceX Makes Massive $40 Billion AI Bet as Nvidia Reports Record Earnings | Neutral | 2026-11-18 05:16 |
+| Prediction: $200 a Month Invested in SpaceX Could Be Worth This Much by 2035 | Neutral | 2026-11-18 05:05 |
+| Could SpaceX Actually Climb 465%? Or Is Raymond James Totally Wrong? | Neutral | 2026-11-18 04:22 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $141.24 | 82% upside to mean PT $257.50 |
+| Strong Buy | $141.70 | 82% upside to mean PT $257.50 |
 
 > **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 
