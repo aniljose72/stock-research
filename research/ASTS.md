@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $27.59 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $10.8B
+- **Current Price**: $26.69 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $10.4B
 - **P/E Ratio**: N/A
-- **52-Week Range**: $27.01 - $133.86
-- **RSI**: 30.2
-- **SMA20/SMA50**: $36.47 / $48.26
-- **Bollinger Bands**: $27.31 - $45.62 (Width: 50.2%, %B: 0.015)
+- **52-Week Range**: $26.18 - $133.86
+- **RSI**: 28.0
+- **SMA20/SMA50**: $35.75 / $47.54
+- **Bollinger Bands**: $25.87 - $45.64 (Width: 55.3%, %B: 0.041)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [ASTS, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 30 - Neutral
-- BB: $27.31 - $45.62 (Width: 50.2%)
-- %B: 0.01 - Near lower band
+- RSI 28 - Oversold
+- BB: $25.87 - $45.64 (Width: 55.3%)
+- %B: 0.04 - Near lower band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| AST SpaceMobile Is 78% Below Its High and Pushed Its Launch Target to 2027. Here’s the Exact Price W | Neutral | 2026-11-18 05:25 |
+| Futures Climb As Nvidia Earnings Boost AI Trade — BABA, INTC, ASTS, CAPR In Focus | Neutral | 2026-11-18 04:19 |
+| AST SpaceMobile: Blacklift And The Launch Bottleneck (Rating Downgrade) | Neutral | 2026-11-18 02:46 |
 | Firefly: 3 Key Takeaways for Long-Term Investors | Neutral | 2026-11-17 22:39 |
 | Why Did ASTS, NFLX, RCAT Stocks Plunge To 52-Week Lows Today? | Neutral | 2026-11-17 22:35 |
-| SpaceX Catches Starship While ULA, Blue Origin Stumble. No One Is Catching Musk. | Neutral | 2026-11-17 12:07 |
-| Rocket Lab Slides 4% as SpaceX Shares a $985 Million Launch Award: Are Cathie Wood and David Tepper  | Neutral | 2026-11-17 10:03 |
-| 2 Great Space Stocks Team Up on a $1.3 Billion Deal to Beat SpaceX at Satellite Internet | Neutral | 2026-11-17 04:01 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $27.59 | 130% upside to mean PT $63.35 |
+| Strong Buy | $26.69 | 137% upside to mean PT $63.35 |
 
 > **Consensus**: Mean PT: $63.35; Median PT: $51.85; Analysts leaning bullish
 
