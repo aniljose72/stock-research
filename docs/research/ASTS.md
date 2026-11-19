@@ -8,13 +8,13 @@ tags: [ASTS, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $25.49 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $10.2B
+- **Current Price**: $26.73 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $10.7B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $25.16 - $133.86
-- **RSI**: 27.1
-- **SMA20/SMA50**: $35.70 / $47.52
-- **Bollinger Bands**: $25.57 - $45.82 (Width: 56.8%, %B: -0.004)
+- **RSI**: 31.1
+- **SMA20/SMA50**: $35.09 / $46.85
+- **Bollinger Bands**: $24.32 - $45.86 (Width: 61.4%, %B: 0.112)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [ASTS, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 27 - Oversold
-- BB: $25.57 - $45.82 (Width: 56.8%)
-- %B: -0.00 - Near lower band
+- RSI 31 - Neutral
+- BB: $24.32 - $45.86 (Width: 61.4%)
+- %B: 0.11 - Near lower band
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| AST SpaceMobile Stock Climbs After B. Riley Upgrade, Analyst Says Rocket Risk Is Priced In | Neutral | 2026-11-19 03:21 |
+| AST SpaceMobile: The Market May Have Gone Too Far | Neutral | 2026-11-19 03:13 |
+| 11 Communication Services Stocks Moving In Thursday's Pre-Market Session | Neutral | 2026-11-19 02:05 |
 | ASTS Stock Jumps Overnight Despite New Shares For Engines And Spectrum — Bulls Cheer ULA’s Amazon La | Neutral | 2026-11-18 23:57 |
 | AST SpaceMobile Sinks 8% as New Offering Filing Revives Dilution Fears | Neutral | 2026-11-18 15:42 |
-| AST SpaceMobile Just Touched a 52-Week Low. Will ASTS Stock Hit $20 or $40 First? | Neutral | 2026-11-18 13:02 |
-| Will 798 Million Unlocked SpaceX Shares on December 8 Swamp Starship’s Catch? | Neutral | 2026-11-18 12:38 |
-| AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Very Hard Stock to Own’; SpaceX Rises 3%, Rock | Neutral | 2026-11-18 09:57 |
 
 ## Recent SEC Filings
 
@@ -57,7 +57,7 @@ tags: [ASTS, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $25.49 | 149% upside to mean PT $63.35 |
+| Strong Buy | $26.73 | 137% upside to mean PT $63.35 |
 
 > **Consensus**: Mean PT: $63.35; Median PT: $51.85; Analysts leaning bullish
 

@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $53.07 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $35.7B
+- **Current Price**: $52.69 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $35.5B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 44.1
-- **SMA20/SMA50**: $56.26 / $61.91
-- **Bollinger Bands**: $46.37 - $66.14 (Width: 35.1%, %B: 0.339)
+- **RSI**: 47.8
+- **SMA20/SMA50**: $56.33 / $61.73
+- **Bollinger Bands**: $46.58 - $66.08 (Width: 34.6%, %B: 0.313)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 44 - Neutral
-- BB: $46.37 - $66.14 (Width: 35.1%)
-- %B: 0.34 - Middle range
+- RSI 48 - Neutral
+- BB: $46.58 - $66.08 (Width: 34.6%)
+- %B: 0.31 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| 4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla | Neutral | 2026-11-19 06:39 |
+| Jim Cramer: Rocket Lab Is 'Too Cheap,' Recommends Buying This Tech Stock | Neutral | 2026-11-19 02:31 |
 | RKLB Stock Rises Overnight: Jim Cramer Likes SpaceX But Calls Rocket Lab ‘Too Cheap’ — Electron Tops | Neutral | 2026-11-19 01:04 |
 | Top 3 Growth Stocks To Watch In November 2026 | Neutral | 2026-11-18 18:17 |
 | Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell | Neutral | 2026-11-18 16:30 |
-| AST SpaceMobile Just Touched a 52-Week Low. Will ASTS Stock Hit $20 or $40 First? | Neutral | 2026-11-18 13:02 |
-| Will 798 Million Unlocked SpaceX Shares on December 8 Swamp Starship’s Catch? | Neutral | 2026-11-18 12:38 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $53.07 | 76% upside to mean PT $93.15 |
+| Strong Buy | $52.69 | 77% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 
