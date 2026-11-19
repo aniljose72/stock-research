@@ -1,20 +1,20 @@
 ---
 title: "SPCX (SpaceX) Analysis"
-date: 2026-11-07 16:52:22 UTC-05:00
+date: 2026-11-19 13:00:20 UTC-05:00
 categories: [Research]
 tags: [SPCX, Finance, Analysis]
 ---
 
-> **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
+> **Created at**: 2026-11-19 13:00:20 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $137.09 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1861.8B
-- **P/E Ratio**: 596.04
+- **Current Price**: $136.35 (2026-11-19 13:00:20 UTC-05:00)
+- **Market Cap**: $1851.8B
+- **P/E Ratio**: 592.83
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 51.9
-- **SMA20/SMA50**: $140.09 / $148.15
-- **Bollinger Bands**: $128.62 - $151.57 (Width: 16.4%, %B: 0.369)
+- **RSI**: 51.3
+- **SMA20/SMA50**: $140.06 / $148.14
+- **Bollinger Bands**: $128.54 - $151.58 (Width: 16.4%, %B: 0.339)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -25,27 +25,27 @@ tags: [SPCX, Finance, Analysis]
 ---
 
 ## Analyst Targets
-- **Mean Target**: $257.50 (2026-11-07 16:52:22 UTC-05:00)
+- **Mean Target**: $257.50 (2026-11-19 13:00:20 UTC-05:00)
 - **High/Low**: $800.00 / $70.00
 - **Ratings**: Strong Buy: 8, Buy: 24, Hold: 6, Sell: 2, Strong Sell: 0
 
 ---
 
 ## Technical Notes
-- RSI 52 - Neutral
-- BB: $128.62 - $151.57 (Width: 16.4%)
-- %B: 0.37 - Middle range
+- RSI 51 - Neutral
+- BB: $128.54 - $151.58 (Width: 16.4%)
+- %B: 0.34 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Anthropic set to start trading after completing largest-ever IPO | Neutral | 2026-11-19 09:43 |
-| Elon Musk Says Tesla and SpaceX Would “Probably” Be Better Together | Neutral | 2026-11-19 09:32 |
-| 174-year-old American bank’s Bitcoin exposure nears Tesla and SpaceX | Neutral | 2026-11-19 09:30 |
-| Anthropic’s IPO leaves more than half of institutional bidders without shares | Neutral | 2026-11-19 09:29 |
-| Elon Musk on his $500M in political spending: 'I feel pretty foolish' | Neutral | 2026-11-19 09:11 |
+| Ripple CEO Blames Anthropic IPO for Crypto Selloff, Predicts Rally | Neutral | 2026-11-19 13:48 |
+| Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million | Neutral | 2026-11-19 13:46 |
+| ‘SpaceX Has Gone All In With Nvidia’: Nvidia’s Biggest Customer Is Also Its Biggest Stock Holding at | Neutral | 2026-11-19 13:42 |
+| Anthropic pulled off the biggest IPO ever. What that means, by the numbers | Neutral | 2026-11-19 13:37 |
+| Anthropic vs. SpaceX: How 2026's Two Biggest IPOs Stack Up. | Neutral | 2026-11-19 13:35 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $137.09 | 88% upside to mean PT $257.50 |
+| Strong Buy | $136.35 | 89% upside to mean PT $257.50 |
 
 > **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 
