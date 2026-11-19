@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $52.69 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $35.5B
+- **Current Price**: $51.46 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $34.6B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 47.8
-- **SMA20/SMA50**: $56.33 / $61.73
-- **Bollinger Bands**: $46.58 - $66.08 (Width: 34.6%, %B: 0.313)
+- **RSI**: 46.6
+- **SMA20/SMA50**: $56.27 / $61.70
+- **Bollinger Bands**: $46.41 - $66.13 (Width: 35.0%, %B: 0.256)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -32,20 +32,20 @@ tags: [RKLB, Finance, Analysis]
 ---
 
 ## Technical Notes
-- RSI 48 - Neutral
-- BB: $46.58 - $66.08 (Width: 34.6%)
-- %B: 0.31 - Middle range
+- RSI 47 - Neutral
+- BB: $46.41 - $66.13 (Width: 35.0%)
+- %B: 0.26 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| 4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla | Neutral | 2026-11-19 06:39 |
-| Jim Cramer: Rocket Lab Is 'Too Cheap,' Recommends Buying This Tech Stock | Neutral | 2026-11-19 02:31 |
-| RKLB Stock Rises Overnight: Jim Cramer Likes SpaceX But Calls Rocket Lab ‘Too Cheap’ — Electron Tops | Neutral | 2026-11-19 01:04 |
-| Top 3 Growth Stocks To Watch In November 2026 | Neutral | 2026-11-18 18:17 |
-| Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell | Neutral | 2026-11-18 16:30 |
+| Rocket Lab Sold Out Neutron Through the 2030s Before It Ever Flew. Here’s Why the Stock Fell After E | Neutral | 2026-11-19 09:05 |
+| Musk: SpaceX Has a “Monopoly” in Space. That’s Bad News for Amazon’s Leo. But Also Bad for SpaceX | Neutral | 2026-11-19 08:50 |
+| AST SpaceMobile Stock Has Fallen Far Enough, Analyst Says. He Sees Nearly 90% Upside. | Neutral | 2026-11-19 08:41 |
+| How Much Downside Is Left In Rocket Lab Stock? | Neutral | 2026-11-19 08:18 |
+| Redwire Climbs 4% on $15 Million AscendArc Solar Deal and Oppenheimer Initiation; AST SpaceMobile Ju | Neutral | 2026-11-19 08:10 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $52.69 | 77% upside to mean PT $93.15 |
+| Strong Buy | $51.46 | 81% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 
