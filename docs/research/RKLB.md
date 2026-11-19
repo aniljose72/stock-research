@@ -8,13 +8,13 @@ tags: [RKLB, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $53.34 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $35.9B
+- **Current Price**: $53.07 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $35.7B
 - **P/E Ratio**: N/A
 - **52-Week Range**: $37.57 - $151.00
-- **RSI**: 44.3
-- **SMA20/SMA50**: $56.27 / $61.92
-- **Bollinger Bands**: $46.40 - $66.14 (Width: 35.1%, %B: 0.352)
+- **RSI**: 44.1
+- **SMA20/SMA50**: $56.26 / $61.91
+- **Bollinger Bands**: $46.37 - $66.14 (Width: 35.1%, %B: 0.339)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,19 +33,19 @@ tags: [RKLB, Finance, Analysis]
 
 ## Technical Notes
 - RSI 44 - Neutral
-- BB: $46.40 - $66.14 (Width: 35.1%)
-- %B: 0.35 - Middle range
+- BB: $46.37 - $66.14 (Width: 35.1%)
+- %B: 0.34 - Middle range
 - SMA20 < SMA50 (Bearish)
 
 ## Key Catalysts
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
+| RKLB Stock Rises Overnight: Jim Cramer Likes SpaceX But Calls Rocket Lab ‘Too Cheap’ — Electron Tops | Neutral | 2026-11-19 01:04 |
+| Top 3 Growth Stocks To Watch In November 2026 | Neutral | 2026-11-18 18:17 |
+| Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell | Neutral | 2026-11-18 16:30 |
 | AST SpaceMobile Just Touched a 52-Week Low. Will ASTS Stock Hit $20 or $40 First? | Neutral | 2026-11-18 13:02 |
 | Will 798 Million Unlocked SpaceX Shares on December 8 Swamp Starship’s Catch? | Neutral | 2026-11-18 12:38 |
-| How To Structure Rocket Lab and Planet Labs as a Space Play Flywheel in a $40 Billion Addressable Ma | Neutral | 2026-11-18 11:45 |
-| AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Very Hard Stock to Own’; SpaceX Rises 3%, Rock | Neutral | 2026-11-18 09:57 |
-| There Are 8 Billion Reasons to Buy Rocket Lab At $50 | Neutral | 2026-11-18 07:45 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [RKLB, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $53.34 | 75% upside to mean PT $93.15 |
+| Strong Buy | $53.07 | 76% upside to mean PT $93.15 |
 
 > **Consensus**: Mean PT: $93.15; Median PT: $100.00; Analysts leaning bullish
 

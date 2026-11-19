@@ -8,13 +8,13 @@ tags: [SPCX, Finance, Analysis]
 > **Created at**: 2026-11-07 16:52:22 UTC-05:00 (US Central Time)
 
 ## Current Price & Key Metrics
-- **Current Price**: $143.40 (2026-11-07 16:52:22 UTC-05:00)
-- **Market Cap**: $1947.5B
-- **P/E Ratio**: 623.46
+- **Current Price**: $143.50 (2026-11-07 16:52:22 UTC-05:00)
+- **Market Cap**: $1948.9B
+- **P/E Ratio**: 623.91
 - **52-Week Range**: $104.83 - $225.64
-- **RSI**: 49.6
-- **SMA20/SMA50**: $140.47 / $148.37
-- **Bollinger Bands**: $128.92 - $152.03 (Width: 16.5%, %B: 0.626)
+- **RSI**: 49.7
+- **SMA20/SMA50**: $140.48 / $148.38
+- **Bollinger Bands**: $128.91 - $152.04 (Width: 16.5%, %B: 0.631)
 
 ## X/Twitter Sentiment & Key Discussions
 - **Estimated 24h Mentions**: 0
@@ -33,7 +33,7 @@ tags: [SPCX, Finance, Analysis]
 
 ## Technical Notes
 - RSI 50 - Neutral
-- BB: $128.92 - $152.03 (Width: 16.5%)
+- BB: $128.91 - $152.04 (Width: 16.5%)
 - %B: 0.63 - Middle range
 - SMA20 < SMA50 (Bearish)
 
@@ -41,11 +41,11 @@ tags: [SPCX, Finance, Analysis]
 
 | Event | Impact | Timeline |
 |-------|--------|----------|
-| Why potential Anthropic investors might want to consider a 'wait-and-see' approach | Neutral | 2026-11-18 13:16 |
-| Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets | Neutral | 2026-11-18 13:11 |
-| AST SpaceMobile Just Touched a 52-Week Low. Will ASTS Stock Hit $20 or $40 First? | Neutral | 2026-11-18 13:02 |
-| Ellison confirms Musk invested roughly $1 billion in Skydance | Neutral | 2026-11-18 12:58 |
-| Will 798 Million Unlocked SpaceX Shares on December 8 Swamp Starship’s Catch? | Neutral | 2026-11-18 12:38 |
+| Dow Jones Futures Rise, Techs Jump 2%: Anthropic To Debut After Strong IPO; Palo Alto, Everpure Rall | Neutral | 2026-11-19 06:00 |
+| Anthropic's $81 Billion IPO Could Make Early Investors Billions. Retail Buyers Face A Different Bet. | Neutral | 2026-11-19 05:58 |
+| Anthropic raises $81.3bn in biggest IPO on record | Neutral | 2026-11-19 05:45 |
+| Jim Cramer Isn't Buying SpaceX Stock Yet. Cathie Wood Keeps Buying. Here’s Who’s Right. | Neutral | 2026-11-19 05:35 |
+| Anthropic Targets $81.3 Billion Capital Raise in Biggest IPO Ever | Neutral | 2026-11-19 05:34 |
 
 ## Recent SEC Filings
 
@@ -59,7 +59,7 @@ tags: [SPCX, Finance, Analysis]
 
 | Action | Price Range | Rationale |
 |--------|-------------|-----------|
-| Strong Buy | $143.40 | 80% upside to mean PT $257.50 |
+| Strong Buy | $143.50 | 79% upside to mean PT $257.50 |
 
 > **Consensus**: Mean PT: $257.50; Median PT: $250.00; Analysts leaning bullish
 
